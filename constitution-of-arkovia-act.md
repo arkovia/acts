@@ -1,4 +1,4 @@
-# Act: Constitution of Arkovia
+# Constitution of Arkovia Act
 `Version 1.0.1`
 
 ## Preamble
