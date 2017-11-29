@@ -106,4 +106,4 @@ The acts with protection are listed below:
 - Human Rights Act
 #### 
 ## Declaration
-The **CTC** formally accepts this Act
+The **CTC** formally accepts this act as law of the country
