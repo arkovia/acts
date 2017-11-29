@@ -98,6 +98,12 @@ The Arkovian Government will set up Government Entities, for various delegated r
 - Border III: Point C to Point D through Coast
 - Border IV: Point D to Point A
 
+### Section 5: Protected Acts
+#### Segment 1: Changes to Protected Acts
+Changes to the protected acts must be treated as constitutional ammendments
+#### Segment 2: Acts
+The acts with protection are listed below:
+- Human Rights Act
 #### 
 ## Declaration
 The **CTC** formally accepts this Act
