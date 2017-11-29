@@ -4,6 +4,14 @@ Version 1.0.1
 The purpose of this act is to set up and conserve the compulsory human rights.
 
 ## Section 0: Interpretation and Definitions
+### Segment 1: Interpretation
+All questions and interpretations of this document shall be decided by the CTC
+### Segment 2: Definition
+#### Mature Age
+16
+
+#### Adult Age
+18
 
 ## Section 1: Rights
 
@@ -56,6 +64,9 @@ Everyone has the right to education. Education shall be free, at least in the fu
 
 ### Segment 16
 Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific advancement and its benefits.
+
+### Segment 17
+No person above adult age unless older by less than 2 years of the mature aged person should form any intimate relationships them.
 
 ## Declaration
 
