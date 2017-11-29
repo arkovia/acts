@@ -1,4 +1,4 @@
-# Act: Human Rights
+# Human Rights Act
 Version 1.0.1
 ## Preample
 The purpose of this act is to set up and conserve the compulsory human rights.
