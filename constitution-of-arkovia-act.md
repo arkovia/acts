@@ -67,12 +67,12 @@ Gen's naturally retain the power to casting votes in even vote results.
 
 They receive powers in state emergencies, described in *Segment 7: State Emergencies*
 
-#### Segment 6: Council Powers
+#### Segment 5: Council Powers
 The Council has dictorial powers over the country.
 
 Changes of power in the Council are described in *Segment 7: State Emergencies* 
 
-#### Segment 7: State Emergenices
+#### Segment 6: State Emergenices
 
 State Emergencies can be triggered by a vote in the Council, where 75% of the Council must vote-for. If the proposal is accepted, the Gen Receives full dictatorial control over the entire nation and it's military.
 
@@ -82,10 +82,10 @@ If a state emergency lasts more than the Gen's term, the Gen continues their pos
 
 If a Gen dies during state emergency, an emergency re-election is held.
 
-#### Segment 8: Gen Term Length
+#### Segment 7: Gen Term Length
 The term of each council president is 4 years unless a majority vote inside the group agrees to extend the current council presidents term, however the current council president must not participate in the vote. When the votes are equal, the proposal shall pass in the negative.
 
-#### Segment 9: Ammendments to this section
+#### Segment 7: Ammendments to this section
 Changes to this section are immune to amendments. All changes regarding this Section must be decided by the Council. If the Council decides to amend a section, at-least 75% of the omegas must vote-for
 
 ### Section 2: Direct Democracy
