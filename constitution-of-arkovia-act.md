@@ -1,7 +1,7 @@
 # Constitution of Arkovia Act
-`Version 1.0.1`
+`Version 1.0.2`
 
-## Preamble
+## Introduction
 We, the citizens of this government, choose to establish this constitution, to advance the technological progression of our country and put aside dogma in place of a pragmatic approach to politics.
 
 ## Sections
@@ -33,6 +33,27 @@ The CTC can enact instant emergency changes to the constitution to protect the s
 Arkovia will implement a government that consists of 2 parts, the CTC and the Direct Democracy
 
 #### Segment 2: Cyclic Technocratic Council
+#### Introduction
+The Council is a seperate source of power in Arkovia. It's responsible for
+- Maintaining stability of the nation
+- Delegating Power to Government Organisaitons
+- Electing Government Organisation Leaders
+- Leading the Nation towards it's vision
+
+#### Council Membership
+
+The Council must maintain at minimum 8 Omegas, including the Gen
+
+If the membership falls to 4-8, the current Omegas will recruit new Omegas, with each new potential recruit being voted in by atleast 50% + 1
+
+If the membership falls to 0-4, the Direct Democracy holds a vote on whether to continue the Council, with the old + new Direct Democratically elected omegas OR whether
+
+The council elects a new president every 4 years, each council member is awarded a vote, if results are even, the previous president is awarded a casting vote
+
+the president must be a member of the council
+
+the council can may hold an emergency vote without the presence of the president to remove their position, at least 75% of the council members must vote-for.
+
 The first component in our power structure is the CTC, described below:
 
 ##### Function
@@ -98,12 +119,13 @@ The Arkovian Government will set up Government Entities, for various delegated r
 - Border III: Point C to Point D through Coast
 - Border IV: Point D to Point A
 
+### Acts
 ### Section 5: Protected Acts
 #### Segment 1: Changes to Protected Acts
 Changes to the protected acts must be treated as constitutional ammendments
 #### Segment 2: Acts
 The acts with protection are listed below:
 - Human Rights Act
-#### 
+
 ## Declaration
 The **CTC** formally accepts this act as law of the country
