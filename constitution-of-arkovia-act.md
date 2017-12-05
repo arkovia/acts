@@ -135,7 +135,7 @@ A `National Goverment Organisation` (NGO) is a form of state owned organisations
 - Create organisaitons to maintain stability of the nation
 - Create organisations that aim to improve the standard of the nation and it's citzens
 
-The Omega Council will set up the first initial *`Arkovia NGO`* which will own itself and all future NGOs. Board members of the NGOs are selected by the Omega Council or the Direct Democracy. The Omega Council has the power to over-ride and elect new NGO board members immediately
+The Omega Council will set up the first initial NGO; The *`Arkovia NGO`* which will own itself and all future NGOs. Board members of the NGOs are selected by the Omega Council or the Direct Democracy. The Omega Council has the power to over-ride and elect new NGO board members immediately
  
 ### Section 5: Land Claim
 #### Segment 1: Landmarks
@@ -151,4 +151,4 @@ The Omega Council will set up the first initial *`Arkovia NGO`* which will own i
 - Border IV: Point D to Point A
 
 ## Declaration
-The **`Omega Council`** formally accepts this act as a recognised act of the Nation
+The **Omega Council** formally accepts this act as a recognised act of the Nation
