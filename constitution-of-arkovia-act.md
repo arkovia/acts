@@ -1,5 +1,5 @@
 # Constitution of Arkovia Act
-`Version 1.0.2`
+`Version 1.0.3`
 
 ## Introduction
 We, the citizens of this government, choose to establish this constitution, to advance the technological progression of our country and put aside dogma in place of a pragmatic approach to politics.
@@ -46,6 +46,11 @@ Membership must only consist of Omegas who are not motivated by self-interest, r
 ##### Article 1: Death of an Omega
 Omegas may choose a rightful heir to take their position in the case of death. A gen's rank cannot be given away, and must follow the Gen Election protocol.
 
+If the Omega Council's Membership drops below 8, and there are no rightful heirs to replace their postion, new omegas must be voted in, through this process:
+
+- If the membership falls to 6-8, the current Omegas will recruit new Omegas as soon as possible.
+- If the membership falls to 0-6, the Direct Democracy will hold a compulsory vote to elect more omegas to join the council.
+
 ##### Article 2: Recruitment
 Recruitment Process:
 
@@ -53,11 +58,8 @@ Recruitment Process:
 - Hold a vote for Membership in the Council
 - If results are even, the president is awarded a casting vote
 
-##### Article 3: Membership Reduction
-If the Omega Council's Membership drops below 8, and there are no rightful heirs to replace their postion, new omegas must be voted in, through this process:
-
-- If the membership falls to 6-8, the current Omegas will recruit new Omegas as soon as possible.
-- If the membership falls to 0-6, the Direct Democracy will hold a compulsory vote to elect more omegas to join the council.
+##### Article 3: Membership Removal Vote
+On the basis that a removal of an Omega won't reduce the minimum Omega requirement, Omegas may have a removal vote, where 60% of the Omegas must vote-for to remove the Omega.
 
 #### Segment 3: Council Gen Election
 Each new Council Gen is elected by a vote. Omegas must not vote for themselves. If the vote is equal, the current Council Gen is granted the right to a casting vote on the even Canidates.
