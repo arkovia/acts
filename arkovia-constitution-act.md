@@ -1,4 +1,4 @@
-# Constitution of Arkovia Act
+# Arkovia Constitution Act
 `Version 1.0.3`
 
 ## Introduction
