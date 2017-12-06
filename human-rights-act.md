@@ -69,5 +69,4 @@ Everyone has the right freely to participate in the cultural life of the communi
 No person above adult age unless older by less than 2 years of the mature aged person should form any intimate relationships them.
 
 ## Declaration
-
-The **CTC** formally accepts this act as law of the country
+The **Omega Council** formally accepts this act as a recognised act of the Nation

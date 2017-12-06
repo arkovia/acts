@@ -202,4 +202,4 @@ Areas signed, either by public, private or government owned locations that ban l
 ### Section 21 - Powers to require identification
 
 ## Declaration
-The **CTC** formally accepts this act as law of the country
+The **Omega Council** formally accepts this act as a recognised act of the Nation
