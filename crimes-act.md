@@ -158,7 +158,7 @@ Areas signed, either by public, private or government owned locations that ban l
 ### Section 11 - Weapons
 
 #### Segment 1 - Banned Weapons
-- Artillary
+- Artillery
 - Firearms
 - Flame-throwers
 - Anti-Aircraft weaponry
@@ -193,7 +193,7 @@ Areas signed, either by public, private or government owned locations that ban l
 
 #### Segment 3 - Bushfires
 
-### Section 18 - Crimial Groups
+### Section 18 - Criminal Groups
 
 ### Section 19 - Transport Offences
 
@@ -202,4 +202,4 @@ Areas signed, either by public, private or government owned locations that ban l
 ### Section 21 - Powers to require identification
 
 ## Declaration
-The **Omega Council** formally accepts this act as a recognised act of the Nation
+Undeclared
