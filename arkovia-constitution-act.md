@@ -7,7 +7,7 @@ We, the citizens of this government, choose to establish this constitution, to a
 ## Sections
 ### Section 1: Foundation
 #### Segment 1: Name
-The name of this country shall be referred to as ***Arkovia***.
+The name of this country shall be referred to as `Arkovia`.
 
 #### Segment 2: Purpose
 The purpose of this constitution is to legitimize the existence of the country and to serve the citizens of Arkovia, through pragmatic approaches to politics.
@@ -17,9 +17,9 @@ All Sections of the constitution are subject to change unless explicitly stated.
 
 The process to amend the constitution is as follows:
 
-- A proposed change, to which at least 20% of the total population must vote, with a result of at least 50% + 1 of the population vote-for.
+- A proposed change, to which at least `20%` of the total population must vote, with a result of at least `50% + 1` of the population vote-for.
 - There must be no more than 2 current active changes. If there are less than 2 active changes, the proposed change will become an active change and move to the next step. If there are 2 current active changes, then the propsed changes with the highest vote-for percentage will become active first..
-- Active changes must undergo a national compulsory vote, where 75% of the population must vote-for.
+- Active changes must undergo a national compulsory vote, where `75%` of the population must vote-for.
 - The active change becomes an accepted change and is implemented into the constitution.
 
 The Genesis Council can enact instant emergency changes to the constitution to protect the soverignty and stability of the country.
@@ -32,10 +32,10 @@ All questions regarding interpration of this Constitution shall be decided by th
 The purpose of the Genesis Council is to:
 
 - Ensure national security and stability
-- Delegate & Provision power to NGOs.
+- Delegate & Provision power to NGIs.
 - Electing Government Entities Leaders.
 - Lead the Nation towards it's vision.
-- Remove and prevent corruption and loopholes within the NGOs and the government
+- Remove and prevent corruption and loopholes within the NGIs and the government
 - Ensure continuance of the nation
 - Develop the nation into a self sustaining machine
 - Speed up development of the nation
@@ -111,15 +111,13 @@ Initiaves are what citizens vote for, they enable the citizens to have direct co
 
 ##### Article 2: Stages
 Proposed:
-
-- Proposed changes are potential initiatives that population can choose to vote for to test viability. They include discussion about purpose, views, benefits and disadvantages. They MUST require at least 10% of the Scale Level's population to vote and at least 50% + 1 vote-for, to move to the next stage
-
+- Proposed changes are potential initiatives that population can choose to vote for to test viability. They include discussion about purpose, views, benefits and disadvantages. They MUST require at least `10%` of the Scale Level's population to vote and at least `50% + 1` vote-for, to move to the next stage
 
 Transformation:
 - The transformation stage is dedicated to the to the creation, discussion and modification of the initiaves related acts, projects, timelines, jobs, and delegation
 
 Active:
-- 90% of the Scale Level population MUST vote on this initiative and where 60% of the scale population must vote-for, to move to the next stage.
+- `90%` of the Scale Level population MUST vote on this initiative and where `60%` of the scale population must vote-for, to move to the next stage.
 
 Accepted:
 - Accepted changes are initiatives that the leaders of the scale level MUST complete.
@@ -160,8 +158,13 @@ A `National Goverment Institution` (`NGI`) is a form of state owned organisation
 - Maintain government control over natural monopolies
 - Create organisaitons to maintain stability of the nation
 - Create organisations that aim to improve the standard of the nation and it's citzens
+- Develop the nation
+- Improve self-sustainability of the nation
 
-The Genesis Council will set up the first initial NGI; The *`Arkovia NGI`* which will own itself and all future NGIs. Board members of the NGIs are selected by the Genesis Council or the Direct Democracy. The Genesis Council has the power to over-ride and elect new NGI board members immediately
+The Genesis Council will set up the first initial NGI, `Arkovia NGI` which owns all NGIs.
+
+Board members of the NGIs are selected by the Genesis Council or the Direct Democracy. The Genesis Council has the power to over-ride and elect new NGI board members immediately
+
  
 ### Section 5: Land Claim
 #### Segment 1: Landmarks
