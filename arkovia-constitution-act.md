@@ -47,6 +47,8 @@ A Gen is a member of the Genesis Council. Their powers are laid out in the "Coun
 ##### Article 2: Minimum Gens
 The Genesis Council MUST maintain at minimum 8 Active and Unsuspended Gens, including the Prime Gen. If membership decreases below 8 Gens, follow the Recruitment Protocol 
 
+If the Gen membership drops below 2 Gens, The direct democracy must elect new Gens, following the Recruitment Protocol, where the council is temporarily replaced by the Direct Democracy
+
 ##### Article 3: Death or Unavailability of a Gen
 Gens may chosoe a rightful heir to take their position in case of disappearance, coma, death, or any other forms of long-term unconsciousness. A Prime Gen position cannot be assigned, and must follow the Prime Gen Election Protocol.
 
