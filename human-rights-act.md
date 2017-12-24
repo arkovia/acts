@@ -1,5 +1,5 @@
 # Human Rights Act
-`Version 1.0.2`
+`Version 1.1.0`
 
 ## Section 1: Introduction
 The purpose of this act is to set up and conserve the compulsory human rights.
@@ -74,6 +74,9 @@ Everyone has the right to education. Education shall be free, at least in the fu
 
 ### Segment 16
 Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.
+
+### Segment 17
+Everyone below the age of 17 must not directly serve in conflict.
 
 ## Declaration
 The `Genesis Council` and `Arkovia Direct Democracy` formally accepts this act as a recognised act of the Nation.

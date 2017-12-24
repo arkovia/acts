@@ -1,5 +1,5 @@
 # Arkovia Constitution Act
-`Version 1.1.0-Draft`
+`Version 1.1.0`
 
 ## Section 1: Foundation
 ### Segment 1: Introduction
