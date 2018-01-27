@@ -162,18 +162,5 @@ Changes to the protected acts must be treated as extensions of this constitution
 The acts with protection are listed below:
 - Human Rights Act
 
-## Section 4: Land Claim
-### Segment 1: Landmarks
-- Point A: 26°S 127°E
-- Point B: 26°S 131°E
-- Point C: 31.55°S 131°E
-- Point D: 32.3°S 127°E
-
-### Segment 2:  Borders
-- Border I: Point A to Point B
-- Border II: Point B to Point C
-- Border III: Point C to Point D by coast
-- Border IV: Point D to Point A
-
 ## Declaration
 The `Genesis Council` and `Arkovia Direct Democracy` formally accepts this act as a recognised act of the Nation.
