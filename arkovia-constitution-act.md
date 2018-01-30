@@ -50,7 +50,7 @@ The purpose of the Genesis Council is to:
 A Gen is a member of the Genesis Council. Their powers are laid out in the "Counil Powers" segment.
 
 #### Article 2: Minimum Gens
-The Genesis Council MUST maintain at minimum 8 Active and Unsuspended Gens, including the Prime Gen. If membership decreases below 8 Gens, follow the Recruitment Protocol.
+The Genesis Council MUST maintain at minimum 4 Active and Unsuspended Gens, including the Prime Gen. If membership decreases below 4 Gens, follow the Recruitment Protocol.
 
 If the Gen membership drops below 2 Gens, The direct democracy must elect new Gens, following the Recruitment Protocol, where the council is temporarily replaced by the Direct Democracy.
 
