@@ -3,7 +3,7 @@
 
 ## Section 1: Foundation
 ### Segment 1: Introduction
-We, the citizens of this government, choose to establish this constitution, to advance our nation pragmatically through technological progression, infrastructure, simplicty, convenience and through a pragmatic approach to politics.
+We, the citizens of this government, choose to establish this constitution, to advance our nation pragmatically through technological progression, infrastructure, simplicity, convenience and through a pragmatic approach to politics.
 
 ### Segment 2: Name
 The name of this country shall be referred to as `Arkovia`.
