@@ -3,7 +3,7 @@
 
 ## Section 1: Foundation
 ### Segment 1: Introduction
-We, the citizens of this government, choose to establish this constitution, to advance the technological progression of our country through pragmatic approach to politics.
+We, the citizens of this government, choose to establish this constitution, to advance our nation pragmatically through technological progression, infrastructure, simplicty, convenience and through a pragmatic approach to politics.
 
 ### Segment 2: Name
 The name of this country shall be referred to as `Arkovia`.
@@ -22,7 +22,7 @@ All Sections of the constitution are subject to change unless explicitly stated.
 
 The process to amend the constitution is as follows:
 
-1. A proposed change, to which at least `20%` of the total population must vote, with a result of at least `50% + 1` of the population vote-for.
+1. A proposed change, to which at least `20%` of the national population must vote, with a result of at least `50% + 1` of the population vote-for.
 2. There must be no more than 2 current active changes. If there are less than 2 active changes, the proposed change will become an active change and move to the next step. If there are 2 current active changes, then the propsed changes with the highest vote-for percentage will become active first..
 3. Active changes must undergo a national compulsory vote, where `75%` of the population must vote-for.
 4. The active change becomes an accepted change and is implemented into the constitution.
@@ -85,6 +85,9 @@ The Prime Gen holds power to act on behalf of the Genesis Council.
 
 The Genesis Council reserve the right to undo, or modify changes by the Council Voting Protocol.
 
+### Segment 6: Trial Gens
+A Trial Gen is a Gen in the process of becoming a full Gen. Each Gen receives the right to elect one Trial Gen. Trial Gens may participate in Council Votes however, their vote is only worth half of a Gen vote
+
 #### Article 2: Term Length
 The term length of each Prime Gen is 4 years.
 
@@ -97,7 +100,7 @@ The Prime Gen can be re-elected after their term, however the Prime Gen must not
 The Genesis Council can hold a vote to remove the Prime Gen. The Prime gen does not need to be present. At-least 60% of the Gens must vote-for.
 
 ### Segment 6: State of Emergency
-State of Emergency can be triggered by a vote in the Council, where 75% of the Council must vote-for. If the proposal is accepted, the Prime Gen Receives full dictatorial control over the entire nation and it's military.
+State of Emergency can be triggered by a vote in the Council, where 75% of the Council must vote-for. If the proposal is accepted, the Prime Gen Receives full control over the nation and it's military.
 
 All of the councils powers are nullified, besides the right to vote an end State of Emergency. All ammendments follow the same process.
 
@@ -152,15 +155,18 @@ Rural Initiative:
 - Rural-wide initiatives can fall under the state scale, rural NGIs cannot exercise initiatives outside state borders or inside city borders.
 
 ## Section 3: Acts System
-### Segment 1: Introduciton
-Acts are Arkovia's form of law. When approved accepted by the Genesis Council or voted-in by the direct democracy, they become recognised as national law.
+### Segment 1: Introduction
+Acts are Arkovia's form of law, when accepted, they become legally binding.
 
 ### Segment 2: Changes to Protected Acts
-Changes to the protected acts must be treated as extensions of this constitution and subject to the process and protocol of constitution ammendments.
+Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Ammendments.
 
 ### Segment 3: Protected Acts
 The acts with protection are listed below:
 - Human Rights Act
 
-## Declaration
+### Segment 4: Acceptance
+Acts must be accepted by the Genesis Council or voted-in by the Direct Democracy before they become recognised as national law. All previous legislation is superceded by the new legislation.
+
+## Recognition
 The `Genesis Council` and `Arkovia Direct Democracy` formally accepts this act as a recognised act of the Nation.
