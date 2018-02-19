@@ -77,6 +77,9 @@ Recruitment Process:
 - The highest approval percentage out of all potential Gens will receive Council Membership
 - Repeat for more members
 
+### Article 5: Trial Gens
+A Trial Gen is a Gen in the process of becoming a full Gen. Each Gen receives the right to elect one Trial Gen. Trial Gens may participate in Council Votes, however, their vote is only worth half of a Gen vote
+
 ### Segment 3: Council Voting Protocol
 #### Article 1:
 All Gens must vote in Council Votes unless explicitly stated in the Constitution.
@@ -104,10 +107,6 @@ The Prime Gen can be re-elected after their term, however, the Prime Gen must no
 
 #### Article 5: Replacement of Prime Gen
 The Genesis Council can hold a vote to remove the Prime Gen. The Prime gen does not need to be present. At least 60% of the Gens must approve.
-
-### Segment 6: Trial Gens
-#### Article 1:
-A Trial Gen is a Gen in the process of becoming a full Gen. Each Gen receives the right to elect one Trial Gen. Trial Gens may participate in Council Votes, however, their vote is only worth half of a Gen vote
 
 ### Segment 6: State of Emergency
 #### Article 1: Triggering State of Emergency
