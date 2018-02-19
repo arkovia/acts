@@ -126,6 +126,7 @@ If a Gen becomes unavailable during State of Emergency, an emergency re-election
 State of Emergency can be ended by a vote in the Genesis Council. 50% + 1 of the Council must approve. If the proposal is accepted, state emergency is canceled and powers are returned to the Genesis Council
 
 ### Segment 7: Amendments
+#### Article 1:
 Changes to this section are immune to amendments. All changes regarding this Section must be decided by the Council. If the Genesis Council decides to amend a section, at least 75% of the Gens must approve.
 
 ## Section 2: Direct Democracy
@@ -174,16 +175,20 @@ Rural Initiative:
 
 ## Section 3: Acts System
 ### Segment 1: Introduction
+#### Article 1:
 Acts are Arkovia's form of law. When approved, they become legally binding.
 
 ### Segment 2: Changes to Protected Acts
+#### Article 1:
 Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments.
 
 ### Segment 3: Protected Acts
+#### Article 1:
 The Acts with protection are listed below:
 - Human Rights Act
 
 ### Segment 4: Approval
+#### Article 1:
 Acts must be approval by the Genesis Council or voted-in by the Direct Democracy before they become recognized as national law. All previous legislation is superseded by the new legislation.
 
 ## Recognition
