@@ -77,7 +77,7 @@ Recruitment Process:
 - The highest approval percentage out of all potential Gens will receive Council Membership
 - Repeat for more members
 
-### Article 5: Trial Gens
+#### Article 5: Trial Gens
 A Trial Gen is a Gen in the process of becoming a full Gen. Each Gen receives the right to elect one Trial Gen. Trial Gens may participate in Council Votes, however, their vote is only worth half of a Gen vote
 
 ### Segment 3: Council Voting Protocol
