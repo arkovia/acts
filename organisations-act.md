@@ -3,7 +3,7 @@
 
 ## Section 1: Introduction
 ### Segment 1: Administration Authority
-`ABIA` (`Arkovian Business & Investment Authority NGI`) has Administration over this Act
+`ABIA` (`Arkovian Business & Innovation Authority NGI`) has Administration over this Act
 
 ## Section 2: Rules & Laws for a Company
 ### Segment 1: Company Laws
