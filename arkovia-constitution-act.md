@@ -89,7 +89,14 @@ The default number of votes to accept a proposition unless explicitly stated is 
 If results are even, the Prime Gen is awarded a casting vote.
 
 ### Segment 4: Council Powers
-The Genesis Council holds dictatorial powers the entire nation. The Genesis Council plans to slowly reduce it's power over time, as self-sustainability and stability of the nation increases.
+#### Article 1: Powers to Create Legislation
+The Genesis Council holds the power to pass legislation for the whole nation through a Genesis Council Vote.
+
+#### Article 2: Powers to Create NGI's
+The Genesis Council holds the power to create national government institutions, and elect their leaders.
+
+#### Article 3: Reduction of Powers
+The Genesis Council plans to slowly reduce it's power over time, as self-sustainability and stability of the nation increases.
 
 ### Segment 5: Prime Gen
 #### Article 1: Powers
