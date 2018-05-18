@@ -118,7 +118,6 @@ Types
     - Medium Security
     - High Security
     - Super High Security
-- Victim's Policy
 - Rehabilitation
 - Capital Punishment
     - Execution

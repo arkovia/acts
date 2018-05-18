@@ -2,7 +2,7 @@
 # Arkovia Constitution Act
 `Version 4`
 
-## Part 0: Introduction
+## Part 1: Introduction
 ### Section 1: Description
 This Act outlies the structure of the Government of Arkovia, and describes it's purpose and functions.
 
@@ -17,7 +17,7 @@ All questions regarding the interpretation of this Constitution shall be decided
 
 - Citizen: `Definition found in Citizenship Act`
 
-## Part 1: Foundation
+## Part 2: Foundation
 ### Section 1: Preamble
 #### Segment 1:
 We, the citizens of this government, choose to establish this constitution, to advance our nation through technological, and infrastructure progression, simplicity, and convenience through a pragmatic approach to politics.
@@ -51,7 +51,7 @@ The process to amend the constitution is as follows:
 #### Segment 3: Genesis Council Amendments
 The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but will generally abstain from doing so.
 
-## Part 2: Genesis Council
+## Part 3: Genesis Council
 ### Section 1: Introduction
 #### Segment 1: Introduction to Gens
 The Genesis Councils consists of the national leaders of Arkovia, referred to as a Gen, or plurarly - Gens.
@@ -174,11 +174,11 @@ State of Emergency can be ended by a vote in the Genesis Council. If the proposa
 
 The Prime Gen may also end State of Emergency on demand.
 
-### Section 8: Amendments
+### Section 4: Amendments
 #### Segment 1:
 Changes to this Part are immune to amendments. All changes regarding this Part must be decided by the Council. If the Genesis Council decides to amend a Part, at least 75% of the Gens must approve.
 
-## Part 2: Direct Democracy
+## Part 4: Direct Democracy
 ### Section 1: System
 #### Segment 1: Function
 The function of Direct Democracy is to remove corruption found in representative democracies. Since there are no representative politicians to represent citizens, Citizens will instead vote directly on initiatives.
@@ -229,7 +229,7 @@ Council-wide initiatives can fall under the city scale, council NGIs cannot exer
 ##### Paragraph 7: Rural Initiatives
 Rural-wide initiatives can fall under the state scale, rural NGIs cannot exercise initiatives outside state borders or inside city borders.
 
-## Part 3: Acts System
+## Part 5: Acts System
 ### Section 1: Introduction
 #### Segment 1:
 Acts are Arkovia's form of law. When approved, they become legally binding.
