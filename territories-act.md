@@ -1,5 +1,4 @@
 # Territories Act
-`Version 1.0.0-Draft`
 
 ## Preamble
 The purpose of this act is to lay out the land claims within Arkovia and designate Australian territories
@@ -23,10 +22,10 @@ The purpose of this act is to lay out the land claims within Arkovia and designa
 Australian Territories are areas where full Australian juristiction applies. Arkovia will not exercise juristiction in these areas
 
 ### Segment 2: Territory list
-Will be completed in the future
+- Uncomplete
 
 ### Segment 3: Addition of territories
-The Arkovian Government may decide to add more territories, all additions must go through the Genesis Council
+The Arkovian Government may decide to add more territories, all territorial changes must be approved by the Genesis Council
 
 ### Segment 4: Removal of territories
 Removal of an Australian territory may arise from different reasons, such as:
