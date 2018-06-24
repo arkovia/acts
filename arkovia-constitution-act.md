@@ -2,14 +2,14 @@
 # Arkovia Constitution Act
 `Version 4`
 
-## Part 1: Introduction
-### Section 1: Description
+## Part 1: Foundation
+### Section 1: Introduction
 This Act outlies the structure of the Government of Arkovia, and describes it's purpose and functions.
 
-### Section 3: Purpose
+### Section 2: Purpose
 The purpose of this act is to lay out the structure, purpose and function and powers of our government.
 
-### Section 4: Interpretation & Definitions
+### Section 3: Interpretation & Definitions
 #### Segment 1: Interpretation
 All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council.
 
@@ -17,16 +17,15 @@ All questions regarding the interpretation of this Constitution shall be decided
 
 - Citizen: `Definition found in Citizenship Act`
 
-## Part 2: Foundation
-### Section 1: Preamble
+### Section 4: Preamble
 #### Segment 1:
 We, the citizens of this government, choose to establish this constitution, to advance our nation through technological, and infrastructure progression, simplicity, and convenience through a pragmatic approach to politics.
 
-### Section 2: Name
+### Section 5: Name
 #### Segment 1:
 The name of this country shall be referred to as `Arkovia`.
 
-### Section 3: Purpose
+### Section 6: Purpose of Arkovia
 #### Segment 1:
 The purpose of Arkovia and this Constitution is to:
 
@@ -35,8 +34,9 @@ The purpose of Arkovia and this Constitution is to:
 - Take pragmatic approaches to politics
 - Create a government where citizens have true power
 - Improve standards of living through technology and infrastructure
+- Establish the 
 
-### Section 4: Constitutional Amendments
+### Section 7: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
 All parts of this constitution and it's protected acts are subject to change unless explicitly stated.
 
@@ -51,7 +51,7 @@ The process to amend the constitution is as follows:
 #### Segment 3: Genesis Council Amendments
 The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but will generally abstain from doing so.
 
-## Part 3: Genesis Council
+## Part 2: Genesis Council
 ### Section 1: Introduction
 #### Segment 1: Introduction to Gens
 The Genesis Councils consists of the national leaders of Arkovia, referred to as a Gen, or plurarly - Gens.
@@ -61,7 +61,7 @@ The purpose of the Genesis Council is to:
 
  1. Ensure national security and stability
  2. Delegate & Provision power to NGIs
- 3. Electing Government NGI Leaders.
+ 3. Electing Government NGI Executive Leaders.
  4. Lead the Nation towards its vision.
  5. Remove and prevent corruption and loopholes within the NGIs and the Government.
  6. Ensure continuance of the nation.
@@ -77,9 +77,11 @@ The Responsibilities of an Individual Gen are:
  4. Act in the nation's best interests.
  5. Cooperation and respect with other Gens.
  6. Represent the Government professionally.
- 7. Make decisions for the nation's gain, not personal gain.
+ 7. Make decisions for national gain, rather than personal gain.
  8. Engage in discussion and criticism of various ideas and systems.
  9. Plus other responsibilities delegated by the Genesis Council
+ 10. Refuse any form of bribery, whether financial or otherwise.
+ 11. Help establish and collabortively create plans, designs, concepts, legislation, projects, infrastructure and more.
 
 ### Section 2: Membership
 #### Segment 1: Gen Definition
@@ -128,15 +130,15 @@ If results are even, the Prime Gen is awarded a casting vote.
 
 ### Section 5: Council Powers
 #### Segment 1: Powers to Create Legislation
-The Genesis Council holds the power to pass legislation for the whole nation.
+The Genesis Council holds the full power to pass legislation for nation.
 
 #### Segment 2: Powers to Create NGI's
-The Genesis Council holds the power to create national government institutions, and elect their leaders.
+The Genesis Council holds the full power to create national government institutions, and elect their leaders.
 
 #### Segment 3: Powers to Elect NGI Leaders
-The Genesis council holds the power to manage and elect NGI leaders, and employees
+The Genesis council holds the full power to manage, remove and elect NGI leaders, and employees
 
-#### Segment 3: Reduction of Powers
+#### Segment 4: Reduction of Powers
 The Genesis Council plans to slowly reduce it's power over time, as self-sustainability and stability of the nation increases.
 
 ### Section 6: Prime Gen
@@ -178,12 +180,14 @@ The Prime Gen may also end State of Emergency on demand.
 #### Segment 1:
 Changes to this Part are immune to amendments. All changes regarding this Part must be decided by the Council. If the Genesis Council decides to amend a Part, at least 75% of the Gens must approve.
 
-## Part 4: Direct Democracy
+## Part 3: Arkovian Assembly
 ### Section 1: System
-#### Segment 1: Function
-The function of Direct Democracy is to remove corruption found in representative democracies. Since there are no representative politicians to represent citizens, Citizens will instead vote directly on initiatives.
+#### Segment 1: Introduction
+The Arkovian Assembly is a direct democratic assembly which comprises of all eligable citizens in the nation. A direct democracy in contrast to a representative democracy
+#### Segment 2: Function
+The function of Direct Democracy is to remove corruption found in representative democracies. Since there are no representative politicians to represent citizens, Citizens instead vote directly on initiatives.
 
-#### Segment 2: Rights to Vote
+#### Segment 3: Rights to Vote
 To vote you must:
 - be over 16 years of age
 - be a citzen
@@ -236,12 +240,13 @@ Acts are Arkovia's form of law. When approved, they become legally binding.
 
 ### Section 2: Protected Acts
 #### Segment 1: Changes to Protected Acts
-Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered null and invalid.
+Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered invalid.
 
 #### Segment 1: List of Protected Acts
 The Acts with protection are listed below:
 - Human Rights Act
 - Judicial System Act
+- Citizenship Act
 
 ### Section 3: Approval
 #### Segment 1:
