@@ -84,3 +84,62 @@ Numbered Automatically
 ##### Paragraph {{ paragraphNumber }}
 Optional, for splitting large paragraphs in legislation.
 ```
+
+### Section 2: Examples
+#### Segment 1: Markdown Example
+```markdown
+# Arkovia Constitution Act
+`Draft`
+
+## Part 1: Foundation
+### Section 1: Introduction
+#### Segment 1
+We the citizens of Arkovia, choose to establish this constitution, in order to establish a nation & country which aims to: 
+- Advance towards the future
+- Advance in technology and infrastructure
+- Create a simplistic & pragmatic approach to politics
+- Create a true direct democracy
+- Promote the welfare of citizens
+- Secure the right to our universal-given land
+
+### Section 2: Purpose
+#### Segment 1: Purpose of the Constitution
+The purpose of this constitution is to:
+- Establish the existence our nation
+- Establish a justice system
+- Lay out the structure, function and powers of the Government of Arkovia
+- Establish the Government Enchanced Government Institution (EGI) System
+- Create a simple, pragmatic direct democracy
+
+#### Segment 2: Purpose of Arkovia
+- Create a Social Democracy and provide sufficient safety nets for citizens.
+- Create a government where citizens have true democratic power
+- Improve standards of living through technology and infrastructure
+
+### Section 3: Interpretation & Definitions
+#### Segment 1: Interpretation
+All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council.
+
+#### Segment 2: Definitions
+- Citizen: `Definition found in Citizenship Act`
+
+### Section 4: Constitutional Amendments
+#### Segment 1: Parts Subject to Amendments
+All parts of this constitution and it's protected acts are subject to change unless explicitly stated.
+
+#### Segment 2: Amendment Process
+The process to amend the constitution is as follows:
+
+1. A proposed change, where at least `20%` of the national population participates with an approval of at least `50% + 1`.
+2. There must not be more than 2 current active changes. If there are more than 2 active changes, a queue will be formed, in the order of highest approval.
+3. Active changes must undergo a national compulsory vote, where `75%` of the population must approve.
+4. The active change becomes an accepted change and is implemented into the constitution.
+
+#### Segment 3: Genesis Council Amendments
+The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but will generally abstain from doing so.
+
+# Part 2: National Profile
+### Section 2: Name
+#### Segment 1:
+The name of this country shall be referred to as `Arkovia`.
+```
