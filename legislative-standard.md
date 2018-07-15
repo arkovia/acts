@@ -20,7 +20,7 @@ The purpose of the Legislative Standard Act is to:
 ## Part 1: Legislation Standard
 ### Section 1: Legislation Structure
 #### Segment 1: Act Elements
-The Act Structure is as follows
+The Act Elements are:
 
 ```markdown
 # {{Title}}
@@ -68,6 +68,7 @@ The Act Structure is as follows
 ```
 
 #### Segment 2: Act Structure
+The Act Structure is as follows
 ```markdown
 1. Title
 2. Version
