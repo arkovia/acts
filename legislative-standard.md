@@ -82,10 +82,10 @@ The Act Structure is as follows
 2. Version
 3. TOC
 4. Foundation
-  4.1 Introduction
-  4.2 Purpose
-  4.3 Interpretation
-  4.4 (Optional Custom)
+  1. Introduction
+  2. Purpose
+  3. Interpretation
+  4. (Optional Custom)
 5. Law
 ```
 
