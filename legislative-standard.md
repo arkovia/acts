@@ -18,7 +18,7 @@ The purpose of the Legislative Standard Act is to:
 `This document includes no interpretations and definitions`
 
 ## Part 1: Legislation Standard
-### Section 1: Legislation Structure
+### Section 1: Legislative Act Structure
 #### Segment 1: Act Elements
 The Act Elements are:
 
@@ -80,8 +80,8 @@ The Act Heirarchy Structure is as follows
   4. (Optional Custom)
 5. Law
 ```
-
-#### Segment 3: Law Elements
+### Section 2: Law Structure
+#### Segment 1: Law Elements
 The Law Elements are the the various hierarchical elements deisnged to be easily followed, and easily referred. The Law Elements are used to implement the law.
 
 ```markdown
@@ -101,7 +101,7 @@ Numbered Automatically
 Optional, for splitting large paragraphs in legislation.
 ```
 
-#### Segment 4: Law Hierarchical Order
+#### Segment 2: Law Hierarchical Order
 The Law Element Heirarchical Order is as follows:
 ```markdown
 1. Part
@@ -110,7 +110,10 @@ The Law Element Heirarchical Order is as follows:
       1. Paragraph (Optional)
 ```
 
-### Section 2: Examples
+#### Segment 3: Starting Part Number
+The Part Numbers start from `2` as `Part 1` is the `Foundation`
+
+### Section 3: Examples
 #### Segment 1: Markdown Example
 ```markdown
 # Arkovia Constitution Act
