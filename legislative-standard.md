@@ -67,8 +67,8 @@ The Act Elements are:
   - Parts start from 2 (Foundation is Part 1)
 ```
 
-#### Segment 2: Act Structure
-The Act Structure is as follows
+#### Segment 2: Act Heirarchy Structure
+The Act Heirarchy Structure is as follows
 ```markdown
 1. Title
 2. Version
@@ -81,8 +81,8 @@ The Act Structure is as follows
 5. Law
 ```
 
-#### Segment 3: Law Structure
-The Law Structure is the structure used to implement the law and create the various referrable articles. The Structure they follow is Part, Section, Segment & Paragraph (which is optional)
+#### Segment 3: Law Elements
+The Law Elements are the the various hierarchical elements deisnged to be easily followed, and easily referred. The Law Elements are used to implement the law.
 
 ```markdown
 ## Part {{ partNumber }}: {{Title}}
@@ -99,6 +99,15 @@ Numbered Automatically
 
 ##### Paragraph {{ paragraphNumber }}
 Optional, for splitting large paragraphs in legislation.
+```
+
+#### Segment 4: Law Hierarchical Order
+The Law Element Heirarchical Order is as follows:
+```markdown
+1. Part
+  1. Section
+    1. Segment
+      1. Paragraph (Optional)
 ```
 
 ### Section 2: Examples
