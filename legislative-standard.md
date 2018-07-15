@@ -53,7 +53,7 @@ The Act Elements are:
   - Required
   - The Purpose is a key part of legislation and is used to explain the purpose of the Act in discussion
 
-### Section 3: Interpretation & Definition
+### Section 3: Interpretation & Definitions
 #### Segment 1
   - Required
   - This Section is used to create definitions, explanations, interpretations and a glossary of terms used in the legislative document
@@ -76,7 +76,7 @@ The Act Structure is as follows
 4. Foundation
   1. Introduction
   2. Purpose
-  3. Interpretation
+  3. Interpretation & Definitions
   4. (Optional Custom)
 5. Law
 ```
