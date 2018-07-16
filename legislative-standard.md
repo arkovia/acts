@@ -4,9 +4,11 @@
 
 ## Part 1: Foundation
 ### Section 1: Introduction
+#### Segment 1
 This Act explains the legislative standard of Arkovia. All Legislation in Arkovia MUST follow this structure. This act will include standards & guides on crafting legislation.
 
 ### Section 2: Purpose
+#### Segment 1
 The purpose of the Legislative Standard Act is to:
 - Establish a legislative structure that allows easy referencing
 - Establish a legislative structure that is easy to read & follow
@@ -15,7 +17,11 @@ The purpose of the Legislative Standard Act is to:
 - Allow easy modification and review.
 
 ### Section 3: Interpretation & Definitions
-`This document includes no interpretations and definitions`
+#### Segment 1
+`This document includes no interpretations`
+
+#### Segment 2
+`This document includes no definitions`
 
 ## Part 1: Legislation Standard
 ### Section 1: Legislative Act Structure
@@ -86,12 +92,14 @@ The Law Elements are the the various hierarchical elements deisnged to be easily
 
 ```markdown
 ## Part {{ partNumber }}: {{Title}}
-Title required
-Numbered Automatically
+- Title required
+- Numbered
+- Parts MUST contain atleast one section
 
 ### Section {{ sectionNumber }}: {{Title}}
-Title required
-Numbered Automatically
+- Title required
+- Numbered
+- Sections MUST contain atleast one segment
 
 #### Segment {{ segmentNumber }}{{ Title ? ": " + Title : ""}}
 Title optional
