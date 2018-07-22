@@ -17,10 +17,10 @@ The purpose of the Legislative Standard Act is to:
 - Allow easy modification and review.
 
 ### Section 3: Interpretation & Definitions
-#### Segment 1
+#### Segment 1: Interpretations
 `This document includes no interpretations`
 
-#### Segment 2
+#### Segment 2: Definitions
 `This document includes no definitions`
 
 ## Part 1: Legislation Standard
@@ -50,19 +50,23 @@ The Act Elements are:
   - This Part is a key part of legislation and is used to introduce and explain the purpose of the Act in discussion
 
 ### Section 1: Introduction
-#### Segment 1
+#### Segment 1: Preamble
   - Required
   - The Introduction is a key part of legislation and is used to introduce and explain the Act in discussion
 
 ### Section 2: Purpose
-#### Segment 1
+#### Segment 1: Purpose of this Act
   - Required
   - The Purpose is a key part of legislation and is used to explain the purpose of the Act in discussion
 
 ### Section 3: Interpretation & Definitions
-#### Segment 1
+#### Segment 1: Interpreations
   - Required
-  - This Section is used to create definitions, explanations, interpretations and a glossary of terms used in the legislative document
+  - This segment is used to interpret various terms or phrases in the legislative document
+
+#### Segment 2: Definitions
+  - Required
+  - This segment is used to create definitions, explanations and a glossary of terms used in the legislative document
 
 ### Section ...
   - Optional, add other sections to foundation
