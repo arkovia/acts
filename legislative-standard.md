@@ -145,11 +145,15 @@ The purpose of this constitution is to:
 - Create a government where citizens have true democratic power
 - Improve standards of living through technology and infrastructure
 
+
 ### Section 3: Interpretations
+#### Segment 1: Interpretation
+All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council.
+
 #### Segment 2: Definitions
-\```
+``\`
 Citizen: Definition found in Citizenship Act
-\```
+``\`
 
 ### Section 4: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
