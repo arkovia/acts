@@ -112,7 +112,6 @@ The Part Numbers start from `2` as `Part 1` is the `Foundation`
 #### Segment 1: Markdown Example
 ```markdown
 # Arkovia Constitution Act
-`Draft`
 
 ## Part 1: Foundation
 ### Section 1: Introduction
