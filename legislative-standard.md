@@ -4,24 +4,17 @@
 
 ## Part 1: Foundation
 ### Section 1: Introduction
-#### Segment 1
+#### Segment 1: Preamble
 This Act explains the legislative standard of Arkovia. All Legislation in Arkovia MUST follow this structure. This act will include standards & guides on crafting legislation.
 
 ### Section 2: Purpose
-#### Segment 1
+#### Segment 1: Purpose of this Act
 The purpose of the Legislative Standard Act is to:
 - Establish a legislative structure that allows easy referencing
 - Establish a legislative structure that is easy to read & follow
 - Establish a legislative structure that is machine-readable
 - Create a guide that citizens can use to create legislation
 - Allow easy modification and review.
-
-### Section 3: Interpretation & Definitions
-#### Segment 1: Interpretations
-`This document includes no interpretations`
-
-#### Segment 2: Definitions
-`This document includes no definitions`
 
 ## Part 1: Legislation Standard
 ### Section 1: Legislative Act Structure
@@ -59,14 +52,10 @@ The Act Elements are:
   - Required
   - The Purpose is a key part of legislation and is used to explain the purpose of the Act in discussion
 
-### Section 3: Interpretation & Definitions
-#### Segment 1: Interpreations
-  - Required
-  - This segment is used to interpret various terms or phrases in the legislative document
-
-#### Segment 2: Definitions
-  - Required
-  - This segment is used to create definitions, explanations and a glossary of terms used in the legislative document
+### Section 3: Interpretations
+- Optional
+- This Section is used to create definitions, explain interprtations and for glossary of terms used in the legislative document.
+- Must include a segment (eg: Glossary, Individual Terms, Explanations or etc)
 
 ### Section ...
   - Optional, add other sections to foundation
@@ -86,7 +75,7 @@ The Act Heirarchy Structure is as follows
 4. Foundation
   1. Introduction
   2. Purpose
-  3. Interpretation & Definitions
+  3. Interpretations
   4. (Optional Custom)
 5. Law
 ```
@@ -156,12 +145,11 @@ The purpose of this constitution is to:
 - Create a government where citizens have true democratic power
 - Improve standards of living through technology and infrastructure
 
-### Section 3: Interpretation & Definitions
-#### Segment 1: Interpretation
-All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council.
-
+### Section 3: Interpretations
 #### Segment 2: Definitions
-- Citizen: `Definition found in Citizenship Act`
+\```
+Citizen: Definition found in Citizenship Act
+\```
 
 ### Section 4: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
