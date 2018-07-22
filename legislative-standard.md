@@ -16,7 +16,7 @@ The purpose of the Legislative Standard Act is to:
 - Create a guide that citizens can use to create legislation
 - Allow easy modification and review.
 
-## Part 1: Legislation Standard
+## Part 2: Legislation Standard
 ### Section 1: Legislative Act Structure
 #### Segment 1: Act Elements
 The Act Elements are:
