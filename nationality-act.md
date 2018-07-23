@@ -1,22 +1,17 @@
-# Nationality Act
-
-`Version 1.0.0-Draft`
+# Citizenship Act
 
 ## Part 1: Foundation
-### Section 1: Introduction
-#### Segment 1
+### Section 1: Preamble
+This Act creates the citizenship system in Arkovia, it's various levels of citizenship,
 Citizenship is a key factor behind all nations, creating a more organized, safe, and more patriotic state.
 
 ### Section 2: Purpose
-#### Segment 1
-It has been found important to
-- protect the national identity of Arkovia;
-- allow for a safer Arkovia while protecting the dreams of immigrants;
-- guide our government to allow for more organization in their services and duities.
-
-### Section 3: Interpretation
-#### Segment 1
-(Guides to laws planned on being made and even videos.)
+The purpose of this act is to:
+- protect the national identity of Arkovia
+- prevent incompatible demographic shifts
+- allow immigrants willing to integrate into Arkovia
+- allow for a safer Arkovia while protecting the dreams of immigrants
+- guide our government to allow for more organization in their services and duities
 
 ## Part 2: Domestic Citizenship
 ### Section 1: Definition of Domestic Citizenship
