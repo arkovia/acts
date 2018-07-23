@@ -26,6 +26,7 @@ The Act Elements are:
   - Example: "# Constitution Act"
   - The Title is the title of the Act in discusion, and should relate directly to it's contents.
 
+## Table of Contents
 {{ TOC }}
   - Required
   - Auto-Generated
