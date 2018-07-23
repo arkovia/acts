@@ -143,7 +143,7 @@ All questions regarding the interpretation of this Constitution shall be decided
 Citizen: Definition found in Citizenship Act
 \```
 
-### Section 4: Constitutional Amendments
+### Section 5: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
 All parts of this constitution and it's protected acts are subject to change unless explicitly stated.
 
