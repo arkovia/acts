@@ -1,6 +1,4 @@
-# Trademark Acts
-`Incomplete Version 1.0.0`
-{{ TOC }} - Recommended
+# Trademark Act
 
 ### Information
 
