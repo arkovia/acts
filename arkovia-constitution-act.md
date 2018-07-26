@@ -416,7 +416,7 @@ Law follows a hierarchy of importance. Older legislation is superseded by newer 
 
 ### Section 2: Protected Acts
 #### Segment 1: Changes to Protected Acts
-Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered null and invalid.
+Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered invalid.
 
 #### Segment 2: List of Protected Acts
 The Acts with protection are listed below:
