@@ -171,7 +171,9 @@ Arkovia believes in a secular state, separated from religion. Religions may not 
 Arkovia will teach non-religious spiritual philosophies.
 
 ### Section 3: Nationalised Infrastructure
-Arkovia believes in national control over public infrastructure to prevent natural monopolies from abusing citizens through price-setting, or lack of innovation. Arkovia will provide infrastructure and aim to continuously innovate in the citizens interest. Arkovia will maintain full control over:
+Arkovia will nationalise public infrastructure to provide infrastructure to it's citizens to protect citizens from natural monopolies which result in profiteering, lack of innovation, poor management and wasteful spending.
+
+Arkovia will maintain full control over:
 
 - Health Infrastructure
 - Transport Infrastructure
@@ -182,41 +184,45 @@ Arkovia believes in national control over public infrastructure to prevent natur
 - Banking Infrastructure
 
 ### Section 4: Free Healthcare
-Arkovia believes in free healthcare for its citizens at no cost to its citizens. Healthcare costs will be covered in tax.
+Arkovia will devote resources to provide free healthcare for its citizens.
 
 ### Section 5: Free Education
-Arkovia believes in providing free education throughout life for all citizens.
+Arkovia will devote resources to provide free education throughout life for all citizens.
 
 ### Section 6: Welfare
-Arkovia believes in state welfare. Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, staving or unemployed, to help them recover and keep safe.
+Arkovia will devote resources to provide welfare to citizens.
+
+Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover and keep safe.
 
 ### Section 7: Open Sourced Capitalism
-Arkovia believes in open sourced capitalism, with no copyrights, or patents. Patents prevent competition by creating monopolies and therefore prevent innovation.
+Arkovia believes in open sourced capitalism, with no copyrights, or patents.
+
+Patents prevent competition by creating monopolies over concepts, ideas, inventions and therefore prevent further innovation.
 
 ### Section 8: Patriotism
 Arkovia believes in strong patriotism & political independence.
 
 ### Section 9: Direct Democracy
-Arkovia believes in Direct Democracy with direct full citizen control over initiatives and legislation.
+Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
 
 ### Section 10: Community Cooperation
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
 ### Section 11: Transparency
-Arkovia believes in full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news & advancement for all.
+Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
 
 ### Section 12: Accountability
 Arkovia believes in full accountability of the Government through:
 
 - Lasting positive change
 - Responsible leadership
-- Justice & Equality
-- Strong Partnerships
-- Open Organisations
-- Responsive Decision Making
-- Well-Handled Resources
-- People-Driven Work
-- Empowered and effective staff
+- Justice and equality
+- Strong partnerships
+- Open organisations
+- Responsive decision making
+- Well-handled resources
+- People-driven work
+- Empowered and effective employees
 
 ## Part 4: Genesis Council
 ### Section 1: Preamble
@@ -285,12 +291,11 @@ The term length of each Prime Gen is 2 months.
 #### Segment 3: Prime Gen Election Protocol
 
 1. Voting is compulsory
-2. Gens may vote for themselves
+2. Gens may not vote for themselves
 3. Prime gen receives right to casting vote
 4. Follows Genesis Council voting protocol
-5. Gen with Highest votes receives Prime Gen
-6. Prime Gens may be re-elected, however the Prime Gen may not vote for themselves
-7. Genesis Council vote held
+5. Gen with highest votes receives Prime Gen
+6. Prime Gens may be re-elected
 
 #### Segment 4: Replacement of Prime Gen
 The Genesis Council may hold a vote to remove the Prime Gen. The Prime Gen does not need to be present. At least `50% + 1` of the Gens not including the Prime Gen must approve.
