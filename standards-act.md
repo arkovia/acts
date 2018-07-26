@@ -1,2 +1,0 @@
-# Standards Act
-Coming soon
