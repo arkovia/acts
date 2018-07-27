@@ -200,7 +200,7 @@ Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 Patents prevent competition by creating monopolies over concepts, ideas, inventions and therefore prevent further innovation.
 
 ### Section 8: Patriotism
-Arkovia believes in strong patriotism & political independence.
+Arkovia believes in strong patriotism and will maintain full political independence.
 
 ### Section 9: Direct Democracy
 Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
