@@ -66,8 +66,7 @@
         - [Section 3: Introduction to Initiatives](#section-3-introduction-to-initiatives)
         - [Section 4: Initiative Process](#section-4-initiative-process)
     - [Part 6: Law System](#part-6-law-system)
-        - [Section 1: Acts](#section-1-acts)
-            - [Segment 1: Preamble](#segment-1-preamble)
+        - [Section 1: Preamble](#section-1-preamble)
         - [Section 2: Hierarchy of Legislation](#section-2-hierarchy-of-legislation)
             - [Segment 1: Introduction](#segment-1-introduction)
             - [Segment 2: Priority Order](#segment-2-priority-order)
@@ -139,9 +138,10 @@ This country shall be officially referred to as **Arkovia** or **The Government 
 
 #### Segment 2: Motto
 Arkovia's official national mottos shall be:
-- Develop Towards The Future
+- Towards The Future
 - The Development State
 - Start Arkovia
+- Innovation Nation
 
 #### Segment 3: Capital
 Arkovia's capital is **Novia**, Arkovia's first city
@@ -402,9 +402,8 @@ To vote you must:
     - Citizens and EGI Leaders fulfil projects
 
 ## Part 6: Law System
-### Section 1: Acts
-#### Segment 1: Preamble
-Acts are Arkovia's form of law & legislation. Law can be drafted by any citizens and when approved by the Arksembly or the Genesis Council, they become legally binding.
+### Section 1: Preamble
+Arkovia's form of law & legislation are **Acts**. Acts can be drafted by any citizens and when approved by the Arksembly or the Genesis Council, they become legally binding.
 
 ### Section 2: Hierarchy of Legislation
 #### Segment 1: Introduction
