@@ -6,6 +6,7 @@
   - [Part 1: Foundation](#part-1-foundation)
     - [Section 1: Preamble](#section-1-preamble)
     - [Section 2: Purpose](#section-2-purpose)
+    - [Section 3: Jurisdiction](#section-3-jurisdiction)
   - [Part 2: Crimes](#part-2-crimes)
     - [Section 1 - Search and Arrest Warrants](#section-1---search-and-arrest-warrants)
       - [Segment 1 - Production of Warrants](#segment-1---production-of-warrants)
@@ -88,7 +89,10 @@
 This act sets out the basic laws, crimes and offences in our nation, to prevent chaos, protect citizens and ensure stability.
 
 ### Section 2: Purpose
-The purpose of this act is to set the basic initial laws, crimes and offences, so that our nation will ensure stability
+The purpose of this act is to set the basic initial laws, crimes and offences, so that our nation will ensure stability.
+
+### Section 3: Jurisdiction
+The jurisdiction of this Act is under the jurisdiction of the Crimes Arkovia, EGI.
 
 ## Part 2: Crimes
 ### Section 1 - Search and Arrest Warrants
@@ -251,7 +255,10 @@ Areas signed, either by public, private or government owned locations that ban l
 - Missiles
 - Rockets
 - Launchers
-- Nuclear Weapons
+- Weapons of Mass Destruction
+    - Nuclear / Radioactive Weapons
+    - Chemical Weapons
+    - Biological Weapons
 - Torpedos
 - Tanks
 - Digital Weapons
