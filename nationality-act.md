@@ -13,8 +13,8 @@ The purpose of this act is to:
 - allow for a safer Arkovia while protecting the dreams of immigrants
 - guide our government to allow for more organization in their services and duities
 
-### Section 3: Jurisdiction
-`Immigration Arkovia, EGI` has jurisdiction over this Act.
+### Section 3: Administration
+`Immigration Arkovia EGI` has administration over this Act.
 
 ## Part 2: Domestic Citizenship
 ### Section 1: Definition of Domestic Citizenship
