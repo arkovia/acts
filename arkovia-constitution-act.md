@@ -92,7 +92,7 @@ The purpose of this constitution is to:
 - Establish the existence our nation
 - Establish a justice system
 - Lay out the structure, function and powers of the Government of Arkovia
-- Establish the Government Enhanced Government Institution (EGI) System
+- Establish the Enhanced Government Institution (EGI) System
 - Create a simple, pragmatic direct democracy
 
 #### Segment 2: Purpose of Arkovia
