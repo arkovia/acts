@@ -4,7 +4,7 @@
 ### Section 1: Introduction
 
 ### Section 1: Administration
-`Arkovia Judicial Authority NGI` has administration over this part.
+`Judicial Authority Arkovia EGI` has administration over this act.
 
 ### Section 2: Law System
 #### Segment 1:
