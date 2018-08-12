@@ -255,13 +255,13 @@ Areas signed, either by public, private or government owned locations that ban l
 - Missiles
 - Rockets
 - Launchers
-- Weapons of Mass Destruction
-    - Nuclear / Radioactive Weapons
-    - Chemical Weapons
-    - Biological Weapons
+- Nuclear / Radioactive Weapons
+- Chemical Weapons
+- Biological Weapons
 - Torpedos
 - Tanks
 - Digital Weapons
+- Electrical Weapons
 - Weaponized Aircraft
 - Bombs
 - Ammunition
