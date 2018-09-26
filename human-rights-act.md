@@ -51,3 +51,4 @@ Adult Age: 18 years of age
 19. Everyone has the right to access infrastructure within reasonable means.
 20. Everyone has the right to enjoy and entertain themselves.
 21. Everyone has the right to healthcare.
+22. Everyone has the right to the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
