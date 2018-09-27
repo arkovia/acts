@@ -1,4 +1,3 @@
-
 # Arkovia Constitution Act
 
 ## Table of Contents
@@ -282,8 +281,8 @@ The Genesis Council holds the powers to:
 ### Section 6: Prime Gen
 #### Segment 1: Powers of the Prime Gen
 The Prime Gen holds the powers to:
-1. Casting votes
-2. Receiving power in state of emergency
+1. Cast votes
+2. Receive power in state of emergency
 
 #### Segment 2: Term Length
 The term length of each Prime Gen is 2 months.
