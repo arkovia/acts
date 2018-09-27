@@ -1,4 +1,4 @@
-# Human Rights Act
+# Arkovia Human Rights Act
 
 ## Table of Contents
 - [Human Rights Act](#human-rights-act)
