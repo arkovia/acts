@@ -1,4 +1,4 @@
-# Human Rights Act
+# Arkovia Human Rights Act
 
 ## Table of Contents
 - [Human Rights Act](#human-rights-act)
@@ -45,10 +45,11 @@ Adult Age: 18 years of age
     - Equal pay for equal work
     - Form and join trade unions for the protection
 15. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
-16. Everyone has the right to Food, Water and Shelter.
+16. Everyone has the right to food, water, shelter, and other basic life necessities.
 17. Everyone has the right to education. Fundamental education shall be compulsory.
 18. Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.
 19. Everyone has the right to access infrastructure within reasonable means.
 20. Everyone has the right to enjoy and entertain themselves.
 21. Everyone has the right to healthcare.
 22. Everyone has the right to the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+23. Everyone has the right to be free of arbitrary or un-necessary searches.

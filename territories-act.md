@@ -1,4 +1,4 @@
-# Borders Act
+# Arkovia Territories Act
 
 ## Part 1: Foundation
 ### Section 1: Preamble

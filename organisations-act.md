@@ -121,4 +121,4 @@ Board members of the EGI are selected by the Genesis Council or the Direct Democ
 
 ### Section 7: Company
 #### Segment 1: Introduction
-A `Company` can be a `Non-Profit`, `Sole Proprietorship`, or `Public Company`. 
+A `Company` can be a `Non-Profit`, `Sole Proprietorship`, or `Enhanced Government Institution` (`EGI`). 

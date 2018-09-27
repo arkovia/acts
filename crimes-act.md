@@ -1,4 +1,4 @@
-# Crimes Act
+# Arkovia Crimes Act
 
 ## Table of Contents
 - [Crimes Act](#crimes-act)
@@ -92,7 +92,7 @@ This act sets out the basic laws, crimes and offences in our nation, to prevent 
 The purpose of this act is to set the basic initial laws, crimes and offences, so that our nation will ensure stability.
 
 ### Section 3: Jurisdiction
-The jurisdiction of this Act is under the jurisdiction of the Crimes Arkovia, EGI.
+The jurisdiction of this Act is under the jurisdiction of `Crimes Arkovia, EGI`.
 
 ## Part 2: Crimes
 ### Section 1 - Search and Arrest Warrants
@@ -125,9 +125,9 @@ A person commits an offence if:
 
 #### Segment 1 - Rights
 A person has the right to self defence when:
-- they are attacked
-- are in immediate danger of an attack
-- their property is being invaded
+- they are attacked;
+- are in immediate danger of an attack;
+- their property is being invaded or attacked or in immediate danger of attack; and
 - another citizen is being attacked, or in immediate danger from an attack
 
 #### Segment 2 - Results of Self-Defence

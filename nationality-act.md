@@ -1,4 +1,4 @@
-# Citizenship Act
+# Arkovia Nationality Act
 
 ## Part 1: Foundation
 ### Section 1: Preamble
