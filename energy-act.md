@@ -11,22 +11,21 @@ The Arkovian Energy Act is design to stop oil consumption and encourages technol
 **Segment 2: Purpose**
 
 The purpose of the Arkovia Energy Act is to 
-
-Licence the use of Fossil Fuels 
-Tariff and Quota Fossil Fuels excluding Natural Gas
-Create a government company to manage and sell Fossil Fuels and Renewable Energy products 
-Ensure the use of Renewable Energies are easy to access and are commonplace in Arkovian society
-Give tax breaks to citizens who install their own renewable energies
-Subsidize 35% of the cost of renewable energy projects and installations 
-Introduce building regulations that mandate the use of solar panels on every building in Arkovia 
+- Licence the use of fossil fuels
+- Tariff and quota fossil fuels excluding natural gas
+- Ensure the use of Renewable Energies are easy to access and are commonplace in Arkovian society
+- Give tax breaks to citizens who install their own renewable energies
+- Subsidize 35% of the cost of renewable energy projects and installations 
+- Introduce building regulations that mandate the use of solar panels on every building in Arkovia 
 
 **Section 3: Interpretation & Definitions**
 
 Fossil Fuel(s)
-    Referring to Petrol/Gasoline, Diesel, Oil, and Coal. Natural Gas is excluded from the definition. 
+    Referring to petrol/gasoline, diesel, oil, and coal. Natural gas is excluded from the definition. 
 
 Renewable Energy
-    Referring to energy sources that can be replaced within a human lifetime. For example, solar, tidal, geothermal, and wind are renewable energies. 
+    Referring to energy sources that can be replaced within a human lifetime. For example, solar, tidal, geothermal, and wind                   
+    are renewable energies. 
     
 Interpretation videos are planned on being made for videos and court cases pending.
 
