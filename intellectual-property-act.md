@@ -1,4 +1,4 @@
-# Intellectual Property Act
+# Arkovia Intellectual Property Act
 
 ### Information
 
@@ -17,5 +17,5 @@ Videos for legal interp being made.
 
 ## Law
 
-## Part 1: Trademark EGI
+## Part 1: `Trademark Arkovia, EGI`
 Trademark Arkovia, EGI will be the sole subsidiary of the Arkovian government in charge of registration and management of IP in Arkovia.
