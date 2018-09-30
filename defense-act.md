@@ -6,19 +6,19 @@
 In order to provide defense to the Arkovian people, it's required to maintain a police, intelligence, and military services.
 
 ### Section 2: Jurisdiction
-#### Segment 1: Jurisdiction in Regards to `Police Arkovia, EGI`
-Police Arkovia, EGI shall have juridiction of crimes committed in the `Crimes Act`, in the limitation that this act provides.
+#### Segment 1: Jurisdiction in Regards to `Police Arkovia EGI`
+`Police Arkovia EGI` shall have juridiction of crimes committed in the `Crimes Act`, in the limitation that this act provides.
 
-#### Segment 2: Jurisdiction in Regards to `Military Arkovia, EGI`
-Military Arkovia, EGI shall have jurisdiction of acts made by its board of directors, in the limitation of international law and otherwise defined in this act, and the ability to act upon non-Arkovian territory, if a need arises, and in Arkovian territory.
+#### Segment 2: Jurisdiction in Regards to `Military Arkovia EGI`
+`Military Arkovia EGI` shall have jurisdiction of acts made by its board of directors, in the limitation of international law and otherwise defined in this act, and the ability to act upon non-Arkovian territory, if a need arises, and in Arkovian territory.
 
-#### Segment 3: Jurisdiction in Regards to `Intelligence Arkovia, EGI`
-Intelligence Arkovia, EGI shall have jurisdiction of finding intelligence reports for Police Arkovia, EGI, Military Arkovia, EGI, and all who are deemed worthy of obtaining such knowledge.
+#### Segment 3: Jurisdiction in Regards to `Intelligence Arkovia EGI`
+`Intelligence Arkovia EGI` shall have jurisdiction of finding intelligence reports for `Police Arkovia EGI`, `Military Arkovia EGI`, and all who are deemed worthy of obtaining such knowledge.
 
-## Part 2: `Defense Arkovia, EGI`
+## Part 2: `Defense Arkovia EGI`
 ### Section 1: Board of Directors
 #### Segment 1: Appointment of the Board of Directors
-A Board of Directors will assume authority over the command of Defense Arkovia, EGI by a vote of `50% + 1` in the Arksembly.
+A Board of Directors will assume authority over the command of `Defense Arkovia EGI` by a vote of `50% + 1` in the Arksembly.
 
 #### Segment 2: Requirements to Join the Board of Directors
 Membership in the Board of Directors can be granted by means of Segment 1 of this Section if the following conditions are met.
@@ -32,3 +32,17 @@ The Board of Directs will command the military by means of a self vote.
 The Board of Directors cannot command the military in a way that:
 - Violates the [`Universal Declaration of Human Rights`](https://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/eng.pdf), unless allowed by the Gen council or if Arkovia's in a State of Emergency;
 - Violates a treaty that Arkovia is in currently.
+
+
+### Section 2: Jobs of `Defense Arkovia EGI`
+#### Segment 1: Dispersion of Powers
+`Defense Arkovia EGI` will only be permitted to perform duties that are approved of it by appropriate legislation in the Arksembly and by command of the Board of Directors through executive action.
+
+#### Segment 2: Protection of Powers
+The people's approval will overrule that of the Board of Directors.
+
+#### Segment 3: Roles of the EGI
+`Defense Arkovia EGI` will provide defense systems to Arovia and may only perform actions which are deemed essential to protect Arkovia or actions approved of the Arksembly.
+
+#### Segment 4: Contestions
+If there are any contestions to any of the following of this Segment, the Arksembly or Arkovia Supreme Court may be contacted for appropriate definitions of what `Defense Arkovia EGI` needs to do in order to "protect Arkovia" and what other items may be seen as essential, like the definition of "essential".
