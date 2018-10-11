@@ -1,4 +1,4 @@
-# Arkovia Defense Act
+# Defense Act of 2018
 
 ## Part 1: Foundations
 ### Section 1: Purpose
