@@ -1,4 +1,4 @@
-# Judicial System Act
+# Judicial System Act of 2018
 
 ## Part 0: Information
 ### Section 1: Introduction
