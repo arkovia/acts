@@ -1,4 +1,4 @@
-# Arkovia Human Rights Act
+# Human Rights Act of 2018
 
 ## Table of Contents
 - [Human Rights Act](#human-rights-act)
