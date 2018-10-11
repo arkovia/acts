@@ -34,28 +34,23 @@ To allow people to make government recognized organizations.
 ### Section 3: Administration Authority
 The `ABIAA, EGI` (`Arkovian Business & Innovation Authority Arkovia, EGI`) has jurisdiction over this Act and has the right to take criminal measures for violation of policies.
 
-### Section 2: Rules & Laws for a Company
-#### Segment 1: Company Laws & Bylaws
+## Section 2: Section 2 Company a.k.a. Corporation
+#### Segment 1: Rules & Laws for a Company
+#### Paragraph 1: Company Laws & Bylaws
 Companies will be allowed to make company laws or bylaws, which must be followed by their employees. All bylaws and company laws must be shown to employees, shareholders, partners, consumers, and others, except the government before hiring or making contact (an organization property could have a sign outside showing your rules that must be followed in the facility, unless that rule's current government, however if it's a current rule of the government, a warning sign or otherwise could still be issued).
 
-#### Segment 2: Special Rules
+### Segment 2: Forming a Company
+#### Paragraph 1: Registration
+An `ABIAA.f1` must be fully filled out and turned into an ABIAA EGI location, representative, or online through the ABIAA website.
 
-#### Segment 3: Replaceable Rules
-
-#### Segment 4:
-
-### Section 3: Forming a Company
-#### Segment 1: Registration
-An `ABIAA.f1` must be fully filled out and turned into an ABIAA, EGI location, representative, or online through the ABIAA website.
-
-#### Segment 2: Requirements on the `ABIAA.f1` Form
+#### Paragraph 2: Requirements on the `ABIAA.f1` Form
 The `ABIAA.f1` must require:
 
 - bylaws and company laws, if any; and
 
 - articles of incorporation;
 
-#### Segment 3: Articles of Incorporation
+#### Paragraph 3: Articles of Incorporation
 The articles of incorporation must have:
 
 - the full name(s) of the company;
@@ -76,28 +71,41 @@ The articles of incorporation must have:
     
 - if they're a subsidiary, all of these for their parent company.
 
-### Section 4: Transferring a Company
-#### Segment 1: Requirements
+### Segment 3: Transferring a Company
+#### Paragraph 1: Requirements
 Transfering of a company may be done through approval of all the shareholders in a vote.
 
-#### Segment 2: Process
+#### Paragraph 2: Process
 At least three days before the transfering of the company, a representative of the board of directors must contact the Organizations Arkovia, EGI Registrar. The new owner(s) of the company must inform the shareholders, public, and press if they'll pay back the share's prices.
 
-#### Segment 3: Changes
+#### Paragraph 3: Changes
 The new owner(s) of the company will be given all the rights of the previous board of directors. The previous shareholder'll lose all their shares, and the new owner(s) aren't required to pay the prices back at all.
 
-### Section 4: Closing a Company
-abandon
-debts
-shares
-deregistration
-employees
+### Segment 4: Closing a Company
+#### Paragraph 1: Abandonment
+If there is an apparent loss in demand, shareholders may vote to close a company for abandonment and the company dissolves and all profits are then dispersed to the shareholders.
 
-### Section 5: Shareholders
-#### Segment 1: Knowledge of Dividend, Voting, and other Important Rights
+#### Paragraph 2: RDAM Bankruptcy
+A company may file an `ABBIAA.f2` for an RDAM (remissio debitorum ad mortem) bankruptcy claim and find a way in court or by self to give final assets to the creditor and/or shareholders.
+
+#### Paragraph 3: Deregistration
+A company will be considered closed if--
+(1) it has not payed debt, taxes, or payments owed to the government for 5 consecutive years;
+(2) there appears to be no management; and/or
+(3) it does not fill out the `ABBIAA.f1` for 5 consecutive years.
+
+#### Paragraph 4: Employees
+A company may be considered closed if there are no registered employees.
+
+#### Paragraph 5: Refund for Paragraph 4
+If there are no registered employees when the company is first files and the company is deregistered, the company may file for a refund for the incorporation process plus 10% of the filing price within 5 years of the company being deregistered.
+
+### Segment 5: Shareholders
+#### Paragraph 1: Knowledge of Dividend, Voting, and other Important Rights
 Shareholders will be allowed the knowledge of whether their class of stock will allow a dividend payment and when, a vote in a company's elections, company information, company statistics and other important rights.
 
-### Section 6: Enhanced Government Institution (EGI)
+## Section 3: Section 3 Company a.k.a. Small Business Corporation
+## Section 4: Enhanced Government Institution (EGI)
 #### Segment 1: Purpose
 An `Enhanced Government Institution` (`EGI`) is a form of state owned organization. Created for the purpose of:
 
@@ -114,11 +122,11 @@ An `Enhanced Government Institution` (`EGI`) is a form of state owned organizati
 - Improving self-sustainability of the nation
 
 #### Segment 2: Owner and Setup
-The Genesis Council will set up the first initial EGI, Arkovia EGI which owns all EGIs, including itself. All EGI's are fully government owned.
+The Genesis Council hereby sets up the first initial EGI, `Arkovia EGI`, which owns all EGIs, including itself. All EGI's are fully government owned by `Arkovia EGI`.
 
 #### Segment 3: Board Members
 Board members of the EGI are selected by the Genesis Council or the Direct Democracy. The Genesis Council has the power to over-ride and elect new EGI board members immediately.
 
-### Section 7: Company
+## Section 7: Company
 #### Segment 1: Introduction
-A `Company` can be a `Non-Profit`, `Sole Proprietorship`, or `Enhanced Government Institution` (`EGI`). 
+A `Company` can be a `general partnership` (`GP`), `limited partnership` (`LP`), `limited liability partnership` (`LLP`), `Limited Liability Limited Partnership` (`LLLP`), `Limited Liability Corporation` (`LLC`, `LC`, `Ltd. Co.`), `Professional Limited Liability Corporation` (`PLLC`), `Small Business Corporation` (`Corp.`, `Inc.`, `S.p.A.`), and `Corporation` (`Corp.`, `Inc.`, `S.p.A.`). 
