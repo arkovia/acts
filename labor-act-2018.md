@@ -1,4 +1,4 @@
-# Arkovia Labor Act
+# Labor Act of 2018
 
 ## Table of Contents
 - [Part 1: Foundation](#part-1-foundation)
