@@ -1,4 +1,4 @@
-# Arkovia Constitution Act
+# Constitution Act of 2018
 
 ## Table of Contents
 - [Arkovia Constitution Act](#arkovia-constitution-act)
