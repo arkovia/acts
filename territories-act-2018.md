@@ -1,4 +1,4 @@
-# Arkovia Territories Act
+# Territories Act of 2018
 
 ## Part 1: Foundation
 ### Section 1: Preamble
