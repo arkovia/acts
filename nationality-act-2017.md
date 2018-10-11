@@ -1,4 +1,4 @@
-# Arkovia Nationality Act
+# `Arkovian` Nationality Act of 2017
 
 ## Part 1: Foundation
 ### Section 1: Preamble
