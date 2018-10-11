@@ -1,4 +1,4 @@
-# Arkovia Corruption Act
+# Corruption Act of 2018
 ## Part 1: Foundations
 ### Section 1: Definitions
 **Lobby group (2,1,1)--**
