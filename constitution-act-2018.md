@@ -423,6 +423,7 @@ Changes to the protected acts must be treated as extensions of this constitution
 
 #### Segment 2: List of Protected Acts
 The Acts with protection are listed below:
-- Human Rights Act
-- Judicial System Act
-- Citizenship Act
+- Human Rights Act of 2018
+- Judicial System Act of 2018
+- Nationality Act of 2017
+- Territories Act of 2018
