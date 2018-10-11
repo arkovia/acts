@@ -1,4 +1,4 @@
-# Arkovia Energy Act
+# Energy Act of 2018
 
 # Part 1: Introduction 
 
