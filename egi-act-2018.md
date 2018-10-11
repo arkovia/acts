@@ -1,4 +1,4 @@
-# EGI Act
+# EGI Act of 2018
 
 ## Part 1: Foundation
 
