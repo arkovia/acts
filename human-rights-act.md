@@ -25,7 +25,7 @@ Adult Age: 18 years of age
 
 ## Part 2: Rights
 ### Section 1: List
-1. Everyone has the right to life from birth.
+1. Everyone has the right to life from conception.
 2. No one shall be subjected cruel, inhumane or degrading torture, treatment or punishment.
 3. Everyone the right to criticise all forms of of ideas, or ideologies, whether it may be offensive or not.
 4. Everyone below the age of 17 must not directly serve in conflict.
@@ -46,10 +46,10 @@ Adult Age: 18 years of age
     - Form and join trade unions for the protection
 15. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
 16. Everyone has the right to food, water, shelter, and other basic life necessities.
-17. Everyone has the right to education. Fundamental education shall be compulsory.
+17. Everyone has the right to education.
 18. Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.
-19. Everyone has the right to access infrastructure within reasonable means.
-20. Everyone has the right to enjoy and entertain themselves.
-21. Everyone has the right to healthcare.
-22. Everyone has the right to the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.
+19. Everyone has the right to access infrastructure within reasonable means if given permission by the governing or owning body.
+20. Everyone has the right to enjoy and entertain themselves on their own free will.
+21. Everyone has the right to healthcare if they cannot afford it themselves.
+22. Everyone has the right to the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances, with exception to obscene content, fighting words, perjury, blackmail, threats, assaults (even if they don't end in battery), putting a person in dread fear of imminent bodily harm, solicitations to commit crimes, or purposeful spreading of fake news or information.
 23. Everyone has the right to be free of arbitrary or un-necessary searches.
