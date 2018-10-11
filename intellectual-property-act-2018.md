@@ -1,4 +1,4 @@
-# Arkovia Intellectual Property Act
+# Intellectual Property Act of 2018
 
 ### Information
 
