@@ -35,8 +35,8 @@ To allow people to make government recognized organizations.
 The `ABIAA, EGI` (`Arkovian Business & Innovation Authority Arkovia, EGI`) has jurisdiction over this Act and has the right to take criminal measures for violation of policies.
 
 ## Section 2: Section 2 Company a.k.a. Corporation
+
 #### Segment 1: Rules & Laws for a Company
-#### Paragraph 1: Company Laws & Bylaws
 Companies will be allowed to make company laws or bylaws, which must be followed by their employees. All bylaws and company laws must be shown to employees, shareholders, partners, consumers, and others, except the government before hiring or making contact (an organization property could have a sign outside showing your rules that must be followed in the facility, unless that rule's current government, however if it's a current rule of the government, a warning sign or otherwise could still be issued).
 
 ### Segment 2: Forming a Company
@@ -61,7 +61,9 @@ The articles of incorporation must have:
 
 - the initial value of the company, if positive;
 
-- for each class of share, if any:
+- the amount of total debt;
+
+- for each class of share:
 
     - the rights of the holder;
     
@@ -69,17 +71,17 @@ The articles of incorporation must have:
     
     - the percentage of the company made up in that class;
     
-- if they're a subsidiary, all of these for their parent company.
+- if they're a subsidiary, all of these for their parent company, plus this for the subsidiary, excluding the value, debt, and rights for the classes of a shareholder.
 
-### Segment 3: Transferring a Company
+### Segment 3: Aquisition
 #### Paragraph 1: Requirements
-Transfering of a company may be done through approval of all the shareholders in a vote.
+Aquisition of a company may be done through approval of all the shareholders in a vote.
 
 #### Paragraph 2: Process
-At least three days before the transfering of the company, a representative of the board of directors must contact the Organizations Arkovia, EGI Registrar. The new owner(s) of the company must inform the shareholders, public, and press if they'll pay back the share's prices.
+At least three days before the aquisition of the company, a representative of the board of directors must contact the Organizations EGI Registrar. The new owner(s) of the company must inform the shareholders, public, and press if they'll pay with the new companies's shares or pay with cash.
 
 #### Paragraph 3: Changes
-The new owner(s) of the company will be given all the rights of the previous board of directors. The previous shareholder'll lose all their shares, and the new owner(s) aren't required to pay the prices back at all.
+The new owner(s) of the company will be given all the rights of the previous board of directors. The previous shareholder(s) will lose all their shares, being payed in full market capitalization in either cash or stock, as stated in Paragraph 2.
 
 ### Segment 4: Closing a Company
 #### Paragraph 1: Abandonment
@@ -104,9 +106,20 @@ If there are no registered employees when the company is first files and the com
 #### Paragraph 1: Knowledge of Dividend, Voting, and other Important Rights
 Shareholders will be allowed the knowledge of whether their class of stock will allow a dividend payment and when, a vote in a company's elections, company information, company statistics and other important rights.
 
+### Segment 6: Merger
+#### Paragraph 1: Requirements
+For a company to merge with another company, that company must get approval from the majority of voting shares.
+
+#### Paragraph 2: Payment to Shareholders
+Compansation must be paid to shareholders, either by shares of the new company or by cash. This may be determined by a vote by the shareholders of both companies. Payment must be completed on a close to 1:1 basis, so basically, they can not pay $500 for a $100 shareholding, but can pay in a closer range of about $110, but can not pay less than $100. An agreement for this must be reached by the shareholders of both parties.
+
 ## Section 3: Section 3 Company a.k.a. Small Business Corporation
+
+### Segment 1: 
+
 ## Section 4: Enhanced Government Institution (EGI)
-#### Segment 1: Purpose
+
+### Segment 1: Purpose
 An `Enhanced Government Institution` (`EGI`) is a form of state owned organization. Created for the purpose of:
 
 - Removing corruption and creating organisations focused towards national interest rather than profit
@@ -121,12 +134,9 @@ An `Enhanced Government Institution` (`EGI`) is a form of state owned organizati
 
 - Improving self-sustainability of the nation
 
-#### Segment 2: Owner and Setup
-The Genesis Council hereby sets up the first initial EGI, `Arkovia EGI`, which owns all EGIs, including itself. All EGI's are fully government owned by `Arkovia EGI`.
-
-#### Segment 3: Board Members
-Board members of the EGI are selected by the Genesis Council or the Direct Democracy. The Genesis Council has the power to over-ride and elect new EGI board members immediately.
+### Segment 2: Other Document
+The EGI will be controlled by the EGI Act of 2018.j
 
 ## Section 7: Company
-#### Segment 1: Introduction
+### Segment 1: Introduction
 A `Company` can be a `general partnership` (`GP`), `limited partnership` (`LP`), `limited liability partnership` (`LLP`), `Limited Liability Limited Partnership` (`LLLP`), `Limited Liability Corporation` (`LLC`, `LC`, `Ltd. Co.`), `Professional Limited Liability Corporation` (`PLLC`), `Small Business Corporation` (`Corp.`, `Inc.`, `S.p.A.`), and `Corporation` (`Corp.`, `Inc.`, `S.p.A.`). 
