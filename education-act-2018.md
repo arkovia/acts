@@ -77,7 +77,10 @@ Unexcused absences will result in a mark on the student's record. 3 absences wil
 In order to promote learning and creativity, children will be encouraged to follow the following school holidays, also known as "school spirit days".
 
 #### Segment 2: Pajama Day
-A day upon which the wearing of pajamas to school shall be authorized shall be known as a `pajama day`, and the date may be set by an elected school council, described in section 2.
+A day upon which the wearing of pajamas to school shall be authorized shall be known as a `pajama day`, and the date may be set by the treasurer of an elected school council, described in section 3.
+
+#### Segment 3: Barefoot Day
+A day upon which students do not have to wear shoes or socks, in order to raise awareness for poverty shall be authorized shall be known as a `barefoot day`, and the date may be set by the treasurer of an elected school council, described in section 3.
 
 ### Section 3: Student Council
 #### Segment 1: Introduction
