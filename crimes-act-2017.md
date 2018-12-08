@@ -93,7 +93,7 @@ This act sets out the basic laws, crimes and offences in our nation, to prevent 
 The purpose of this act is to set the basic initial laws, crimes and offences, so that our nation will ensure stability.
 
 ### Section 3 - Jurisdiction
-The jurisdiction of this Act is under the jurisdiction of `Crimes Arkovia, EGI`.
+The jurisdiction of this Act is under the jurisdiction of the `Crimes EGI`.
 
 ## Part 2: Crimes
 ### Section 1 - Crimes Against Arkovia
@@ -242,12 +242,16 @@ Areas signed, either by public, private or government owned locations that ban l
 #### Segment 3 - Unauthorised Modification
 
 #### Segment 4 - Online Attacks
+Any unauthorized attack on an online device meant to destroy or break another law is an offence.
 
 ### Section 10 - Escape from Custody
+Any escape from detention given by an authorized government official, under the laws of Arkovia, is an offence.
 
 #### Segment 1 - Rescuing Criminal Inmates
+Helping a criminal commit Section 10 is an offence.
 
 #### Segment 2 - Aiding Escape
+Any assistance to a criminal to escape custody under Section 10 is an offence
 
 #### Segment 3 - Escape
 
@@ -258,7 +262,8 @@ Areas signed, either by public, private or government owned locations that ban l
 ### Section 11 - Weapons
 
 #### Segment 1 - Banned Weapons
-All of the following weapons shall not be permitted in Arkovia, and sale, buying, manufacturing, and designing shall be made unlawful, and owning of one of them shall be the offense of "owning of a banned weapon".
+This Segment is meant to keep in accordance with the laws of Australia.
+All of the following weapons shall not be permitted in Arkovia, except for by the government, and sale, buying, manufacturing, and designing shall be made unlawful, and owning of one of them shall be the offense of "owning of a banned weapon".
 - Artillery
 - Firearms
 - Flame-throwers
