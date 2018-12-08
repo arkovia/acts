@@ -71,3 +71,7 @@ Approved absences include:
 
 #### Segment 2: Unexcused Absences
 Unexcused absences will result in a mark on the student's record. 3 absences will result in a conversation with a school administrator. 10 absences will result in a repeat of the school year.
+
+### Section 2: School Days
+#### Segment 1: Introduction
+In order to promote learning and creativity, children will be encouraged to follow the following school holidays, also known as "school spirit days".
