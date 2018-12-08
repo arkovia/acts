@@ -59,6 +59,15 @@ The Board of Directors of the `Education EGI` shall be voted on by the Arksembly
 With approval from a majority of the Board of Directors, the Minister is allowed to enact segment 2 by authorization of segments 4 and 5, and assume control over the jurisdiction of segment 1 of section 2 of part 1 of this act.
 
 ## Part 3: Education System
-```
-This section controls the education system of Arkovia
-```
+### Section 1: Absences
+#### Segment 1: Approved Absences
+Approved absences include:
+- for being sick or unable to go to school for a physical or mental condition
+- for having a religious holiday
+- for having a national holiday
+- for having lost a family member
+- for not having a school day as authorized by the Minister of Education
+- for weekends or approved breaks under this act
+
+#### Segment 2: Unexcused Absences
+Unexcused absences will result in a mark on the student's record. 3 absences will result in a conversation with a school administrator. 10 absences will result in a repeat of the school year.
