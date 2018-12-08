@@ -57,3 +57,8 @@ The Board of Directors of the `Education EGI` shall be voted on by the Arksembly
 
 #### Segment 6: Authorization of the Minister to Control Jurisdiction over `Education EGI`
 With approval from a majority of the Board of Directors, the Minister is allowed to enact segment 2 by authorization of segments 4 and 5, and assume control over the jurisdiction of segment 1 of section 2 of part 1 of this act.
+
+## Part 3: Education System
+```
+This section controls the education system of Arkovia
+```
