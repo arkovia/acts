@@ -75,3 +75,16 @@ Unexcused absences will result in a mark on the student's record. 3 absences wil
 ### Section 2: School Days
 #### Segment 1: Introduction
 In order to promote learning and creativity, children will be encouraged to follow the following school holidays, also known as "school spirit days".
+
+#### Segment 2: Pajama Day
+A day upon which the wearing of pajamas to school shall be authorized shall be known as a `pajama day`, and the date may be set by an elected school council, described in section 2.
+
+### Section 3: Student Council
+#### Segment 1: Introduction
+A council shall be established alongside with every school, known as `{name-of-the-school} Student Council`.
+
+#### Segment 2: Election
+Every year, starting one month before the end of the school year, a vote shall be run for `3 + (1/500 the number of students attending the school` councilors, 1 treasurer, and 1 secretary. Students of below 12 years of age may not participate in the elections or running of offices.
+
+#### Segment 3: Role of Councilors
+The role of the councilors will be to vote on and debate resolutions that the members of the school propose. The resolutions that pass the council must be approved by the school administration or principal, depending on the school charter.
