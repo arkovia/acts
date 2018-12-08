@@ -17,5 +17,5 @@ Videos for legal interp being made.
 
 ## Law
 
-## Part 1: `Trademark Arkovia, EGI`
-Trademark Arkovia, EGI will be the sole subsidiary of the Arkovian government in charge of registration and management of IP in Arkovia.
+## Part 1: `Trademark and Patent EGI`
+Trademark and Patent Arkovia EGI will be the sole subsidiary of the Arkovian government in charge of registration and management of IP in Arkovia.
