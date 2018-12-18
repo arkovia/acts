@@ -78,7 +78,7 @@ The motto of `ArkBank EGI` will be `"To fund the future, by the people for the p
 There shall exist an enhanced government institution (EGI) (defined under the Organizations Act of 2017) known as `ArkBank Non-Banking & Non-Gov't Services EGI`, and it shall exist as a sub-branch of `ArkBank EGI`.
 
 #### Segment 3: Owner of `ArkBank EGI`
-`ArkBank Non-Banking & Non-Gov't Services EGI` will initially have `100,000` shares, of which the the government of Arkovia will own `5,001`. The government will be required to own a `majority + 1` shares of `ArkBank Non-Banking & Non-Gov't Services EGI`.
+`ArkBank Non-Banking & Non-Gov't Services EGI` will initially have `100,000` shares, of which the the government of Arkovia will own `50,001`. The government will be required to own a `majority + 1` shares of `ArkBank Non-Banking & Non-Gov't Services EGI`.
 
 #### Segment 4: Motto of `ArkBank EGI`
 The motto of `ArkBank EGI` will be `"To encourage the devlopment of the future."`
