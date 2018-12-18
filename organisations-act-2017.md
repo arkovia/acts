@@ -1,4 +1,4 @@
-# Organisations Act
+# Organisations Act of 2017
 
 ## Table of Contents
 - [Organisations Act](#organisations-act)
