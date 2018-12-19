@@ -1,4 +1,4 @@
-# State Finances Act of 2018
+# Financial Industry Act of 2018
 
 ## Part 1: Foundations
 ### Section 1: Purpose
@@ -95,7 +95,7 @@ No organization other than `ArkBank EGI` shall be authorized to own over `30%` o
 
 #### Segment 4: Terms and Condition of Ownership of `ArkBank Non-Banking & Non-Gov't Services EGI`
 These terms and conditions must be followed in order to own any amount of shares of `ArkBank Non-Banking & Non-Gov't Services EGI` (hereinafter in these terms and conditions refered to as "the company"). If they are not followed, then the shares will be automatically sold at the discretion of the company. The purchaser of shares of the company must be presented with these terms and conditions and they must read these terms and conditions, otherwise any outside force hampering their ability to read these terms and conditions or the purchaser will face legal action at the discretion of the company.
-- I have read Part 5 of the State Finances Act of 2018 (https://github.com/arkovia/acts/blob/drafting/state-finances-act-2018.md).
+- I have read Part 5 of the Financial Industry Act of 2018 (https://github.com/arkovia/acts/blob/drafting/state-finances-act-2018.md).
 - I will not abuse my power in ownership of these shares in any way and will use them honestly;
 - I will not use my power in the company to commit crimes under Arkovian law;
 - I will not use the profits from my shares once sold to commit crimes under Arkovian law;
