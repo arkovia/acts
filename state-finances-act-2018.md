@@ -53,7 +53,7 @@ The Board of Directors cannot command ArkBank in a way that:
 The people's approval will overrule that of the Board of Directors.
 
 #### Segment 4: Contestions
-If there are any contestions to any of the following of this Segment, the Arksembly or Arkovia Supreme Court may be contacted for appropriate definitions of what `Defense Arkovia EGI` needs to do in order to "protect Arkovia" and what other items may be seen as essential, like the definition of "essential".
+If there are any contestions to any of the following of this Segment, the Arksembly or Arkovia Supreme Court may be contacted for appropriate definitions of what `ArkBank EGI` needs to do in order to "protect Arkovia" and what other items may be seen as essential, like the definition of "essential".
 
 ## Part 3: `ArkBank Government Services EGI`
 ### Section 1: Creation
@@ -74,7 +74,7 @@ The motto of `ArkBank EGI` will be `"To fund the future, by the people for the p
 
 ## Part 5: `ArkBank Non-Banking & Non-Gov't Services EGI`
 ### Section 1: Creation
-#### Segment 1: Creation of `ArkBank EGI`
+#### Segment 1: Creation of `ArkBank Non-Banking & Non-Gov't Services EGI`
 There shall exist an enhanced government institution (EGI) (defined under the Organizations Act of 2017) known as `ArkBank Non-Banking & Non-Gov't Services EGI`, and it shall exist as a sub-branch of `ArkBank EGI`.
 
 #### Segment 3: Owner of `ArkBank EGI`
@@ -82,3 +82,22 @@ There shall exist an enhanced government institution (EGI) (defined under the Or
 
 #### Segment 4: Motto of `ArkBank EGI`
 The motto of `ArkBank EGI` will be `"To encourage the devlopment of the future."`
+
+### Section 2: Stock
+#### Segment 1: Creation of `ArkBank Non-Banking & Non-Gov't Services EGI` Stock
+There shall exist `100,000` shares of `ArkBank Non-Banking & Non-Gov't Services EGI` in its creation. Each share shall be priced at 10 Arks, valuing the company at 1,000,000 Arks.
+
+#### Segment 2: Ability to Buy `ArkBank Non-Banking & Non-Gov't Services EGI` Stock
+Any organization or individual can purchase shares of founding shares by contacting `ArkBank Non-Banking & Non-Gov't Services EGI Investor Relations`.
+
+#### Segment 3: Limitations on Ownership of `ArkBank Non-Banking & Non-Gov't Services EGI` Stock
+No organization other than `ArkBank EGI` shall be authorized to own over `30%` of the capital stock of `ArkBank Non-Banking & Non-Gov't Services EGI`.
+
+#### Segment 4: Terms and Condition of Ownership of `ArkBank Non-Banking & Non-Gov't Services EGI`
+These terms and conditions must be followed in order to own any amount of shares of `ArkBank Non-Banking & Non-Gov't Services EGI` (hereinafter in these terms and conditions refered to as "the company"). If they are not followed, then the shares will be automatically sold at the discretion of the company. The purchaser of shares of the company must be presented with these terms and conditions and they must read these terms and conditions, otherwise any outside force hampering their ability to read these terms and conditions or the purchaser will face legal action at the discretion of the company.
+- I have read Part 5 of the State Finances Act of 2018 (https://github.com/arkovia/acts/blob/drafting/state-finances-act-2018.md).
+- I will not abuse my power in ownership of these shares in any way and will use them honestly;
+- I will not use my power in the company to commit crimes under Arkovian law;
+- I will not use the profits from my shares once sold to commit crimes under Arkovian law;
+- I will not use the purchasing of these shares as a way to launder money;
+- I am older than the age of 18 years if I am buying as an individual.
