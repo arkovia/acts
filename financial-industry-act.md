@@ -1,4 +1,4 @@
-# Financial Industry Act of 2018
+# Financial Industry Act
 
 ## Part 1: Foundations
 ### Section 1: Purpose
@@ -15,8 +15,8 @@ The purpose of this act is to provide non-corrupt financial services for the gov
 #### Segment 3: Jurisdiction in Regards to `ArkBank Banking Services EGI`
 `ArkBank Banking Services EGI` shall have jurisdiction over the banking of Arkovia.
 
-#### Segment 4: Jurisdiction in Regards to `ArkBank Non-Banking & Non-Gov't Services EGI`
-`ArkBank Non-Banking & Non-Gov't Services EGI` shall have jurisdiction over the finances of Arkovia, with limitation to banking and government services. For example, `ArkBank Non-Banking & Non-Gov't Services EGI` would invest in Arkovian businesses through Venture Capital.
+#### Segment 4: Jurisdiction in Regards to `ArkBank Services EGI`
+`ArkBank Services EGI` shall have jurisdiction over the finances of Arkovia, with limitation to banking and government services. For example, `ArkBank Services EGI` would invest in Arkovian businesses through Venture Capital.
 
 ## Part 2: `ArkBank EGI`
 ### Section 1: Creation
@@ -24,7 +24,7 @@ The purpose of this act is to provide non-corrupt financial services for the gov
 There shall exist an enhanced government institution (EGI) (defined under the Organizations Act of 2017) known as `ArkBank EGI`.
 
 #### Segment 2: Owner of `ArkBank EGI`
-`ArkBank EGI` will be `100%` owned by the government of Arkovia and will exist as a publicly owned corporation, with the exception of the `ArkBank Non-Banking & Non-Gov't Services EGI`.
+`ArkBank EGI` will be `100%` owned by the government of Arkovia and will exist as a publicly owned corporation, with the exception of the `ArkBank Services EGI`.
 
 #### Segment 3: Motto of `ArkBank EGI`
 The motto of `ArkBank EGI` will be `"To protect."`
@@ -72,30 +72,29 @@ The motto of `ArkBank EGI` will be `"To fund the future, by the people for the p
 
 ## Part 4: `ArkBank Banking Servies EGI`
 
-## Part 5: `ArkBank Non-Banking & Non-Gov't Services EGI`
+## Part 5: `ArkBank Services EGI`
 ### Section 1: Creation
-#### Segment 1: Creation of `ArkBank Non-Banking & Non-Gov't Services EGI`
-There shall exist an enhanced government institution (EGI) (defined under the Organizations Act of 2017) known as `ArkBank Non-Banking & Non-Gov't Services EGI`, and it shall exist as a sub-branch of `ArkBank EGI`.
+#### Segment 1: Creation of `ArkBank Services EGI`
+There shall exist an enhanced government institution (EGI) (defined under the Organizations Act of 2017) known as `ArkBank Services EGI`, and it shall exist as a sub-branch of `ArkBank EGI`.
 
 #### Segment 3: Owner of `ArkBank EGI`
-`ArkBank Non-Banking & Non-Gov't Services EGI` will initially have `100,000` shares, of which the the government of Arkovia will own `50,001`. The government will be required to own a `majority + 1` shares of `ArkBank Non-Banking & Non-Gov't Services EGI`.
+`ArkBank Services EGI` will initially have `100,000` shares, of which the the government of Arkovia will own `50,001`. The government will be required to own a `majority + 1` shares of `ArkBank Services EGI`.
 
 #### Segment 4: Motto of `ArkBank EGI`
 The motto of `ArkBank EGI` will be `"To encourage the devlopment of the future."`
 
 ### Section 2: Stock
-#### Segment 1: Creation of `ArkBank Non-Banking & Non-Gov't Services EGI` Stock
-There shall exist `100,000` shares of `ArkBank Non-Banking & Non-Gov't Services EGI` in its creation. Each share shall be priced at 10 Arks, valuing the company at 1,000,000 Arks.
+#### Segment 1: Creation of `ArkBank Services EGI` Stock
+There shall exist `100,000` shares of `ArkBank Services EGI` in its creation. Each share shall be priced at 10 Arks, valuing the company at 1,000,000 Arks.
 
-#### Segment 2: Ability to Buy `ArkBank Non-Banking & Non-Gov't Services EGI` Stock
-Any organization or individual can purchase shares of founding shares by contacting `ArkBank Non-Banking & Non-Gov't Services EGI Investor Relations`.
+#### Segment 2: Ability to Buy `ArkBank Services EGI` Stock
+Any organization or individual can purchase shares of founding shares by contacting `ArkBank Services EGI Investor Relations`.
 
-#### Segment 3: Limitations on Ownership of `ArkBank Non-Banking & Non-Gov't Services EGI` Stock
-No organization other than `ArkBank EGI` shall be authorized to own over `30%` of the capital stock of `ArkBank Non-Banking & Non-Gov't Services EGI`.
+#### Segment 3: Limitations on Ownership of `ArkBank Services EGI` Stock
+No organization other than `ArkBank EGI` shall be authorized to own over `30%` of the capital stock of `ArkBank Services EGI`.
 
-#### Segment 4: Terms and Condition of Ownership of `ArkBank Non-Banking & Non-Gov't Services EGI`
-These terms and conditions must be followed in order to own any amount of shares of `ArkBank Non-Banking & Non-Gov't Services EGI` (hereinafter in these terms and conditions refered to as "the company"). If they are not followed, then the shares will be automatically sold at the discretion of the company. The purchaser of shares of the company must be presented with these terms and conditions and they must read these terms and conditions, otherwise any outside force hampering their ability to read these terms and conditions or the purchaser will face legal action at the discretion of the company.
-- I have read Part 5 of the Financial Industry Act of 2018 (https://github.com/arkovia/acts/blob/drafting/state-finances-act-2018.md).
+#### Segment 4: Terms and Condition of Ownership of `ArkBank Services EGI`
+These terms and conditions must be followed in order to own any amount of shares of `ArkBank Services EGI` (hereinafter in these terms and conditions refered to as "the company"). If they are not followed, then the shares will be automatically sold at the discretion of the company. The purchaser of shares of the company must be presented with these terms and conditions and they must read these terms and conditions, otherwise any outside force hampering their ability to read these terms and conditions or the purchaser will face legal action at the discretion of the company.
 - I will not abuse my power in ownership of these shares in any way and will use them honestly;
 - I will not use my power in the company to commit crimes under Arkovian law;
 - I will not use the profits from my shares once sold to commit crimes under Arkovian law;
