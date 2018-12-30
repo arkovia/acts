@@ -1,5 +1,5 @@
 
-# Arkovia Constitution Act
+# Constitution Act
 
 ## Table of Contents
 - [Arkovia Constitution Act](#arkovia-constitution-act)
