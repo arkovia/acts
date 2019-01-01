@@ -1,13 +1,13 @@
-# Judicial System Act of 2018
+# Judicial System
 
 ## Part 0: Information
 ### Section 1: Introduction
 
 ### Section 1: Administration
-`Judicial Authority Arkovia EGI` has administration over this act.
+`Courts EGI` has administration over this act.
 
 ### Section 2: Law System
-#### Segment 1:
+#### Segment 1: Point System
 Arkovia uses a civil law, points-based system for judging criminals.
 
 - T-Type Point
@@ -79,55 +79,44 @@ Arkovia uses a civil law, points-based system for judging criminals.
         Closure
         Business Suspension
 
-#### Segment 2: Points System
-
-
-#### Segment 3: Law Requirements
-Laws must include: 
-
-1. Potential Punishments
-2. Time-lengths for punishments
-3. 
-
-
 ### Section 3: Court System
-#### Segment 1: Supreme Court
-Constitutional Law
-
-#### Segment 2: High Court
-
-#### Segment 3: Low Court
-
-#### Segment 4: Youth Court
-Youth's Recieve 25% of the points value for crimes
+The supreme court shall be the highest court of Arkovia and shall be given the authorization to create lower courts, which courts have the authorization to create lower courts, et cetera.
 
 #### Segment 5: Appeals Court
-
+The loser of a case may appeal the case to a higher court in hopes to win under higher jurisdiction. 
 
 ### Section 4: Justice System
-Judge and juury, lawyers
+#### Segment 1: Choice of Fate
+Convicted individuals shall be given the choice between a judge and a jury.
+
+#### Segment 2: Lawyers
+Convicted individuals shall be given the right to have a lawyer, private or public, and have the right to represent themselves.
 
 ### Section 5: Punishment System
-Types
+#### Segment 1: Types of Punishments Authorized
+The only authorized types of punishments authorized shall be
 - Deterance
 - Fine
 - Payment Reimbursement
-- Imprisonment
+- Imprisonment (under:)
     - Super-Low security
     - Low Security
     - Medium Security
     - High Security
     - Super High Security
 - Rehabilitation
-- Capital Punishment
-    - Execution
 - Community Service
 - Miltary Service
 
-Deterrance
-Fine
-Rehab
-Community Service + Rehab
-Military Service + Rehab
-Imprisonment + Rehab
-Execution
+#### Segment 2: Deterrance
+
+#### Segment 3: Fine
+A fine issued by the court shall be paid within one year of the issuance date or a 2 3/7% interest will initiate on the debt compounding yearly. The fine may not be lost in bankruptcy.
+
+#### Segment 4: Rehab
+
+#### Segment 5: Community Service + Rehab
+
+#### Segment 6: Military Service + Rehab
+
+#### Segment 7: Imprisonment + Rehab
