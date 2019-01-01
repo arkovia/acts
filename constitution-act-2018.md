@@ -26,16 +26,15 @@
     - [Part 3: National Philosophy](#part-3-national-philosophy)
         - [Section 1: Secular State](#section-1-secular-state)
         - [Section 2: Non-Religious Spiritual Philosophies](#section-2-non-religious-spiritual-philosophies)
-        - [Section 3: Nationalised Infrastructure](#section-3-nationalised-infrastructure)
-        - [Section 4: Free Healthcare](#section-4-free-healthcare)
-        - [Section 5: Free Education](#section-5-free-education)
-        - [Section 6: Welfare](#section-6-welfare)
-        - [Section 7: Open Sourced Capitalism](#section-7-open-sourced-capitalism)
-        - [Section 8: Patriotism](#section-8-patriotism)
-        - [Section 9: Direct Democracy](#section-9-direct-democracy)
-        - [Section 10: Community Cooperation](#section-10-community-cooperation)
-        - [Section 11: Transparency](#section-11-transparency)
-        - [Section 12: Accountability](#section-12-accountability)
+        - [Section 3: Free Healthcare](#section-4-free-healthcare)
+        - [Section 4: Free Education](#section-5-free-education)
+        - [Section 5: Welfare](#section-6-welfare)
+        - [Section 6: Open Sourced Capitalism](#section-7-open-sourced-capitalism)
+        - [Section 7: Patriotism](#section-8-patriotism)
+        - [Section 8: Direct Democracy](#section-9-direct-democracy)
+        - [Section 9: Community Cooperation](#section-10-community-cooperation)
+        - [Section 10: Transparency](#section-11-transparency)
+        - [Section 11: Accountability](#section-12-accountability)
     - [Part 4: Genesis Council](#part-4-genesis-council)
         - [Section 1: Preamble](#section-1-preamble)
         - [Section 2: Responsibility of Genesis Council](#section-2-responsibility-of-genesis-council)
@@ -169,48 +168,35 @@ Arkovia believes in a secular state, separated from religion. Religions may not 
 ### Section 2: Non-Religious Spiritual Philosophies
 Arkovia will teach non-religious spiritual philosophies.
 
-### Section 3: Nationalised Infrastructure
-Arkovia will nationalise public infrastructure to provide infrastructure to it's citizens to protect citizens from natural monopolies which result in profiteering, lack of innovation, poor management and wasteful spending.
-
-Arkovia will maintain full control over:
-
-- Health Infrastructure
-- Transport Infrastructure
-- Energy Infrastructure
-- Water Infrastructure
-- Internet & Communications Infrastructure
-- Waste Infrastructure
-- Banking Infrastructure
-
-### Section 4: Free Healthcare
+### Section 3: Free Healthcare
 Arkovia will devote resources to provide free healthcare for its citizens.
 
-### Section 5: Free Education
+### Section 4: Free Education
 Arkovia will devote resources to provide free education throughout life for all citizens.
 
-### Section 6: Welfare
+### Section 5: Welfare
 Arkovia will devote resources to provide welfare to citizens.
 
 Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover and keep safe.
 
-### Section 7: Open Sourced Capitalism
+### Section 6: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 
 Patents prevent competition by creating monopolies over concepts, ideas, inventions and therefore prevent further innovation.
 
-### Section 8: Patriotism
+### Section 7: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
 
-### Section 9: Direct Democracy
+### Section 8: Direct Democracy
 Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
 
-### Section 10: Community Cooperation
+### Section 9: Community Cooperation
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
-### Section 11: Transparency
+### Section 10: Transparency
 Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
 
-### Section 12: Accountability
+### Section 11: Accountability
 Arkovia believes in full accountability of the Government through:
 
 - Lasting positive change
