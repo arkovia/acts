@@ -206,8 +206,8 @@ Arkovia believes in full accountability of the Government through:
 - Empowered and effective employees
 
 ## Part 4: Genesis Council
-### Section 1: Preamble
-The Genesis Council is a council which consists of the national leaders of Arkovia, referred to as a Gen, or plurally as Gens
+### Section 1: Creation and Preamble
+There shall exist a Genesis Council EGI, which is a council which consists of the national leaders of Arkovia, referred to as a Gen, or plurally as Gens.
 
 ### Section 2: Responsibility of Genesis Council
 The responsibilities of the Genesis Council is to collectively:
@@ -405,7 +405,7 @@ Changes to the protected acts must be treated as extensions of this constitution
 
 #### Segment 2: List of Protected Acts
 The Acts with protection are listed below:
-- Human Rights Act of 2018
-- Judicial System Act of 2018
-- Nationality Act of 2017
-- Territories Act of 2018
+- Human Rights Act
+- Judicial System Act
+- Nationality Act
+- Territories Act
