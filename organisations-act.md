@@ -1,4 +1,4 @@
-# Organisations Act of 2017
+# Organisations Act
 
 ## Table of Contents
 - [Organisations Act](#organisations-act)
@@ -88,7 +88,16 @@ The new owner(s) of the company will be given all the rights of the previous boa
 If there is an apparent loss in demand, shareholders may vote to close a company for abandonment and the company dissolves and all profits are then dispersed to the shareholders.
 
 #### Paragraph 2: RDAM Bankruptcy
-A company may file an `ABBIAA.f2` for an RDAM (remissio debitorum ad mortem) bankruptcy claim and find a way in court or by self to give final assets to the creditor and/or shareholders.
+A company may file an `ABBIAA.f2` for an RDAM (remissio debitorum ad mortem) bankruptcy claim and find a way in court or by self to liquidate.
+
+#### Paragraph 3: Liquidation Order
+The order of priority for returning liquidation is:
+- employees' paycheque for the period of liquidation
+- government debts
+- bondholders
+- debentureholders
+- prefered stockholders
+- common stockholders
 
 #### Paragraph 3: Deregistration
 A company will be considered closed if--
@@ -113,7 +122,7 @@ For a company to merge with another company, that company must get approval from
 #### Paragraph 2: Payment to Shareholders
 Compansation must be paid to shareholders, either by shares of the new company or by cash. This may be determined by a vote by the shareholders of both companies. Payment must be completed on a close to 1:1 basis, so basically, they can not pay $500 for a $100 shareholding, but can pay in a closer range of about $110, but can not pay less than $100. An agreement for this must be reached by the shareholders of both parties.
 
-## Section 3: Section 3 Company a.k.a. Small Business Corporation
+## Section 3: Section 3 Company (a.k.a. Small Business Corporation)
 
 ### Segment 1: 
 
@@ -135,8 +144,10 @@ An `Enhanced Government Institution` (`EGI`) is a form of state owned organizati
 - Improving self-sustainability of the nation
 
 ### Segment 2: Other Document
-The EGI will be controlled by the EGI Act of 2018.j
+The EGI will be controlled by the EGI Act. The EGI Act will not be considered an extention of this Act.
 
+```
 ## Section 7: Company
 ### Segment 1: Introduction
 A `Company` can be a `general partnership` (`GP`), `limited partnership` (`LP`), `limited liability partnership` (`LLP`), `Limited Liability Limited Partnership` (`LLLP`), `Limited Liability Corporation` (`LLC`, `LC`, `Ltd. Co.`), `Professional Limited Liability Corporation` (`PLLC`), `Small Business Corporation` (`Corp.`, `Inc.`, `S.p.A.`), and `Corporation` (`Corp.`, `Inc.`, `S.p.A.`). 
+```
