@@ -1,4 +1,4 @@
-# Human Rights Act of 2018
+# Human Rights Act
 
 ## Table of Contents
 - [Human Rights Act](#human-rights-act)
@@ -83,8 +83,21 @@ Adult Age: 18 years of age
 
 **Protection of the Right to Access Infrastructure**
 18. Everyone has the right to access infrastructure within reasonable means if given permission by the governing or owning body.
+
+**Protection of the Right to Entertainment**
 19. Everyone has the right to enjoy and entertain themselves on their own free will.
+
+**Protection of the Right to Healthcare**
 20. Everyone has the right to healthcare if they cannot afford it themselves.
+
+**Protection of the Right to Speech**
 21. Everyone has the right to the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances, with exception to obscene content, fighting words, perjury, blackmail, threats, assaults (even if they don't end in battery), putting a person in dread fear of imminent bodily harm, solicitations to commit crimes, or purposeful spreading of fake news or information.
+
+**Protection of the Right for People to Not Have Abitrary or Un-necessary Searches**
 22. Everyone has the right to be free of arbitrary or un-necessary searches.
+
+**Protection of the Right for Refugees to Stay in Arkovia**
 23. Every person escaping another country in search of these human rights in this Act or fleeing violations of these rights shall have the right to settle in Arkovia, free of arrest and shall be given a shortcut to citizenship.
+
+**Protection of the Right of Private Property**
+24. The government must respect the rights of private property and must never seize private property without a deal between the land owner and the government.
