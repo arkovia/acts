@@ -1,7 +1,5 @@
 # Taxation Act
 
-### Information
-
 ### Description
 Allowing the Arkovian Government to raise money to provide services.
 
@@ -103,7 +101,46 @@ For all purchases of equity stock or debt, with the exception of Arkovian govern
 #### Segment 15: Avoiding Capital Gain Taxes
 If any individual or company is found to decrease the sizes of purchases and/or sales to avoid a higher capital gain taxes, they will be committing "avoiding of taxes" and will be prosicuted under the law.
 
+#### Segment 16: Independence
+This section will only apply when the government declares independence.
+
 ### Section 3: Corporate
+
+#### Segment 1: Corporations with Shareholder's Equity Under $20,000
+If a corporation has a shareholder's equity of under $20,000, there shall be no taxation on the corporation.
+
+#### Segment 2: Corporations with Shareholder's Equity Under $50,000
+If a corporation has a shareholder's equity of under $50,000, but above $20,000, there shall be a 0.25% taxation on the profits of the corporation.
+
+#### Segment 3: Corporations with Shareholder's Equity Under $100,000
+If a corporation has a shareholder's equity of under $100,000, but above $50,000, there shall be a 0.3% taxation on the profits of the corporation.
+
+#### Segment 4: Corporations with Shareholder's Equity Under $200,000
+If a corporation has a shareholder's equity of under $200,000, but above $100,000, there shall be a 0.35% taxation on the profits of the corporation.
+
+#### Segment 5: Corporation with Shareholder's Equity Under $500,000
+If a corporation has a shareholder's equity of under $500,000, but above $200,000, there shall be a 0.4% taxation on the profits of the corporation.
+
+#### Segment 6: Corporations with Shareholder's Equity Under $1,000,000
+If a corporation has a shareholder's equity of under $1,000,000, but above $500,000, there shall be a 0.45% taxation on the profits of the corporation.
+
+#### Segment 7: Corporations with Shareholder's Equity Under $2,000,000
+If a corporation has a shareholder's equity of under $2,000,000, but above $1,000,000, there shall be a 0.5% taxation on the profits of the corporation.
+
+#### Segment 8: Corporations with Shareholder's Equity Under $10,000,000
+If a corporation has a shareholder's equity of under $10,000,000, but above $2,000,000, there shall be a 0.55% taxation on the profits of the corporation.
+
+#### Segment 9: Corporations with Shareholder's Equity Under $50,000,000
+If a corporation has a shareholder's equity of under $50,000,000, but above $100,000,000, there shall be a 0.6% taxation on the profits of the corporation.
+
+#### Segment 10: Corporations with Shareholder's Equity Under $100,000,000
+If a corporation has a shareholder's equity of under $100,000,000, but above $50,000,000, there shall be a 0.65% taxation on the profits of the corporation.
+
+#### Segment 11: Corporations with Shareholder's Equity Under $500,000,000
+If a corporation has a shareholder's equity of under $500,000,000, but above $100,000,000, there shall be a 0.7% taxation on the profits of the corporation.
+
+#### Segment 12: Corporations with Shareholder's Equity Under or Above $1,000,000,000
+If a corporation has a shareholder's equity of under $1,000,000, but above $500,000,000, there shall be a 0.75% taxation on the profits of the corporation.
 
 ### Section 4: Exceptions
 
