@@ -46,10 +46,10 @@ Companies will be allowed to make company laws or bylaws, which must be followed
 
 ### Section 3: Forming a Company
 #### Segment 1: Registration
-An `ABIAA.f1` must be fully filled out and turned into an ABIAA, EGI location, representative, or online through the ABIAA website.
+A form `101` must be fully filled out and turned into an ABIAA, EGI location, representative, or online through the ABIAA website.
 
-#### Segment 2: Requirements on the `ABIAA.f1` Form
-The `ABIAA.f1` must require:
+#### Segment 2: Requirements on the `101` Form
+The `101` must require:
 
 - bylaws and company laws, if any; and
 
