@@ -41,10 +41,10 @@ Companies will be allowed to make company laws or bylaws, which must be followed
 
 ### Segment 2: Forming a Company
 #### Paragraph 1: Registration
-An `ABIAA.f1` must be fully filled out and turned into an ABIAA EGI location, representative, or online through the ABIAA website.
+A form 101 must be fully filled out and turned into an ABIAA EGI location, representative, or online through the ABIAA website.
 
-#### Paragraph 2: Requirements on the `ABIAA.f1` Form
-The `ABIAA.f1` must require:
+#### Paragraph 2: Requirements on the Form 101
+The form 101 must require:
 
 - bylaws and company laws, if any; and
 
@@ -88,7 +88,7 @@ The new owner(s) of the company will be given all the rights of the previous boa
 If there is an apparent loss in demand, shareholders may vote to close a company for abandonment and the company dissolves and all profits are then dispersed to the shareholders.
 
 #### Paragraph 2: RDAM Bankruptcy
-A company may file an `ABBIAA.f2` for an RDAM (remissio debitorum ad mortem) bankruptcy claim and find a way in court or by self to liquidate.
+A company may file a form 101 for an RDAM (remissio debitorum ad mortem) bankruptcy claim and find a way in court or by self to liquidate.
 
 #### Paragraph 3: Liquidation Order
 The order of priority for returning liquidation is:
@@ -103,7 +103,7 @@ The order of priority for returning liquidation is:
 A company will be considered closed if--
 (1) it has not payed debt, taxes, or payments owed to the government for 5 consecutive years;
 (2) there appears to be no management; and/or
-(3) it does not fill out the `ABBIAA.f1` for 5 consecutive years.
+(3) it does not fill out the form 101 for 5 consecutive years.
 
 #### Paragraph 4: Employees
 A company may be considered closed if there are no registered employees.
