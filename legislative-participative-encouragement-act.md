@@ -26,3 +26,5 @@ The `Committe for Legislative Simplicity of Arkovia` will be tasked with acting 
 
 #### Segment 3: Less Payment for More Words (Exception to Section 1, Segment 1 of this Part)
 When the piece of legislation increases over the average for pieces of legislation in its category, the payment per word will be decreased by a rate of 10% per 1,000 words relative to the last price.
+
+### Section 3: Organizations
