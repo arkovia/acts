@@ -1,4 +1,4 @@
-# Legislative Standard Act of 2018
+# Legislative Standard Act
 
 ## Part 1: Foundation
 ### Section 1: Preamble
