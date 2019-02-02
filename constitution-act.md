@@ -127,7 +127,7 @@ The process to amend the constitution is as follows:
 4. The active change becomes an accepted change and is implemented into the constitution.
 
 #### Segment 3: Genesis Council Amendments
-The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but should generally abstain from doing so.
+The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but should generally abstain from doing so. The amendments from the Genesis Council must be approved by `75% + 1` of its members.
 
 ## Part 2: National Profile
 ### Section 1: General
