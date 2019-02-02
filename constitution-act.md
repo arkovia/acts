@@ -107,7 +107,7 @@ Arkovia's purposes are unlimited. Some key purposes are to:
 - Remove thick bureaucracy by applying use of digital governance
 
 ### Section 3: Interpretations
-All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council.
+All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council or the Supreme Court of Arkovia. If in conflict, the Supreme Court holds supremacy.
 
 ### Section 4: Definitions
 ```
@@ -127,7 +127,7 @@ The process to amend the constitution is as follows:
 4. The active change becomes an accepted change and is implemented into the constitution.
 
 #### Segment 3: Genesis Council Amendments
-The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but will generally abstain from doing so.
+The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but should generally abstain from doing so.
 
 ## Part 2: National Profile
 ### Section 1: General
@@ -179,8 +179,6 @@ Arkovia's aim is provide basic safety nets for citizens who are disabled, homele
 ### Section 5: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 
-Patents prevent competition by creating monopolies over concepts, ideas, inventions and therefore prevent further innovation.
-
 ### Section 6: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
 
@@ -208,7 +206,7 @@ Arkovia believes in full accountability of the Government through:
 
 ## Part 4: Genesis Council
 ### Section 1: Creation and Preamble
-There shall exist a Genesis Council EGI, which is a council which consists of the national leaders of Arkovia, referred to as a Gen, or plurally as Gens.
+There shall exist a Genesis Council EGI, which is a council that is to consist of the national leaders of Arkovia, referred to individually as a Gen, or plurally as Gens.
 
 ### Section 2: Responsibility of Genesis Council
 The responsibilities of the Genesis Council is to collectively:
