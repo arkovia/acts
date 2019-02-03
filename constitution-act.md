@@ -25,15 +25,14 @@
             - [Segment 2: Design Placement](#segment-2-design-placement)
     - [Part 3: National Philosophy](#part-3-national-philosophy)
         - [Section 1: Secular State](#section-1-secular-state)
-        - [Section 2: Non-Religious Spiritual Philosophies](#section-2-non-religious-spiritual-philosophies)
-        - [Section 3: Free Education](#section-3-free-education)
-        - [Section 4: Welfare](#section-4-welfare)
-        - [Section 5: Open Sourced Capitalism](#section-5-open-sourced-capitalism)
-        - [Section 6: Patriotism](#section-6-patriotism)
-        - [Section 7: Direct Democracy](#section-7-direct-democracy)
-        - [Section 8: Community Cooperation](#section-8-community-cooperation)
-        - [Section 9: Transparency](#section-9-transparency)
-        - [Section 10: Accountability](#section-10-accountability)
+        - [Section 2: Free Education](#section-2-free-education)
+        - [Section 3: Welfare](#section-3-welfare)
+        - [Section 4: Open Sourced Capitalism](#section-4-open-sourced-capitalism)
+        - [Section 5: Patriotism](#section-5-patriotism)
+        - [Section 6: Direct Democracy](#section-6-direct-democracy)
+        - [Section 7: Community Cooperation](#section-7-community-cooperation)
+        - [Section 8: Transparency](#section-8-transparency)
+        - [Section 9: Accountability](#section-9-accountability)
     - [Part 4: Genesis Council](#part-4-genesis-council)
         - [Section 1: Preamble](#section-1-preamble)
         - [Section 2: Responsibility of Genesis Council](#section-2-responsibility-of-genesis-council)
@@ -165,33 +164,30 @@ The
 ### Section 1: Secular State
 Arkovia believes in a secular state, separated from religion. Religions may not influence law or government.
 
-### Section 2: Non-Religious Spiritual Philosophies
-Arkovia will teach non-religious spiritual philosophies.
-
-### Section 3: Free Education
+### Section 2: Free Education
 Arkovia will devote resources to provide free education throughout life for all citizens.
 
-### Section 4: Welfare
+### Section 3: Welfare
 Arkovia will devote resources to provide welfare to citizens.
 
 Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover and keep safe.
 
-### Section 5: Open Sourced Capitalism
+### Section 4: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 
-### Section 6: Patriotism
+### Section 5: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
 
-### Section 7: Direct Democracy
+### Section 6: Direct Democracy
 Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
 
-### Section 8: Community Cooperation
+### Section 7: Community Cooperation
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
-### Section 9: Transparency
+### Section 8: Transparency
 Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
 
-### Section 10: Accountability
+### Section 9: Accountability
 Arkovia believes in full accountability of the Government through:
 
 - Lasting positive change
