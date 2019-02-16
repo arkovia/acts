@@ -1,4 +1,4 @@
-# Labor Act of 2018
+# Labor Act
 
 ## Table of Contents
 - [Part 1: Foundation](#part-1-foundation)
@@ -26,11 +26,11 @@ The purpose of this Act is to protect the rights of the worker and employer.
 
 ### Section 3: Jurisdiction
 #### Segment 1
-The jurisdiction of this act is to be held by `Labor Arkovia, EGI`.
+The jurisdiction of this act is to be held by the `Labor EGI`.
 
 ### Section 4: Interpretation
 #### Segment 1
-The interpretation of this Act may be interpreted by the court system, or for criminalization by Labor Arkovia, EGI, though the court's interpretations trump that of Labor Arkovia, EGI.
+The interpretation of this Act may be interpreted by the court system, or for criminalization by Labor EGI, though the court's interpretations trump that of the Labor EGI.
 
 ## Part 2: Statistics
 ### Section 1: Division of Labor Statistics
