@@ -35,10 +35,10 @@ The interpretation of this Act may be interpreted by the court system, or for cr
 ## Part 2: Statistics
 ### Section 1: Division of Labor Statistics
 #### Segment 1: Purpose and Tasks
-The DLS will provide and manage free labor statistics in Arkovia.
+The Division of Labor Statistics or DLS will provide and manage free and public labor statistics in Arkovia.
 
 #### Segment 2: Release of Information
-The DLS will post information on the Arkovia website and print, upon request labor statistics for a fee of (arks-symbol)10, one of which shall be given to the Genesis Council on every January 1st, recording total information on the previous fiscal year.
+The DLS will post information on the Arkovia website and print, upon request, labor statistics for a fee of (arks-symbol)10, one copy of which shall be given to the Genesis Council on every January 1st, recording total information on the previous year.
 
 #### Segment 3: Administration
-The DLS will be led by the CEO of Labor Arkovia, EGI.
+The DLS will be led and administered by the CEO of the Labor EGI.
