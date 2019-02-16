@@ -1,4 +1,4 @@
-# Land Act of 2018
+# Land Act
 
 ## Section 1: Foundations
 
