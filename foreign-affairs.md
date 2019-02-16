@@ -31,3 +31,10 @@ The roles of the administration of the Foreign Affairs EGI are to be
 #### Segment 2: Appointment of Administration
 - PEM
   - Elected by the Genesis Council when the population is under 10,000. When the population is above 10,000, elected by the Arksembly.
+
+### Section 3: Foreign Affairs
+#### Segment 1: Authorization
+The Foreign Affairs EGI shall have authorization to perform foreign affairs with plenipotentiary power relating to
+- recognition of foreign states of international organizations
+- recognition of foreign nations and/or international nations (nations that extend into Arkovia)
+- treaties with foreign nations and/or international organizations
