@@ -170,7 +170,9 @@ Arkovia will devote resources to provide free education throughout life for all 
 ### Section 3: Welfare
 Arkovia will devote resources to provide welfare to citizens.
 
-Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover and keep safe.
+Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover, keep safe, and get back on their feet.
+
+It'll be designed to get those able to work, back to work and contributing to society.
 
 ### Section 4: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
