@@ -9,7 +9,6 @@
       - [Segment 1: Purpose of the Constitution](#segment-1-purpose-of-the-constitution)
       - [Segment 2: Purpose of Arkovia](#segment-2-purpose-of-arkovia)
     - [Section 3: Interpretations](#section-3-interpretations)
-    - [Section 4: Definitions](#section-4-definitions)
     - [Section 5: Constitutional Amendments](#section-5-constitutional-amendments)
       - [Segment 1: Parts Subject to Amendments](#segment-1-parts-subject-to-amendments)
       - [Segment 2: Amendment Process](#segment-2-amendment-process)
@@ -26,31 +25,19 @@
   - [Part 3: National Philosophy](#part-3-national-philosophy)
     - [Section 1: Secular State](#section-1-secular-state)
     - [Section 2: Free Education](#section-2-free-education)
-    - [Section 3: Free Healthcare](#section-3-free-healthcare)
-    - [Section 4: Welfare](#section-4-welfare)
-    - [Section 5: Open Sourced Capitalism](#section-5-open-sourced-capitalism)
-    - [Section 6: Patriotism](#section-6-patriotism)
-    - [Section 7: Direct Democracy](#section-7-direct-democracy)
-    - [Section 8: Community Cooperation](#section-8-community-cooperation)
-    - [Section 9: Transparency](#section-9-transparency)
-    - [Section 10: Accountability](#section-10-accountability)
+    - [Section 3: Welfare](#section-3-welfare)
+    - [Section 4: Open Sourced Capitalism](#section-4-open-sourced-capitalism)
+    - [Section 5: Patriotism](#section-5-patriotism)
+    - [Section 6: Direct Democracy](#section-6-direct-democracy)
+    - [Section 7: Community Cooperation](#section-7-community-cooperation)
+    - [Section 8: Transparency](#section-8-transparency)
+    - [Section 9: Accountability](#section-9-accountability)
   - [Part 4: Genesis Council](#part-4-genesis-council)
     - [Section 1: Creation and Preamble](#section-1-creation-and-preamble)
     - [Section 2: Responsibility of Genesis Council](#section-2-responsibility-of-genesis-council)
     - [Section 3: Responsibility of a Gen](#section-3-responsibility-of-a-gen)
     - [Section 4: Council Voting Protocol](#section-4-council-voting-protocol)
     - [Section 5: Powers of the Genesis Council](#section-5-powers-of-the-genesis-council)
-    - [Section 6: Prime Gen](#section-6-prime-gen)
-      - [Segment 1: Powers of the Prime Gen](#segment-1-powers-of-the-prime-gen)
-      - [Segment 2: Term Length](#segment-2-term-length)
-      - [Segment 3: Prime Gen Election Protocol](#segment-3-prime-gen-election-protocol)
-      - [Segment 4: Replacement of Prime Gen](#segment-4-replacement-of-prime-gen)
-    - [Section 7: State of Emergency](#section-7-state-of-emergency)
-      - [Segment 1: Triggering State of Emergency](#segment-1-triggering-state-of-emergency)
-      - [Segment 2: Nullified Genesis Council Powers](#segment-2-nullified-genesis-council-powers)
-      - [Segment 3: Extended Prime Gen Term](#segment-3-extended-prime-gen-term)
-      - [Segment 4: Prime Gen Unavailability](#segment-4-prime-gen-unavailability)
-      - [Segment 5: Ending State of Emergency](#segment-5-ending-state-of-emergency)
     - [Section 6: Membership](#section-6-membership)
       - [Segment 1: Minimum Gens](#segment-1-minimum-gens)
       - [Segment 2: Gen Recruitment Protocol](#segment-2-gen-recruitment-protocol)
@@ -71,7 +58,6 @@
       - [Segment 1: Changes to Protected Acts](#segment-1-changes-to-protected-acts)
       - [Segment 2: List of Protected Acts](#segment-2-list-of-protected-acts)
 
----
 
 ## Part 1: Foundation
 ### Section 1: Preamble
@@ -108,11 +94,6 @@ Arkovia's purposes are unlimited. Some key purposes are to:
 
 ### Section 3: Interpretations
 All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council or the Supreme Court of Arkovia. If in conflict, the Supreme Court holds supremacy.
-
-### Section 4: Definitions
-```
-Citizen: Definition found in Citizenship Act
-```
 
 ### Section 5: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
@@ -168,32 +149,29 @@ Arkovia believes in a secular state, separated from religion. Religions may not 
 ### Section 2: Free Education
 Arkovia will devote resources to provide free education throughout life for all citizens, to the best of it's ability.
 
-### Section 3: Free Healthcare
-Arkovia will devote resources to provide free healthcare throughout life for all citizens, to the best of it's ability.
-
-### Section 4: Welfare
+### Section 3: Welfare
 Arkovia will devote resources to provide welfare to citizens.
 
 Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover, keep safe, and get back on their feet.
 
 It'll be designed to get those able to work, back to work and contributing to society.
 
-### Section 5: Open Sourced Capitalism
+### Section 4: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 
-### Section 6: Patriotism
+### Section 5: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
 
-### Section 7: Direct Democracy
+### Section 6: Direct Democracy
 Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
 
-### Section 8: Community Cooperation
+### Section 7: Community Cooperation
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
-### Section 9: Transparency
+### Section 8: Transparency
 Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
 
-### Section 10: Accountability
+### Section 9: Accountability
 Arkovia believes in full accountability of the Government through:
 
 - Lasting positive change
@@ -261,46 +239,6 @@ The Genesis Council holds the powers to:
 4. Pardon criminals
 5. Modify this part of the constitution
 
-### Section 6: Prime Gen
-#### Segment 1: Powers of the Prime Gen
-The Prime Gen holds the powers to:
-1. Cast votes
-2. Receive power in state of emergency
-
-#### Segment 2: Term Length
-The term length of each Prime Gen is 2 months.
-
-#### Segment 3: Prime Gen Election Protocol
-
-1. Voting is compulsory
-2. Gens may not vote for themselves
-3. Prime gen receives right to casting vote
-4. Follows Genesis Council voting protocol
-5. Gen with highest votes receives Prime Gen
-6. Prime Gens may be re-elected
-
-#### Segment 4: Replacement of Prime Gen
-The Genesis Council may hold a vote to remove the Prime Gen. The Prime Gen does not need to be present. At least `50% + 1` of the Gens not including the Prime Gen must approve.
-
-### Section 7: State of Emergency
-#### Segment 1: Triggering State of Emergency
-State of Emergency can be triggered by a vote in the Genesis Council. `75% +` of the Council must approve. If the proposal is accepted, the Prime Gen Receives full control over the nation and its military.
-
-#### Segment 2: Nullified Genesis Council Powers
-All of the council's powers during State of Emergency are nullified, besides the powers to:
-1. Vote for an end State of Emergency.
-2. Amend this part of the constitution.
-3. Ability to re-elect the Prime Gen
-
-#### Segment 3: Extended Prime Gen Term
-If State of Emergency lasts more than the Gen's term, the Gen continues their position, but when State of Emergency is ended, a Gen re-election must be held.
-
-#### Segment 4: Prime Gen Unavailability
-If the Prime Gen becomes unavailable during State of Emergency, an emergency Prime Gen re-election is held.
-
-#### Segment 5: Ending State of Emergency
-State of Emergency can be ended by a Genesis Council vote. If the proposal is accepted, state of emergency is cancelled and powers are returned to the Genesis Council.
-
 ### Section 6: Membership
 #### Segment 1: Minimum Gens
 The Genesis Council MUST maintain at minimum 4 active and capable gens.
@@ -317,7 +255,7 @@ The Genesis Council MUST maintain at minimum 4 active and capable gens.
 If the initiative is accepted, the candidate takes the Gen oath and receives membership in the Genesis Council
 
 #### Segment 3: Gen Oath
-I, [FULL NAME] solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, and swear to maintain high personal integrity to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
+I, `FULL NAME` solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, and swear to maintain high personal integrity to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
 
 #### Segment 4: Death or Unavailability of a Gen
 Gens may assign a heir to inherit their position in case of temporary or permanent disappearance, coma, death, or other forms of long-term unconsciousness which affects capability to fulfil responsibilities as a Gen.
