@@ -167,32 +167,32 @@ Arkovia believes in a secular state, separated from religion. Religions may not 
 ### Section 2: Free Education
 Arkovia will devote resources to provide free education throughout life for all citizens, to the best of it's ability.
 
-### Section 2: Free Healthcare
+### Section 3: Free Healthcare
 Arkovia will devote resources to provide free healthcare throughout life for all citizens, to the best of it's ability.
 
-### Section 3: Welfare
+### Section 4: Welfare
 Arkovia will devote resources to provide welfare to citizens.
 
 Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover, keep safe, and get back on their feet.
 
 It'll be designed to get those able to work, back to work and contributing to society.
 
-### Section 4: Open Sourced Capitalism
+### Section 5: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 
-### Section 5: Patriotism
+### Section 6: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
 
-### Section 6: Direct Democracy
+### Section 7: Direct Democracy
 Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
 
-### Section 7: Community Cooperation
+### Section 8: Community Cooperation
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
-### Section 8: Transparency
+### Section 9: Transparency
 Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
 
-### Section 9: Accountability
+### Section 10: Accountability
 Arkovia believes in full accountability of the Government through:
 
 - Lasting positive change
