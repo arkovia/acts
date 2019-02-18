@@ -162,10 +162,13 @@ The
 
 ## Part 3: National Philosophy
 ### Section 1: Secular State
-Arkovia believes in a secular state, separated from religion. Religions may not influence law or government.
+Arkovia believes in a secular state, separated from religion. Religions may not influence law or government. The state will promote secular values and philosophies, open-mindedness and science. 
 
 ### Section 2: Free Education
-Arkovia will devote resources to provide free education throughout life for all citizens.
+Arkovia will devote resources to provide free education throughout life for all citizens, to the best of it's ability.
+
+### Section 2: Free Healthcare
+Arkovia will devote resources to provide free healthcare throughout life for all citizens, to the best of it's ability.
 
 ### Section 3: Welfare
 Arkovia will devote resources to provide welfare to citizens.
