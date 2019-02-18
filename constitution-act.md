@@ -408,5 +408,5 @@ Changes to the protected acts must be treated as extensions of this constitution
 The Acts with protection are listed below:
 - Human Rights Act
 - Judicial System Act
-- Nationality Act
+- Cinvir Act
 - Territories Act
