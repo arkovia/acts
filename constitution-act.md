@@ -9,7 +9,7 @@
       - [Segment 1: Purpose of the Constitution](#segment-1-purpose-of-the-constitution)
       - [Segment 2: Purpose of Arkovia](#segment-2-purpose-of-arkovia)
     - [Section 3: Interpretations](#section-3-interpretations)
-    - [Section 5: Constitutional Amendments](#section-5-constitutional-amendments)
+    - [Section 4: Constitutional Amendments](#section-4-constitutional-amendments)
       - [Segment 1: Parts Subject to Amendments](#segment-1-parts-subject-to-amendments)
       - [Segment 2: Amendment Process](#segment-2-amendment-process)
       - [Segment 3: Genesis Council Amendments](#segment-3-genesis-council-amendments)
@@ -95,7 +95,7 @@ Arkovia's purposes are unlimited. Some key purposes are to:
 ### Section 3: Interpretations
 All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council or the Supreme Court of Arkovia. If in conflict, the Supreme Court holds supremacy.
 
-### Section 5: Constitutional Amendments
+### Section 4: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
 All parts of this constitution and it's protected acts are subject to change through amendment unless explicitly stated in the document.
 
