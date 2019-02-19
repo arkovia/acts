@@ -228,8 +228,6 @@ The responsibilities of a Gen is to individually:
 
 Information:
 1. By default, the number of votes to accept an initiative is at-least `50% + 1`
-2. By default, all gens must participate in votes
-3. If results are even, the Prime Gen is awarded a casting vote
 
 ### Section 5: Powers of the Genesis Council
 The Genesis Council holds the powers to:
@@ -263,8 +261,6 @@ Gens may assign a heir to inherit their position in case of temporary or permane
 If a Gen has provided no heir, their position will be suspended until they become present and capable, if possible.
 
 If the unavailable Gen becomes present and capable, they will receive their position and a vote will be held on whether to recruit the Gen's rightful heir, following the Gen Recruitment Protocol.
-
-A Prime Gen position cannot be assigned or inherited and must follow the Prime Gen Election Protocol.
 
 ### Section 7: Amendments
 Changes to this Part are immune to amendments. The Genesis Council may decide to amend this part through a Genesis Council Initiative where at least 75% of the Gens must accept.
