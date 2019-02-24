@@ -253,7 +253,7 @@ The Genesis Council MUST maintain at minimum 4 active and capable gens.
 If the initiative is accepted, the candidate takes the Gen oath and receives membership in the Genesis Council
 
 #### Segment 3: Gen Oath
-I, `FULL NAME` solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, and swear to maintain high personal integrity to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
+I, `FULL NAME`, solemnly take an oath to fulfill my responsibilities as a Gen to the best of my ability and swear to maintain high personal integrity to serve Arkovia, its citizens, and the nation’s best interests as a member of the Genesis Council.
 
 #### Segment 4: Death or Unavailability of a Gen
 Gens may assign a heir to inherit their position in case of temporary or permanent disappearance, coma, death, or other forms of long-term unconsciousness which affects capability to fulfil responsibilities as a Gen.
