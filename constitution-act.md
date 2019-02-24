@@ -2,83 +2,68 @@
 # Constitution Act
 
 ## Table of Contents
-- [Arkovia Constitution Act](#arkovia-constitution-act)
-    - [Table of Contents](#table-of-contents)
-    - [Part 1: Foundation](#part-1-foundation)
-        - [Section 1: Preamble](#section-1-preamble)
-        - [Section 2: Purpose](#section-2-purpose)
-            - [Segment 1: Purpose of the Constitution](#segment-1-purpose-of-the-constitution)
-            - [Segment 2: Purpose of Arkovia](#segment-2-purpose-of-arkovia)
-        - [Section 3: Interpretations](#section-3-interpretations)
-        - [Section 4: Definitions](#section-4-definitions)
-        - [Section 5: Constitutional Amendments](#section-5-constitutional-amendments)
-            - [Segment 1: Parts Subject to Amendments](#segment-1-parts-subject-to-amendments)
-            - [Segment 2: Amendment Process](#segment-2-amendment-process)
-            - [Segment 3: Genesis Council Amendments](#segment-3-genesis-council-amendments)
-    - [Part 2: National Profile](#part-2-national-profile)
-        - [Section 1: General](#section-1-general)
-            - [Segment 1: Name](#segment-1-name)
-            - [Segment 2: Motto](#segment-2-motto)
-            - [Segment 3: Capital](#segment-3-capital)
-            - [Segment 4: Language](#segment-4-language)
-        - [Section 2: Flag](#section-2-flag)
-            - [Segment 1: Colours](#segment-1-colours)
-            - [Segment 2: Design Placement](#segment-2-design-placement)
-    - [Part 3: National Philosophy](#part-3-national-philosophy)
-        - [Section 1: Secular State](#section-1-secular-state)
-        - [Section 2: Non-Religious Spiritual Philosophies](#section-2-non-religious-spiritual-philosophies)
-        - [Section 3: Nationalised Infrastructure](#section-3-nationalised-infrastructure)
-        - [Section 4: Free Healthcare](#section-4-free-healthcare)
-        - [Section 5: Free Education](#section-5-free-education)
-        - [Section 6: Welfare](#section-6-welfare)
-        - [Section 7: Open Sourced Capitalism](#section-7-open-sourced-capitalism)
-        - [Section 8: Patriotism](#section-8-patriotism)
-        - [Section 9: Direct Democracy](#section-9-direct-democracy)
-        - [Section 10: Community Cooperation](#section-10-community-cooperation)
-        - [Section 11: Transparency](#section-11-transparency)
-        - [Section 12: Accountability](#section-12-accountability)
-    - [Part 4: Genesis Council](#part-4-genesis-council)
-        - [Section 1: Preamble](#section-1-preamble)
-        - [Section 2: Responsibility of Genesis Council](#section-2-responsibility-of-genesis-council)
-        - [Section 3: Responsibility of a Gen](#section-3-responsibility-of-a-gen)
-        - [Section 4: Council Voting Protocol](#section-4-council-voting-protocol)
-        - [Section 5: Powers of the Genesis Council](#section-5-powers-of-the-genesis-council)
-        - [Section 6: Prime Gen](#section-6-prime-gen)
-            - [Segment 1: Powers of the Prime Gen](#segment-1-powers-of-the-prime-gen)
-            - [Segment 2: Term Length](#segment-2-term-length)
-            - [Segment 3: Prime Gen Election Protocol](#segment-3-prime-gen-election-protocol)
-            - [Segment 4: Replacement of Prime Gen](#segment-4-replacement-of-prime-gen)
-        - [Section 7: State of Emergency](#section-7-state-of-emergency)
-            - [Segment 1: Triggering State of Emergency](#segment-1-triggering-state-of-emergency)
-            - [Segment 2: Nullified Genesis Council Powers](#segment-2-nullified-genesis-council-powers)
-            - [Segment 3: Extended Prime Gen Term](#segment-3-extended-prime-gen-term)
-            - [Segment 4: Prime Gen Unavailability](#segment-4-prime-gen-unavailability)
-            - [Segment 5: Ending State of Emergency](#segment-5-ending-state-of-emergency)
-        - [Section 6: Membership](#section-6-membership)
-            - [Segment 1: Minimum Gens](#segment-1-minimum-gens)
-            - [Segment 2: Gen Recruitment Protocol](#segment-2-gen-recruitment-protocol)
-            - [Segment 3: Gen Oath](#segment-3-gen-oath)
-            - [Segment 4: Death or Unavailability of a Gen](#segment-4-death-or-unavailability-of-a-gen)
-        - [Section 7: Amendments](#section-7-amendments)
-    - [Part 5: Arksembly](#part-5-arksembly)
-        - [Section 1: Preamble](#section-1-preamble)
-        - [Section 2: Rights to Vote](#section-2-rights-to-vote)
-        - [Section 3: Introduction to Initiatives](#section-3-introduction-to-initiatives)
-        - [Section 4: Initiative Process](#section-4-initiative-process)
-    - [Part 6: Law System](#part-6-law-system)
-        - [Section 1: Preamble](#section-1-preamble)
-        - [Section 2: Hierarchy of Legislation](#section-2-hierarchy-of-legislation)
-            - [Segment 1: Introduction](#segment-1-introduction)
-            - [Segment 2: Priority Order](#segment-2-priority-order)
-        - [Section 2: Protected Acts](#section-2-protected-acts)
-            - [Segment 1: Changes to Protected Acts](#segment-1-changes-to-protected-acts)
-            - [Segment 2: List of Protected Acts](#segment-2-list-of-protected-acts)
+- [Constitution Act](#constitution-act)
+  - [Table of Contents](#table-of-contents)
+  - [Part 1: Foundation](#part-1-foundation)
+    - [Section 1: Preamble](#section-1-preamble)
+    - [Section 2: Purpose](#section-2-purpose)
+      - [Segment 1: Purpose of the Constitution](#segment-1-purpose-of-the-constitution)
+      - [Segment 2: Purpose of Arkovia](#segment-2-purpose-of-arkovia)
+    - [Section 3: Interpretations](#section-3-interpretations)
+    - [Section 4: Constitutional Amendments](#section-4-constitutional-amendments)
+      - [Segment 1: Parts Subject to Amendments](#segment-1-parts-subject-to-amendments)
+      - [Segment 2: Amendment Process](#segment-2-amendment-process)
+      - [Segment 3: Genesis Council Amendments](#segment-3-genesis-council-amendments)
+  - [Part 2: National Profile](#part-2-national-profile)
+    - [Section 1: General](#section-1-general)
+      - [Segment 1: Name](#segment-1-name)
+      - [Segment 2: Motto](#segment-2-motto)
+      - [Segment 3: Capital](#segment-3-capital)
+      - [Segment 4: Language](#segment-4-language)
+    - [Section 2: Flag](#section-2-flag)
+      - [Segment 1: Colours](#segment-1-colours)
+      - [Segment 2: Design Placement](#segment-2-design-placement)
+  - [Part 3: National Philosophy](#part-3-national-philosophy)
+    - [Section 1: Secular State](#section-1-secular-state)
+    - [Section 2: Free Education](#section-2-free-education)
+    - [Section 3: Welfare](#section-3-welfare)
+    - [Section 4: Open Sourced Capitalism](#section-4-open-sourced-capitalism)
+    - [Section 5: Patriotism](#section-5-patriotism)
+    - [Section 6: Direct Democracy](#section-6-direct-democracy)
+    - [Section 7: Community Cooperation](#section-7-community-cooperation)
+    - [Section 8: Transparency](#section-8-transparency)
+    - [Section 9: Accountability](#section-9-accountability)
+  - [Part 4: Genesis Council](#part-4-genesis-council)
+    - [Section 1: Creation and Preamble](#section-1-creation-and-preamble)
+    - [Section 2: Responsibility of Genesis Council](#section-2-responsibility-of-genesis-council)
+    - [Section 3: Responsibility of a Gen](#section-3-responsibility-of-a-gen)
+    - [Section 4: Council Voting Protocol](#section-4-council-voting-protocol)
+    - [Section 5: Powers of the Genesis Council](#section-5-powers-of-the-genesis-council)
+    - [Section 6: Membership](#section-6-membership)
+      - [Segment 1: Minimum Gens](#segment-1-minimum-gens)
+      - [Segment 2: Gen Recruitment Protocol](#segment-2-gen-recruitment-protocol)
+      - [Segment 3: Gen Oath](#segment-3-gen-oath)
+      - [Segment 4: Death or Unavailability of a Gen](#segment-4-death-or-unavailability-of-a-gen)
+    - [Section 7: Amendments](#section-7-amendments)
+  - [Part 5: Arksembly](#part-5-arksembly)
+    - [Section 1: Preamble](#section-1-preamble-1)
+    - [Section 2: Rights to Vote](#section-2-rights-to-vote)
+    - [Section 3: Introduction to Initiatives](#section-3-introduction-to-initiatives)
+    - [Section 4: Initiative Process](#section-4-initiative-process)
+  - [Part 6: Law System](#part-6-law-system)
+    - [Section 1: Preamble](#section-1-preamble-2)
+    - [Section 2: Hierarchy of Legislation](#section-2-hierarchy-of-legislation)
+      - [Segment 1: Introduction](#segment-1-introduction)
+      - [Segment 2: Priority Order](#segment-2-priority-order)
+    - [Section 2: Protected Acts](#section-2-protected-acts)
+      - [Segment 1: Changes to Protected Acts](#segment-1-changes-to-protected-acts)
+      - [Segment 2: List of Protected Acts](#segment-2-list-of-protected-acts)
 
----
 
 ## Part 1: Foundation
 ### Section 1: Preamble
-We the citizens of Arkovia, choose to establish this constitution, in order to establish a nation & country which aims to: 
+To all to who care for the future of our civilization by advancing our government on the front of technology and to proper governance by allowing freedom and liberty for all, regardless of categorical traits.
+We, the citizens of Arkovia, choose to establish this constitution, in order to establish a nation & country which aims to: 
 - Advance towards the future
 - Advance in technology and infrastructure
 - Start a simplistic & pragmatic approach to politics
@@ -109,14 +94,9 @@ Arkovia's purposes are unlimited. Some key purposes are to:
 - Remove thick bureaucracy by applying use of digital governance
 
 ### Section 3: Interpretations
-All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council.
+All questions regarding the interpretation of this Constitution shall be decided by the Genesis Council or the Supreme Court of Arkovia. If in conflict, the Supreme Court holds supremacy.
 
-### Section 4: Definitions
-```
-Citizen: Definition found in Citizenship Act
-```
-
-### Section 5: Constitutional Amendments
+### Section 4: Constitutional Amendments
 #### Segment 1: Parts Subject to Amendments
 All parts of this constitution and it's protected acts are subject to change through amendment unless explicitly stated in the document.
 
@@ -129,7 +109,7 @@ The process to amend the constitution is as follows:
 4. The active change becomes an accepted change and is implemented into the constitution.
 
 #### Segment 3: Genesis Council Amendments
-The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but will generally abstain from doing so.
+The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but should generally abstain from doing so. The amendments from the Genesis Council must be approved by `75% + 1` of its members.
 
 ## Part 2: National Profile
 ### Section 1: General
@@ -165,53 +145,34 @@ The
 
 ## Part 3: National Philosophy
 ### Section 1: Secular State
-Arkovia believes in a secular state, separated from religion. Religions may not influence law or government.
+Arkovia believes in a secular state, separated from religion. Religions may not influence law or government. The state will promote secular values and philosophies, open-mindedness and science. 
 
-### Section 2: Non-Religious Spiritual Philosophies
-Arkovia will teach non-religious spiritual philosophies.
+### Section 2: Free Education
+Arkovia will devote resources to provide free education throughout life for all citizens, to the best of it's ability.
 
-### Section 3: Nationalised Infrastructure
-Arkovia will nationalise public infrastructure to provide infrastructure to it's citizens to protect citizens from natural monopolies which result in profiteering, lack of innovation, poor management and wasteful spending.
-
-Arkovia will maintain full control over:
-
-- Health Infrastructure
-- Transport Infrastructure
-- Energy Infrastructure
-- Water Infrastructure
-- Internet & Communications Infrastructure
-- Waste Infrastructure
-- Banking Infrastructure
-
-### Section 4: Free Healthcare
-Arkovia will devote resources to provide free healthcare for its citizens.
-
-### Section 5: Free Education
-Arkovia will devote resources to provide free education throughout life for all citizens.
-
-### Section 6: Welfare
+### Section 3: Welfare
 Arkovia will devote resources to provide welfare to citizens.
 
-Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover and keep safe.
+Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover, keep safe, and get back on their feet.
 
-### Section 7: Open Sourced Capitalism
+It'll be designed to get those able to work, back to work and contributing to society.
+
+### Section 4: Open Sourced Capitalism
 Arkovia believes in open sourced capitalism, with no copyrights, or patents.
 
-Patents prevent competition by creating monopolies over concepts, ideas, inventions and therefore prevent further innovation.
-
-### Section 8: Patriotism
+### Section 5: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
 
-### Section 9: Direct Democracy
+### Section 6: Direct Democracy
 Arkovia will provide a direct democracy with full citizen control over initiatives and legislation.
 
-### Section 10: Community Cooperation
+### Section 7: Community Cooperation
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
-### Section 11: Transparency
+### Section 8: Transparency
 Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
 
-### Section 12: Accountability
+### Section 9: Accountability
 Arkovia believes in full accountability of the Government through:
 
 - Lasting positive change
@@ -225,8 +186,8 @@ Arkovia believes in full accountability of the Government through:
 - Empowered and effective employees
 
 ## Part 4: Genesis Council
-### Section 1: Preamble
-The Genesis Council is a council which consists of the national leaders of Arkovia, referred to as a Gen, or plurally as Gens
+### Section 1: Creation and Preamble
+There shall exist a Genesis Council EGI, which is a council that is to consist of the national leaders of Arkovia, referred to individually as a Gen, or plurally as Gens.
 
 ### Section 2: Responsibility of Genesis Council
 The responsibilities of the Genesis Council is to collectively:
@@ -268,8 +229,6 @@ The responsibilities of a Gen is to individually:
 
 Information:
 1. By default, the number of votes to accept an initiative is at-least `50% + 1`
-2. By default, all gens must participate in votes
-3. If results are even, the Prime Gen is awarded a casting vote
 
 ### Section 5: Powers of the Genesis Council
 The Genesis Council holds the powers to:
@@ -278,46 +237,6 @@ The Genesis Council holds the powers to:
 3. Appoint, fire and hire leaders and staff of EGIs
 4. Pardon criminals
 5. Modify this part of the constitution
-
-### Section 6: Prime Gen
-#### Segment 1: Powers of the Prime Gen
-The Prime Gen holds the powers to:
-1. Casting votes
-2. Receiving power in state of emergency
-
-#### Segment 2: Term Length
-The term length of each Prime Gen is 2 months.
-
-#### Segment 3: Prime Gen Election Protocol
-
-1. Voting is compulsory
-2. Gens may not vote for themselves
-3. Prime gen receives right to casting vote
-4. Follows Genesis Council voting protocol
-5. Gen with highest votes receives Prime Gen
-6. Prime Gens may be re-elected
-
-#### Segment 4: Replacement of Prime Gen
-The Genesis Council may hold a vote to remove the Prime Gen. The Prime Gen does not need to be present. At least `50% + 1` of the Gens not including the Prime Gen must approve.
-
-### Section 7: State of Emergency
-#### Segment 1: Triggering State of Emergency
-State of Emergency can be triggered by a vote in the Genesis Council. `75% +` of the Council must approve. If the proposal is accepted, the Prime Gen Receives full control over the nation and its military.
-
-#### Segment 2: Nullified Genesis Council Powers
-All of the council's powers during State of Emergency are nullified, besides the powers to:
-1. Vote for an end State of Emergency.
-2. Amend this part of the constitution.
-3. Ability to re-elect the Prime Gen
-
-#### Segment 3: Extended Prime Gen Term
-If State of Emergency lasts more than the Gen's term, the Gen continues their position, but when State of Emergency is ended, a Gen re-election must be held.
-
-#### Segment 4: Prime Gen Unavailability
-If the Prime Gen becomes unavailable during State of Emergency, an emergency Prime Gen re-election is held.
-
-#### Segment 5: Ending State of Emergency
-State of Emergency can be ended by a Genesis Council vote. If the proposal is accepted, state of emergency is cancelled and powers are returned to the Genesis Council.
 
 ### Section 6: Membership
 #### Segment 1: Minimum Gens
@@ -335,7 +254,7 @@ The Genesis Council MUST maintain at minimum 4 active and capable gens.
 If the initiative is accepted, the candidate takes the Gen oath and receives membership in the Genesis Council
 
 #### Segment 3: Gen Oath
-I, [FULL NAME] solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, and swear to maintain high personal integrity to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
+I, `FULL NAME` solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, and swear to maintain high personal integrity to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
 
 #### Segment 4: Death or Unavailability of a Gen
 Gens may assign a heir to inherit their position in case of temporary or permanent disappearance, coma, death, or other forms of long-term unconsciousness which affects capability to fulfil responsibilities as a Gen.
@@ -343,8 +262,6 @@ Gens may assign a heir to inherit their position in case of temporary or permane
 If a Gen has provided no heir, their position will be suspended until they become present and capable, if possible.
 
 If the unavailable Gen becomes present and capable, they will receive their position and a vote will be held on whether to recruit the Gen's rightful heir, following the Gen Recruitment Protocol.
-
-A Prime Gen position cannot be assigned or inherited and must follow the Prime Gen Election Protocol.
 
 ### Section 7: Amendments
 Changes to this Part are immune to amendments. The Genesis Council may decide to amend this part through a Genesis Council Initiative where at least 75% of the Gens must accept.
@@ -426,4 +343,5 @@ Changes to the protected acts must be treated as extensions of this constitution
 The Acts with protection are listed below:
 - Human Rights Act
 - Judicial System Act
-- Citizenship Act
+- Cinvir Act
+- Territories Act
