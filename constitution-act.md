@@ -80,7 +80,7 @@ The purpose of this constitution is to:
 - Create a simple, pragmatic direct democracy
 
 #### Segment 2: Purpose of Arkovia
-Arkovia's purposes are unlimited. Some key purposes are to:
+Arkovia's purpose is to:
 - Start a social democracy and provide sufficient safety nets for citizens
 - Start a government where citizens have true democratic power
 - Start a new community where citizens feel welcomed
