@@ -334,38 +334,6 @@ Law follows a hierarchy of importance. Older legislation is superseded by newer 
 6. Standards
 7. Guidelines
 
-#### Segment 3: Powers of the Government
-The government shall be authorized to:
-- Collect taxes (wherein all taxes must be the same throughout Arkovia, except for any independent provinces)
-- Pay debts
-- Defend Arkovia from malicious foreign nations, terrorists, and all other foreign threats.
-- Borrow money
-- Regulate commerce
-- Create a code for naturalization
-- Create a code for bankruptcy
-- Create money, create a single bank for Arkovia, and regulate the financial system
-- Set standards for science
-- Create a penal code
-- Set punishments for violations of the penal code of of any code
-- Manage mail domestically and internationally
-- Create and manage roads
-- Create and manage trademarks for all who request
-- Constitute inferior courts to the Supreme Court
-- Declare wars on foreign nations
-- Capture and make rules on the rights of Prisoners of War
-- Raise and support an Army, Navy, Air Force, Marine Force, Space Force, Cyber Force, and all other military forces that may be needed in the future
-- Organizing, arming, disciplining, and preparing enlisted soldiers
-- Establishing bylaws for employees of the Government of Arkovia, contractors of the Government of Arkovia, those obtaining money from the Government of Arkovia, and/or those doing business with the Government of Arkovia
-- De-annex territories on behalf of Arkovia. 
-- Annex any property, boat, automobile, spaceship, plane, bicycle, motorcycle, embassies, ports of entry, ports for trade, office of the Government of Arkovia in any foreign nation, object made for transportation, and/or location made for permanent living outside the borders of Arkovia as defined in the Territory Act- Create businesses for all who request to establish businesses
-- Create businesses for those who request
-- Create marriages for those who request
-- Nationalize and/or publicly operate the industries of education, energy, healthcare, post, public works, police, fire fighting, public transportation, water, courts, and/or apartments
-- Create a body to manage data for the Government, citizens, and/or organizations
-- Create all laws or institutions that are needed to establish or to make sure that the Government is continued, which is to only be used in extreme national crisis whereby the existence of the Government may be threatened.
-
-And all powers not granted as stated above shall not be fulfilled by the government.
-
 ### Section 2: Protected Acts
 #### Segment 1: Changes to Protected Acts
 Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered invalid.
