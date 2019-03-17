@@ -7,22 +7,31 @@
         - [Section 1: Preamble](#section-1-preamble)
         - [Section 2: Purpose](#section-2-purpose)
         - [Section 3: Administration Authority](#section-3-administration-authority)
-        - [Section 2: Rules & Laws for a Company](#section-2-rules--laws-for-a-company)
-            - [Segment 1: Company Laws](#segment-1-company-laws)
-            - [Segment 2: Special Rules](#segment-2-special-rules)
-            - [Segment 3: Replaceable Rules](#segment-3-replaceable-rules)
-            - [Segment 4:](#segment-4)
-        - [Section 3: Forming a Company](#section-3-forming-a-company)
-            - [Segment 1: Registration](#section-1-registration)
-        - [Section 4: Transferring a Company](#section-4-transferring-a-company)
-        - [Section 4: Closing a Company](#section-4-closing-a-company)
-            - [Segment 1: Requirements](#section-1-requirements)
-            - [Segment 2: Process](#segment-2-process)
-            - [Segment 3: Changes](#segment-3-changes)
-        - [Section 5: Shareholders](#section-5-shareholders)
+        - [Section 4: Section 4 Company](#section-4-section-4-company)
+            - [Segment 1: Rules and Laws for a Company](#segment-1-rules-and-laws-for-a-company)
+            - [Segment 2: Forming a Company](#segment-2-forming-a-company)
+                - [Paragraph 1: Registration](#paragraph-1-registration)
+                - [Paragraph 2: Requirements on the Form 101](#paragraph-2-requirements-on-the-form-101)
+                - [Paragraph 3: Articles of Incorporation](#paragraph-3-articles-of-incorporation)
+            - [Segment 3: Aquisition](#segment-3-aquisition)
+                - [Paragraph 1: Requirements](#paragraph-1-requirements)
+                - [Paragraph 2: Process](#paragraph-2-process)
+                - [Paragraph 3: Changes](#paragraph-3-changes)
+            - [Segment 4: Closing a Company](#segment-4-closing-a-company)
+                - [Paragraph 1: Abandonment](#paragraph-1-abandonment)
+                - [Paragraph 2: RDAM Bankruptcy](#paragraph-2-rdam-bankruptcy)
+                - [Paragraph 3: Liquidation Order](#paragraph-3-liquidation-order)
+                - [Paragraph 4: Deregistration](#paragraph-4-deregistration)
+                - [Paragraph 5: Employees](#paragraph-5-employees)
+                - [Paragraph 6: Refund for Paragraph 4](#paragraph-6-refund-for-paragraph-4)
+            - [Segment 5: Shareholders](#segment-5-shareholders)
+                - [Paragraph 1: Knowledge of Dividend, Voting, and other Important Rights](#paragraph-1-knowledge-of-dividend-voting-and-other-important-rights)
+            - [Segment 6: Mergers and Aquisitions](#segment-6-mergers-and-aquisitions)
+                - [Paragraph 1: Requirements](#paragraph-1-requirements)
+                - [Paragraph 2: Payment to Shareholders](#paragraph-2-payment-to-shareholders)
         - [Section 6: Enhanced Government Institution (EGI)](#section-6-enhanced-government-institution-egi)
-        - [Section 7: Company](#section-7-company)
-            - [Segment 1: Introduction](#segment-1-introduction)
+            - [Segment 1: Purpose](#segment-1-purpose)
+            - [Segment 2: Other Document](#segment-2-other-document)
 
 ## Part 1: Foundation
 ### Section 1: Preamble
@@ -34,14 +43,14 @@ To allow people to make government recognized organizations.
 ### Section 3: Administration Authority
 The `ABIAA, EGI` (`Arkovian Business & Innovation Authority Arkovia, EGI`) has jurisdiction over this Act and has the right to take criminal measures for violation of policies.
 
-## Section 2: Section 2 Company a.k.a. Corporation
+## Section 4: Section 4 Company
 
-#### Segment 1: Rules & Laws for a Company
-Companies will be allowed to make company laws or bylaws, which must be followed by their employees. All bylaws and company laws must be shown to employees, shareholders, partners, consumers, and others, except the government before hiring or making contact (an organization property could have a sign outside showing your rules that must be followed in the facility, unless that rule's current government, however if it's a current rule of the government, a warning sign or otherwise could still be issued).
+#### Segment 1: Rules and Laws for a Company
+Companies will be allowed to make company laws or bylaws, which must be followed by their employees, contractors, partners, customers, etc. All bylaws and company laws must be shown to employees, shareholders, partners, consumers, and others, except the government before hiring or making contact (an organization property could have a sign outside showing your rules that must be followed in the facility, unless that rule's current government, however if it's a current rule of the government, a warning sign or otherwise could still be issued).
 
 ### Segment 2: Forming a Company
 #### Paragraph 1: Registration
-A form 101 must be fully filled out and turned into an ABIAA EGI location, representative, or online through the ABIAA website.
+A form 101 must be fully filled out and turned into an ABIAA EGI location, representative, or filled online through the ABIAA website or app.
 
 #### Paragraph 2: Requirements on the Form 101
 The form 101 must require:
@@ -99,34 +108,30 @@ The order of priority for returning liquidation is:
 - prefered stockholders
 - common stockholders
 
-#### Paragraph 3: Deregistration
+#### Paragraph 4: Deregistration
 A company will be considered closed if--
 (1) it has not payed debt, taxes, or payments owed to the government for 5 consecutive years;
 (2) there appears to be no management; and/or
 (3) it does not fill out the form 101 for 5 consecutive years.
 
-#### Paragraph 4: Employees
+#### Paragraph 5: Employees
 A company may be considered closed if there are no registered employees.
 
-#### Paragraph 5: Refund for Paragraph 4
+#### Paragraph 6: Refund for Paragraph 4
 If there are no registered employees when the company is first files and the company is deregistered, the company may file for a refund for the incorporation process plus 10% of the filing price within 5 years of the company being deregistered.
 
 ### Segment 5: Shareholders
 #### Paragraph 1: Knowledge of Dividend, Voting, and other Important Rights
 Shareholders will be allowed the knowledge of whether their class of stock will allow a dividend payment and when, a vote in a company's elections, company information, company statistics and other important rights.
 
-### Segment 6: Merger
+### Segment 6: Mergers and Aquisitions
 #### Paragraph 1: Requirements
-For a company to merge with another company, that company must get approval from the majority of voting shares.
+For a company to aquire, both companies must get approval from the majority of shares that vote within a time period of at least one week.
 
 #### Paragraph 2: Payment to Shareholders
-Compansation must be paid to shareholders, either by shares of the new company or by cash. This may be determined by a vote by the shareholders of both companies. Payment must be completed on a close to 1:1 basis, so basically, they can not pay $500 for a $100 shareholding, but can pay in a closer range of about $110, but can not pay less than $100. An agreement for this must be reached by the shareholders of both parties.
+Compansation must be paid to shareholders, either by shares of the new company or by cash. This may be determined by a vote by the shareholders of both companies. The amount by which the new company pays the acquired company in shares or cash must be greater than the shareholder's equity at the time of acquisition.
 
-## Section 3: Section 3 Company (a.k.a. Small Business Corporation)
-
-### Segment 1: 
-
-## Section 4: Enhanced Government Institution (EGI)
+## Section 6: Section 5 Company - Enhanced Government Institution (EGI)
 
 ### Segment 1: Purpose
 An `Enhanced Government Institution` (`EGI`) is a form of state owned organization. Created for the purpose of:
@@ -145,9 +150,3 @@ An `Enhanced Government Institution` (`EGI`) is a form of state owned organizati
 
 ### Segment 2: Other Document
 The EGI will be controlled by the EGI Act. The EGI Act will not be considered an extention of this Act.
-
-```
-## Section 7: Company
-### Segment 1: Introduction
-A `Company` can be a `general partnership` (`GP`), `limited partnership` (`LP`), `limited liability partnership` (`LLP`), `Limited Liability Limited Partnership` (`LLLP`), `Limited Liability Corporation` (`LLC`, `LC`, `Ltd. Co.`), `Professional Limited Liability Corporation` (`PLLC`), `Small Business Corporation` (`Corp.`, `Inc.`, `S.p.A.`), and `Corporation` (`Corp.`, `Inc.`, `S.p.A.`). 
-```
