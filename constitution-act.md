@@ -104,7 +104,7 @@ The process to amend the constitution is as follows:
 
 1. A proposed change, where at least `20%` of the national population participates with an approval of at least `50% + 1`.
 2. There must not be more than 2 current active changes. If there are more than 2 active changes, a queue will be formed, in the order of highest approval.
-3. Active changes must undergo a national compulsory vote, where `75%` of the population must approve.
+3. Active changes must undergo a national compulsory vote, where `50% + 1` of the population must approve.
 4. The active change becomes an accepted change and is implemented into the constitution.
 
 #### Segment 3: Genesis Council Amendments
@@ -248,7 +248,7 @@ The Genesis Council MUST maintain at minimum 4 active and capable gens.
 1. Genesis Council selects candidate
 2. Genesis Council interview and discuss candidate
 3. Genesis Council scrutinize, criticise and discuss candidate
-4. Genesis Council holds vote for candidate, where `75% +` of the Genesis Council agrees
+4. Genesis Council holds vote for candidate, where `50% +` of the Genesis Council agrees
 
 If the initiative is accepted, the candidate takes the Gen oath and receives membership in the Genesis Council
 
