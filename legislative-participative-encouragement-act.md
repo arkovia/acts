@@ -28,3 +28,5 @@ The `Committe for Legislative Simplicity of Arkovia` will be tasked with acting 
 When the piece of legislation increases over the average for pieces of legislation in its category, the payment per word will be decreased by a rate of 10% per 1,000 words relative to the last price.
 
 ### Section 3: Organizations
+#### Segment 1: Tax Cuts
+Organisations that work to make legislation will receive a tax cut of 10% to the amount that they pay (not a 10% deduction to their percentage).
