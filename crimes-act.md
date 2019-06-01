@@ -1,4 +1,4 @@
-# Arkovia Crimes Act of 2017
+# Arkovia Crimes Act
 
 ## Table of Contents
 - [Crimes Act](#crimes-act)
