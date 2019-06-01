@@ -1,4 +1,4 @@
-# Energy Act of 2018
+# Energy Act
 
 # Part 1: Introduction 
 
@@ -20,12 +20,9 @@ The purpose of the Arkovia Energy Act is to
 
 **Section 3: Interpretation & Definitions**
 
-Fossil Fuel(s)
-    Referring to petrol/gasoline, diesel, oil, and coal. Natural gas is excluded from the definition. 
+**Fossil Fuel(s):** Referring to petrol/gasoline, diesel, oil, and coal. Natural gas is excluded from the definition. 
 
-Renewable Energy
-    Referring to energy sources that can be replaced within a human lifetime. For example, solar, tidal, geothermal, and wind                   
-    are renewable energies. 
+**Renewable Energy:** Referring to energy sources that can be replaced within a human lifetime. For example, solar, tidal, geothermal, and wind are renewable energies. 
     
 Interpretation videos are planned on being made for videos and court cases pending.
 
