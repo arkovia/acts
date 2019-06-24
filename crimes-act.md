@@ -174,7 +174,7 @@ Attacks against law enforcement is an offence
 #### Segment 8 - Slavery and Servitude
 Persons who enslave or force servitude of other persons are guilty of this offence
 ##### Definition
-Slavery is where the subject has no power and cannot leave their position
+Slavery is defined as a situation where a person or persons are forcefully kept in servitude to another person.
 
 #### Segment 9 - Corpses
 Indecent handling of corpses is an offence
@@ -191,19 +191,28 @@ Holding unlawful images of persons genitals, without their permission is an offe
 ### Section 6 - Public Order
 
 #### Segment 1 - Criminal Groups and Gangs
-Persons part of criminal groups and gangs are guilty of this offence.
+Persons part of organized criminal groups and gangs are guilty of this offence.
 
 #### Segment 2 - Public Indecency
-Public Indecency is an offence
+Public indecency is an offence.
+##### Definition
+Public indecency is defined as nudity in the public view, even if the offender is within private property.
 
 #### Segment 3 - Loitering
-Areas signed, either by public, private or government owned locations that ban loitering are legally recognised and people who 
+Areas signed, either by public or private locations that ban loitering are legally recognised and people who 
 
 #### Segment 4 - Rioting
+Rioting is an offence.
+##### Definition
+Rioting is defined as violent, loud, or otherwise disturbing violation of public peace by a crowd.
 
 #### Segment 5 - Affray
+Participating in affray is an offence.
+##### Definition
+Affray is defined as a situation involving fighting in a public area that violates the public peace.
 
 #### Segment 6 - Contamination of Goods
+Purposeful contamination of goods is an offence.
 
 #### Segment 7 - Hoaxes
 
@@ -212,14 +221,24 @@ Areas signed, either by public, private or government owned locations that ban l
 ### Section 6 - Stealing
 
 #### Segment 1 - Stealing
+Stealing is an offence.
 
 #### Segment 2 - Robbery
+Robbery is an offence.
+##### Definition
+Robbery is defined as stealing with threat of violation of the public peace.
 
 #### Segment 3 - Demanding Property
 
 #### Segment 4 - House Breaking
+House breaking is an offence.
+##### Definition
+House breaking is defined as breaking into a private home without the consent of the owner or tenant of the home.
 
-#### Segment 5 - Vehicle Theft
+#### Segment 5 - Grand Theft Auto
+Grand theft auto is an offence.
+##### Definition
+Grand theft auto is defined as the stealing of an vehicle with the intent to deprive the true owner of the vehicle.
 
 #### Segment 6 - Receiving
 
@@ -247,17 +266,19 @@ Any unauthorized attack on an online device meant to destroy or break another la
 ### Section 10 - Escape from Custody
 Any escape from detention given by an authorized government official, under the laws of Arkovia, is an offence.
 
-#### Segment 1 - Rescuing Criminal Inmates
+#### Segment 11 - Rescuing Criminal Inmates
 Helping a criminal commit Section 10 is an offence.
 
-#### Segment 2 - Aiding Escape
-Any assistance to a criminal to escape custody under Section 10 is an offence
+#### Segment 12 - Aiding Escape
+Any purposeful assistance to a criminal to escape custody from Law Enforcement under Segment 10 is an offence.
 
-#### Segment 3 - Escape
+#### Segment 13 - Escape
+Any purposeful escape from custody of Law Enforcement under Segment 10 is an offence.
 
-#### Segment 4 - Permitting Escape
+#### Segment 14 - Permitting Escape
 
-#### Segment 5 - Harbouring Escapee
+#### Segment 15 - Harbouring Escapee
+Any purposeful harbouring of an escapee from the custory of Law Enforcement under Segment 10 is an offence.
 
 ### Section 11 - Weapons
 
@@ -291,6 +312,14 @@ The only time that Segment 1 of this Section shall be allowed to be not followed
 ### Section 13 - False and Misleading Information
 
 #### Segment 1 - General
+Purposefully giving false and misleading information in any official setting is an offence.
+##### Definition
+An official setting is defined as any conversation, investigation, or sale that involves the transfering of money, the health of the parties involved, or any other malicious action or intent.
+
+#### Segment 2 - Perjury
+Perjury is an offence.
+##### Definition
+Perjury is defined as purposeful lying to a government official doing official business for the government.
 
 ### Section 14 - Corruption
 All uses of public power in accordance with the `Corruption Act` are the offense of "corruption" or otherwise given in the Act itself.
@@ -298,6 +327,7 @@ All uses of public power in accordance with the `Corruption Act` are the offense
 ### Section 15 - Money
 
 #### Segment 1 - Laundering
+Money laundering is an offence.
 
 ### Section 16 - Blackmail
 
@@ -325,3 +355,8 @@ Law Enforcement may require identification if requested, which may be cross-refe
 
 #### Segment 3 - Powers To Give Orders In A Stop
 Law Enforcement may give orders pursuant to a stop for their safety.
+
+#### Segment 4 - Lethal Use of Force
+Law Enforcement may only use lethal force if they believe that the life or lifelong comfort of themselves or another are in risk.
+##### Definition
+Lifelong comfort is defined as the ability for a person to live a healthy life without threat of terminal illness or crippling injury.
