@@ -1,4 +1,4 @@
-# Arkovia Crimes Act
+# Crimes Act
 
 ## Table of Contents
 - [Crimes Act](#crimes-act)
@@ -293,7 +293,7 @@ The only time that Segment 1 of this Section shall be allowed to be not followed
 #### Segment 1 - General
 
 ### Section 14 - Corruption
-All uses of public power in accordance with the `Arkovia Corruption Act` are the offense of "corruption" or otherwise given in the Act itself.
+All uses of public power in accordance with the `Corruption Act` are the offense of "corruption" or otherwise given in the Act itself.
 
 ### Section 15 - Money
 
@@ -315,12 +315,13 @@ All uses of public power in accordance with the `Arkovia Corruption Act` are the
 
 ### Section 20 - Using, Sharing and Returning Documents
 
-### Section 21 - Powers to require identification
-
 ## Part 3: Criminal Procedure
 ### Section 1 - Search and Arrest Warrants
 #### Segment 1 - Production of Warrants
-Law Enforcement reserves the right to produce Search & Arrest warrants
+Law Enforcement must obtain a Search & Arrest Warrant through a court in the jurisdiction of the location of the warrant (if applicable) with evidence of probable cause.
 
-#### Segment 2 - Abuse of Production
-Law Enforcement must not abuse the right to produce Search & Arrest warrants and must be produced fairly and with correct reason
+#### Segment 2 - Powers To Require Identification
+Law Enforcement may require identification if requested, which may be cross-referenced to ensure accuracy.
+
+#### Segment 3 - Powers To Give Orders In A Stop
+Law Enforcement may give orders pursuant to a stop for their safety.
