@@ -22,11 +22,8 @@ The purpose of this act is to lay out the land claims within Arkovia and designa
 ### Section 1: Introduction
 Australian foreign territories are areas which Australia owns, and retains full Australian jurisdiction. Arkovia will not exercise jurisdiction in these areas.
 
-### Section 2: Territory list
-- Uncomplete
-
 ### Section 3: Creation of additional territories
-Arkovia may decide to add more Australian foreign territories
+Arkovia may decide to add more Australian foreign territories by a vote in the Genesis Council or by a vote of the Arksembly.
 
 ### Section 4: Removal of territories
 Arkovia may decide to remove Australian foreign territories
