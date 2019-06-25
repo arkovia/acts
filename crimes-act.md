@@ -248,6 +248,12 @@ Grand theft auto is defined as the stealing of an vehicle with the intent to dep
 
 #### Segment 2 - Forgery
 
+#### Segment 3 - Pyramid Schemes
+Creating a pyramid scheme is an offence.
+
+#### Segment 4 - Ponzi Schemes
+Creating a ponzi scheme is an offence.
+
 ### Section 8 - Identity Offences
 
 #### Segment 1 - General
