@@ -1,4 +1,4 @@
-# Territories Act of 2018
+# Territories Act
 
 ## Part 1: Foundation
 ### Section 1: Preamble
