@@ -42,3 +42,24 @@ The DLS will post information on the Arkovia website and print, upon request, la
 
 #### Segment 3: Administration
 The DLS will be led and administered by the CEO of the Labor EGI.
+
+## Part 3: Minors
+### Section 1: Age Limitations
+#### Segment 1: 13 Age Limit
+A minor must be at the age of 13 years old to start working for a salary.
+
+#### Segment 2: 15 Age Limit
+A minor must be at the age of 15 years old to start working for a salary under the following industries:
+- dealer of alcohol (bar, grocery store selling alcohol, restaurant selling alcohol)
+- dealer of weapons
+- dealer of heavy machinery
+- dealer of pharmaceutical products
+
+#### Segment 3: 18 Age Limit
+An adult must be at the age of 18 years old to start working for a salury under the following industries:
+- dangerous chemicals
+- dangerous nuclear
+- dangerous machinery
+
+#### Segment 4: Parent/Guardian Consent For Minor
+The parent or guardian of a minor must give verbal or written consent to an organization before they hire a minor.
