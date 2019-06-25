@@ -41,7 +41,7 @@ The Division of Labor Statistics or DLS will provide and manage free and public 
 The DLS will post information on the Arkovia website and print, upon request, labor statistics for a fee of (arks-symbol)10, one copy of which shall be given to the Genesis Council on every January 1st, recording total information on the previous year.
 
 #### Segment 3: Administration
-The DLS will be led and administered by the CEO of the Labor EGI.
+The DLS will be led and administered by the PEM of the Labor EGI.
 
 ## Part 3: Minors
 ### Section 1: Age Limitations
@@ -63,3 +63,11 @@ An adult must be at the age of 18 years old to start working for a salury under 
 
 #### Segment 4: Parent/Guardian Consent For Minor
 The parent or guardian of a minor must give verbal or written consent to an organization before they hire a minor.
+
+## Part 4: Family
+### Section 1: Family Leave
+#### Segment 1: 2 Weeks of Leave
+All parents in a family shall have 2 weeks of family leave paid for by their employer.
+
+#### Segment 2: Required Maintaining of Job and Salary
+It is illegal for employers to fire or decrease the salary of their employees because they are pregnant (unless the job requires not being pregnant) or are intending to take paid family leave.
