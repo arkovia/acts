@@ -16,6 +16,9 @@ All questions regarding the interpretation of this Constitution shall be decided
 ### Section 4: Definitions
 *Personal Information* - information regarding to name, age, date of birth, gender, sex, sexuality, race, ethnicity, weight, height, skin color, home address, eye color, and all information relating to somebody's identity.
 
+### Section 5: Jurisdiction
+The Police EGI has the jurisdiction over this act.
+
 ## Part 2: Digital Security and Privacy
 ### Section 1: Government Information
 #### Segment 1: Confidentiality of Personal Information
