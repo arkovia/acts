@@ -11,8 +11,6 @@ Taxing the people and corporations of Arkovia and foreign governments, people, a
 ### Interpretation
 Videos for legal interp being made.
 
-## Law
-
 ## Part 1: `Taxation EGI`
 
 ### Section 1: Standard of Living EGI
@@ -55,7 +53,6 @@ For all inheritances less than the net valuation of 1,000,000,000 AUD, but great
 For all inheritances greater than the net valuation of 1,000,000,000 AUD, relative to the Novian standard of living, there shall be a 7% taxation on the inheritance. This means that total revenue for the government through this segment, per case is 65,000,000.065 AUD to ∞ AUD.
 
 ### Section 2: Income
-
 #### Segment 1: Taxation on Incomes Under $25,000
 For every net family income (herinafter "NFI") under the sum of 25,000 AUD (hereinafter, "$"), there shall be a -2% income tax relative to the Novian standard of living.
 
@@ -95,17 +92,17 @@ For every NFI under the sum of $1,000,000,000 and above $100,000,000, there shal
 #### Segment 13: Taxation on Incomes Above $1,000,000,000
 For every NFI above the sum of $1,000,000,000, there shall be a 15% income tax relative to the Novian standard of living.
 
-#### Segment 14: Capital Gain Taxes
+### Section 3: Capital Gains
+#### Segment 1: Capital Gain Taxes
 For all purchases of equity stock or debt, with the exception of Arkovian government bonds, there shall be the same tax rates as above in the NFI with the exception of Segment 1 and 2. For example, if you invest $10,000 and earn $10,000 in capital gains, you would be taxed a Segment 3 and not have to pay any capital gains taxes. If you invest $1,000,000 and earn $1,000,000, you would be taxed a Segment 11.
 
-#### Segment 15: Avoiding Capital Gain Taxes
+#### Segment 2: Avoiding Capital Gain Taxes
 If any individual or company is found to decrease the sizes of purchases and/or sales to avoid a higher capital gain taxes, they will be committing "avoiding of taxes" and will be prosicuted under the law.
 
-#### Segment 16: Independence
+#### Segment 3: Independence
 This section will only apply when the government declares independence.
 
-### Section 3: Corporate
-
+### Section 4: Corporate
 #### Segment 1: Corporations with Shareholder's Equity Under $20,000
 If a corporation has a shareholder's equity of under $20,000, there shall be no taxation on the corporation.
 
@@ -142,10 +139,9 @@ If a corporation has a shareholder's equity of under $500,000,000, but above $10
 #### Segment 12: Corporations with Shareholder's Equity Under or Above $1,000,000,000
 If a corporation has a shareholder's equity of under $1,000,000, but above $500,000,000, there shall be a 0.75% taxation on the profits of the corporation.
 
-### Section 4: Exceptions
-
+### Section 5: Exceptions
 #### Segment 1: Disabled
 All disabled persons will be exempt of paying Section 4 through 8 and will instead a Section 3 if they qualify for Section 4 through 8.
 
 #### Segment 2: Parental
-All parents will be given a deduction of 1% for all qualifying sections except for Segments 11 through 13.
+All parents will be given a deduction of 1% for all qualifying sections except for Segments 11 through 13 of Section 2.
