@@ -132,7 +132,6 @@ A person commits an offence if:
 - They betray the nation in any form
 
 ### Section 4 - Self-Defence
-
 #### Segment 1 - Rights
 A person has the right to self defence when:
 - they are attacked;
@@ -141,35 +140,36 @@ A person has the right to self defence when:
 - another citizen is being attacked, or in immediate danger from an attack
 
 #### Segment 2 - Results of Self-Defence
-- Manslaughter, if a result of self-defence, may be pardoned if manslaughter was unintentional.
+A person who has been proven to use self-defence may be pardoned for any crimes that were caused due to theiir attempt at self-protection.
 
 ### Section 5 - Offences Against the Person
-
 #### Segment 1 - Assault
 Assault against a person is an offence.
 
 #### Segment 2 - Rape
-Rape against a person is an offence.
+Rape is an offence, including rape against persons and animals.
 
 #### Segment 3 - Murder
-##### Conspiracy of Murder
-Conspiring to attempt murder is an offence
-##### Attempt of Murder
-Attempt to murder is an offence
-##### Murder
+##### Segment 1 - Conspiracy of Murder
+Conspiring to attempt murder is an offence.
+
+##### Segment 2 - Attempt of Murder
+Attempt to murder is an offence, and shall ccarry the same consequences under law as murder.
+
+##### Segment 3 - Murder
 Murder is an offence
 
 #### Segment 4 - Manslaughter
-Manslaughter is an offence
+Manslaughter is an offence.
 
 #### Segment 5 - Threats
-Threats are an offence
+Threats to commit a crime are an offence, although those threats must have true intention.
 
 #### Segment 6 - Bodily Harm
-Intentional bodily harm against other persons is an offence
+Intentional bodily harm against other persons is an offence.
 
 #### Segment 7 - Against Law Enforcement
-Attacks against law enforcement is an offence
+Attacks against law enforcement is an offence.
 
 #### Segment 8 - Slavery and Servitude
 Persons who enslave or force servitude of other persons are guilty of this offence
@@ -177,16 +177,16 @@ Persons who enslave or force servitude of other persons are guilty of this offen
 Slavery is defined as a situation where a person or persons are forcefully kept in servitude to another person.
 
 #### Segment 9 - Corpses
-Indecent handling of corpses is an offence
+Indecent handling of corpses is an offence.
 
 #### Segment 10 - Abortion
 Abortion is an offence in late stages of Pregnancy, unless the mother or child is at risk of death from birth
 
 #### Segment 11 - Child Abuse
-Physical and mental abuse of children an offence
+Physical and mental abuse of children an offence.
 
 #### Segment 12 - Unlawful Images
-Holding unlawful images of persons genitals, without their permission is an offence
+Holding unlawful images of persons genitals, without their permission or knowledge is an offence. 
 
 ### Section 6 - Public Order
 
@@ -219,7 +219,6 @@ Purposeful contamination of goods is an offence.
 #### Segment 8 - Consorting
 
 ### Section 6 - Stealing
-
 #### Segment 1 - Stealing
 Stealing is an offence.
 
@@ -227,8 +226,6 @@ Stealing is an offence.
 Robbery is an offence.
 ##### Definition
 Robbery is defined as stealing with threat of violation of the public peace.
-
-#### Segment 3 - Demanding Property
 
 #### Segment 4 - House Breaking
 House breaking is an offence.
@@ -243,19 +240,17 @@ Grand theft auto is defined as the stealing of an vehicle with the intent to dep
 #### Segment 6 - Receiving
 
 ### Section 7 - Fraud
-
 #### Segment 1 - General
 
 #### Segment 2 - Forgery
 
 #### Segment 3 - Pyramid Schemes
-Creating a pyramid scheme is an offence.
+Creating or operating a pyramid scheme is an offence.
 
 #### Segment 4 - Ponzi Schemes
-Creating a ponzi scheme is an offence.
+Creating or operating a ponzi scheme is an offence.
 
 ### Section 8 - Identity Offences
-
 #### Segment 1 - General
 
 ### Section 9 - Digital Offences
