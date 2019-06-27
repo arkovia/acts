@@ -101,7 +101,7 @@ The jurisdiction of this Act is under the jurisdiction of the `Crimes EGI`.
 Whoever commits an offense against Arkovia or aids, abets, counsels, commands, induces or procures its commission, is punishable as a principal.
 
 #### Segment 2 - Willful Causation
-Whoever willfully causes an act to be done which if directly performed by him or another would be an offense against the United States, is punishable as a principal.
+Whoever willfully causes an act to be done which if directly performed by them or another would be an offense against Arkovia, is punishable as a principal.
 
 ### Section 2 - Accessory After the Fact
 #### Segment 1 - General
