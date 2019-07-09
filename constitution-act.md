@@ -3,12 +3,10 @@
 
 ## Part 1: Foundation
 ### Section 1: Preamble
-
-We, the citizens of Arkovia, choose to establish this constitution, in order to establish a nation & country which aims to: 
-- Advance towards the future
-- Advance in technology and infrastructure
-- Start a simplistic & pragmatic approach to politics
-- Start a true direct democracy
+We, the citizens of Arkovia, choose to establish this constitution, in order to:
+- Establish a nation & government 
+- Improving living standards with technology and modern infrastructure
+- Create a fairer system of governance, using direct democracy
 - Promote the welfare of our citizens
 - Secure the right to our universal-given land
 
