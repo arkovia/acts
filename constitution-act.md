@@ -77,7 +77,6 @@ Arkovia's official language is **Australian English** `en-au`
 - The flag has a ratio of 1:2, 1 being height, 2 being width.
 - The center of Arkovia's Flag shall be the Ark, coloured white.
 - The right side of the flag shall be the Southern Cross, coloured white.
-The 
 - The bottom-left-to-top-middle side of the flag shall include the thick line, coloured white.
 - The main background shall be coloured blue
 - The top-left background shall be coloured red
