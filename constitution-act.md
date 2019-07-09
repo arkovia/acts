@@ -166,8 +166,8 @@ For legislative matters:
 
 1. Gen proposes a law change.
 2. If the law change is urgent then:
-  - Gens may have a vote to reduce the direct democracy voting period down to 9 hours.
-  - If the vote passes with atleast `75%+` approval in the genesis council, then the law is proposed as a fast law.
+    - Gens may have a vote to reduce the direct democracy voting period down to 9 hours.
+    - If the vote passes with atleast `75%+` approval in the genesis council, then the law is proposed as a fast law.
 3. The law is proposed to the direct democracy.
 
 #### Segment 2: Initiatives
