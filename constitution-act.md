@@ -1,67 +1,10 @@
+
 # Constitution Act
-
-## Table of Contents
-- [Constitution Act](#constitution-act)
-  - [Table of Contents](#table-of-contents)
-  - [Part 1: Foundation](#part-1-foundation)
-    - [Section 1: Preamble](#section-1-preamble)
-    - [Section 2: Purpose](#section-2-purpose)
-      - [Segment 1: Purpose of the Constitution](#segment-1-purpose-of-the-constitution)
-      - [Segment 2: Purpose of Arkovia](#segment-2-purpose-of-arkovia)
-    - [Section 3: Interpretations](#section-3-interpretations)
-    - [Section 4: Constitutional Amendments](#section-4-constitutional-amendments)
-      - [Segment 1: Parts Subject to Amendments](#segment-1-parts-subject-to-amendments)
-      - [Segment 2: Amendment Process](#segment-2-amendment-process)
-      - [Segment 3: Genesis Council Amendments](#segment-3-genesis-council-amendments)
-  - [Part 2: National Profile](#part-2-national-profile)
-    - [Section 1: General](#section-1-general)
-      - [Segment 1: Name](#segment-1-name)
-      - [Segment 2: Motto](#segment-2-motto)
-      - [Segment 3: Capital](#segment-3-capital)
-      - [Segment 4: Language](#segment-4-language)
-    - [Section 2: Flag](#section-2-flag)
-      - [Segment 1: Colours](#segment-1-colours)
-      - [Segment 2: Design Placement](#segment-2-design-placement)
-  - [Part 3: National Philosophy](#part-3-national-philosophy)
-    - [Section 1: Secular State](#section-1-secular-state)
-    - [Section 2: Free Education](#section-2-free-education)
-    - [Section 3: Welfare](#section-3-welfare)
-    - [Section 4: Open Sourced Capitalism](#section-4-open-sourced-capitalism)
-    - [Section 5: Patriotism](#section-5-patriotism)
-    - [Section 6: Direct Democracy](#section-6-direct-democracy)
-    - [Section 7: Community Cooperation](#section-7-community-cooperation)
-    - [Section 8: Transparency](#section-8-transparency)
-    - [Section 9: Accountability](#section-9-accountability)
-  - [Part 4: Genesis Council](#part-4-genesis-council)
-    - [Section 1: Creation and Preamble](#section-1-creation-and-preamble)
-    - [Section 2: Responsibility of Genesis Council](#section-2-responsibility-of-genesis-council)
-    - [Section 3: Responsibility of a Gen](#section-3-responsibility-of-a-gen)
-    - [Section 4: Council Voting Protocol](#section-4-council-voting-protocol)
-    - [Section 5: Powers of the Genesis Council](#section-5-powers-of-the-genesis-council)
-    - [Section 6: Membership](#section-6-membership)
-      - [Segment 1: Minimum Gens](#segment-1-minimum-gens)
-      - [Segment 2: Gen Recruitment Protocol](#segment-2-gen-recruitment-protocol)
-      - [Segment 3: Gen Oath](#segment-3-gen-oath)
-      - [Segment 4: Death or Unavailability of a Gen](#segment-4-death-or-unavailability-of-a-gen)
-    - [Section 7: Amendments](#section-7-amendments)
-  - [Part 5: Arksembly](#part-5-arksembly)
-    - [Section 1: Preamble](#section-1-preamble-1)
-    - [Section 2: Rights to Vote](#section-2-rights-to-vote)
-    - [Section 3: Introduction to Initiatives](#section-3-introduction-to-initiatives)
-    - [Section 4: Initiative Process](#section-4-initiative-process)
-  - [Part 6: Law System](#part-6-law-system)
-    - [Section 1: Preamble](#section-1-preamble-2)
-    - [Section 2: Hierarchy of Legislation](#section-2-hierarchy-of-legislation)
-      - [Segment 1: Introduction](#segment-1-introduction)
-      - [Segment 2: Priority Order](#segment-2-priority-order)
-    - [Section 2: Protected Acts](#section-2-protected-acts)
-      - [Segment 1: Changes to Protected Acts](#segment-1-changes-to-protected-acts)
-      - [Segment 2: List of Protected Acts](#segment-2-list-of-protected-acts)
-
 
 ## Part 1: Foundation
 ### Section 1: Preamble
 To all to who care for the future of our civilization by advancing our government on the front of technology and to proper governance by allowing freedom and liberty for all, regardless of categorical traits.
+
 We, the citizens of Arkovia, choose to establish this constitution, in order to establish a nation & country which aims to: 
 - Advance towards the future
 - Advance in technology and infrastructure
@@ -80,15 +23,15 @@ The purpose of this constitution is to:
 - Create a simple, pragmatic direct democracy
 
 #### Segment 2: Purpose of Arkovia
-Arkovia's purpose is to:
+Arkovia's purposes are unlimited. Some key purposes are to:
 - Start a social democracy and provide sufficient safety nets for citizens
 - Start a government where citizens have true democratic power
 - Start a new community where citizens feel welcomed
 - Start something where citizens can feel part of something big
 - Improve standards of living through technology and infrastructure
-- Help citizens of the pacific islands from sinking islands
+- Help citizens of the pacific islands from raising sea levels.
 - Help homeless people across Australia and within Arkovia
-- Help give citizens a meaning and purpose
+- Help give citizens a bigger meaning and purpose
 - Remove corporate corruption found in representative democracies
 - Remove thick bureaucracy by applying use of digital governance
 
@@ -100,15 +43,14 @@ All questions regarding the interpretation of this Constitution shall be decided
 All parts of this constitution and it's protected acts are subject to change through amendment unless explicitly stated in the document.
 
 #### Segment 2: Amendment Process
-The process to amend the constitution is as follows:
+The process to amend the constitution or any of it's protected acts is as follows:
 
-1. A proposed change, where at least `20%` of the national population participates with an approval of at least `50% + 1`.
-2. There must not be more than 2 current active changes. If there are more than 2 active changes, a queue will be formed, in the order of highest approval.
-3. Active changes must undergo a national compulsory vote, where `50% + 1` of the population must approve.
-4. The active change becomes an accepted change and is implemented into the constitution.
+1. A change is proposed.
+2. Voting takes place for a minimum of one week, and a maximum 6 months before the result is hardened.
+2. The proposed change must attain atleast `25%+` of the voting population **plus** approval of atleast `50%+`.
+3. If the proposed change meets this criteria at any time, it becomes an accepted change and is implemented.
 
-#### Segment 3: Genesis Council Amendments
-The Genesis Council can enact instant emergency changes to the constitution by Council Vote to protect the sovereignty and stability of the country, but should generally abstain from doing so. The amendments from the Genesis Council must be approved by `75% + 1` of its members.
+Voting may continue up to `100%`, with the anti-flicker system enabled, explained further below.
 
 ## Part 2: National Profile
 ### Section 1: General
@@ -117,6 +59,7 @@ This country shall be officially referred to as **Arkovia** or **The Government 
 
 #### Segment 2: Motto
 Arkovia's official national mottos shall be:
+- The Modern Solution To Governance
 - Towards The Future
 - The Development State
 - Start Arkovia
@@ -135,6 +78,7 @@ Arkovia's official language is **Australian English** `en-au`
 - Light Blue: `#0064b4`
 
 #### Segment 2: Design Placement
+- The flag has a ratio of 1:2, 1 being height, 2 being width.
 - The center of Arkovia's Flag shall be the Ark, coloured white.
 - The right side of the flag shall be the Southern Cross, coloured white.
 The 
@@ -154,10 +98,10 @@ Arkovia will devote resources to provide welfare to citizens.
 
 Arkovia's aim is provide basic safety nets for citizens who are disabled, homeless, starving or unemployed, to help them recover, keep safe, and get back on their feet.
 
-It'll be designed to get those able to work, back to work and contributing to society.
+For those unemployed, but able to work, the welfare system will be designed to get them back to work and contributing to society.
 
-### Section 4: Open Sourced Capitalism
-Arkovia believes in open sourced capitalism, with no copyrights, or patents.
+### Section 4: Open-Sourced Capitalism
+Arkovia believes in open-sourced capitalism, with no copyrights, or patents of any kind.
 
 ### Section 5: Patriotism
 Arkovia believes in strong patriotism and will maintain full political independence.
@@ -169,7 +113,7 @@ Arkovia will provide a direct democracy with full citizen control over initiativ
 Arkovia believes in community cooperation, and collective efforts toward building, growing and developing Arkovia.
 
 ### Section 8: Transparency
-Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open sourced government software, and continuously strive to share news, developments & advancement for all.
+Arkovia will have full government transparency, except in areas where national security is involved. Arkovia aims to provide open-sourced government software, and continuously strive to share news, developments & advancement for all.
 
 ### Section 9: Accountability
 Arkovia believes in full accountability of the Government through:
@@ -186,136 +130,140 @@ Arkovia believes in full accountability of the Government through:
 
 ## Part 4: Genesis Council
 ### Section 1: Creation and Preamble
-There shall exist a Genesis Council EGI, which is a council that is to consist of the national leaders of Arkovia, referred to individually as a Gen, or plurally as Gens.
+There shall exist a Genesis Council EGI, which is a council that is comprised of the national leaders of Arkovia, referred to individually as a Gen, or plurally as Gens.
 
 ### Section 2: Responsibility of Genesis Council
 The responsibilities of the Genesis Council is to collectively:
 
 1. Ensure national security
 2. Ensure national stability
-3. Ensure continuance of the nation
-4. Create and improve legislation
+3. Ensure continuity of the nation
+4. Create, propose and improve legislation
 5. Create EGIs
 6. Delegate and provision power to EGIs
 7. Elect government EGI leaders
 8. Remove corruption and loopholes within the government
 9.  Lead the nation towards its vision
-10. Lead the nation towards a self-sustaining machine
+10. Lead the nation towards becoming a self-sustaining machine
 11. Speed up development of the nation
 
 ### Section 3: Responsibility of a Gen
-The responsibilities of a Gen is to individually:
+The responsibilities of an individual Gen is to:
 
 1. Maintain high personal integrity
-2. Maintain safety and security of the nation
-3. Maintain high quality activity
-4. Act in the nations best interests
-5. Act in the citizens best interests
-6. Cooperation and respect with other Gens
-7. Represent the nation professionally
-8. Make decisions for the nation's gain, not personal gain
-9. Engage in discussion and criticism of various ideas and systems
-10. Engage in Genesis Council votes
-11. Fulfil the responsibilities of the Genesis Council
+2. Maintain high authenticity
+3. Maintain safety and security of the nation
+4. Maintain high quality activity
+5. Act in the nations best interests
+6. Act in the citizens best interests
+7. Cooperation and respect with other Gens
+8. Represent the nation professionally with honour
+9. Make decisions for the nation's gain, not personal gain
+10. Engage in discussion and scrutinization of various ideas and systems
+11. Engage in Genesis Council votes
+12. Connect and network relevant citizens together.
+12. Fulfil the responsibilities of the Genesis Council
 
 ### Section 4: Council Voting Protocol
+
+#### Segment 1: Legislative Protocol
+For legislative matters:
+
+a. Gen proposes a law change.
+b. If the law change is urgent then:
+  1. Gens may have a vote to reduce the direct democracy voting period down to 9 hours.
+  2. If the vote passes with atleast `75%+` approval, then the law is proposed as a fast law.
+c. The law is proposed to the direct democracy.
+
+#### Segment 2: Initiatives
+For non-legislative matters:
 
 1. Initiative raised by a Gen
 2. Gens discuss initiative
 3. Gens conclude discussion
-4. Gens vote on initiative
-5. If the vote results in a win, the initiative is implemented
-
-Information:
-1. By default, the number of votes to accept an initiative is at-least `50% + 1`
+4. Gens hold a vote on whether to implement the initiative.
 
 ### Section 5: Powers of the Genesis Council
 The Genesis Council holds the powers to:
-1. Create, modify and remove legislation for Arkovia
-2. Create, modify and remove EGIs
-3. Appoint, fire and hire leaders and staff of EGIs
+1. Propose new legislation for Arkovia
+2. Propose changes to legislation.
+3. Appoint, fire and hire leaders and staff of EGIs, unless the law states otherwise.
 4. Pardon criminals
-5. Modify this part of the constitution
 
 ### Section 6: Membership
-#### Segment 1: Minimum Gens
-The Genesis Council MUST maintain at minimum 4 active and capable gens.
+#### Segment 1: Number of Gens
+- The Genesis Council MUST consist of at-least a minimum of 2 active and capable gens.
+- The Genesis Council MUST contain no more than the **square root** of the **square root** (**√√**) of the national citizen population, rounded up.
 
-1. If membership decreases below 4 Gens, follow the Recruitment Protocol.
-2. If the Gen membership drops below 3 Gens, the Direct Democracy must elect new Gens, following the Recruitment Protocol, where the council is temporarily replaced by the Direct Democracy.
+#### Segment 2: Direct Democracy Election System
+The direct democracy holds an evergreen contininous optional instant-run-off STV vote on candidates, where citizens are able to change their vote and preferences at any time.
 
-#### Segment 2: Gen Recruitment Protocol
-1. Genesis Council selects candidate
-2. Genesis Council interview and discuss candidate
-3. Genesis Council scrutinize, criticise and discuss candidate
-4. Genesis Council holds vote for candidate, where `50% +` of the Genesis Council agrees
+Any new winning candidates must swear the Gen Oath before becoming a Gen.
 
-If the initiative is accepted, the candidate takes the Gen oath and receives membership in the Genesis Council
+Candidates may apply with the Arksembly EGI, who must include them in the public candidate database.
 
 #### Segment 3: Gen Oath
-I, `FULL NAME`, solemnly take an oath to fulfill my responsibilities as a Gen to the best of my ability and swear to maintain high personal integrity to serve Arkovia, its citizens, and the nation’s best interests as a member of the Genesis Council.
+I, `FULL NAME` solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, swear to maintain high personal integrity and authenticity, to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
 
 #### Segment 4: Death or Unavailability of a Gen
-Gens may assign a heir to inherit their position in case of temporary or permanent disappearance, coma, death, or other forms of long-term unconsciousness which affects capability to fulfil responsibilities as a Gen.
+In case of temporary or permanent disappearance, coma, death, or other forms of long-term unconsciousness which affects capability to fulfil responsibilities as a Gen, they are removed from the Genesis Council, and replaced with the next winner.
 
-If a Gen has provided no heir, their position will be suspended until they become present and capable, if possible.
+The votes they have received are still retained, and valid.
 
-If the unavailable Gen becomes present and capable, they will receive their position and a vote will be held on whether to recruit the Gen's rightful heir, following the Gen Recruitment Protocol.
-
-### Section 7: Amendments
-Changes to this Part are immune to amendments. The Genesis Council may decide to amend this part through a Genesis Council Initiative where at least 75% of the Gens must accept.
+If the unavailable Gen becomes present and capable, and they still hold a winning position, then the Gen's position will be returned.
 
 ## Part 5: Arksembly
 ### Section 1: Preamble
-The Arksembly is Arkovia's Direct Democracy, it is a public assembly that consists of citizens eligible to vote. All citizens collaboratively:
+The Arksembly (Arksembly EGI) is Arkovia's Direct Democracy, it is a public assembly that consists of citizens eligible to vote. All citizens have the ability to:
 
-- Create initiatives
-- Draft legislation
-- Plan projects
-- Create EGIs
-- Elect EGI Leaders
-- Discuss & Debate
+- Draft and propose legislation
+- Elect EGI leaders where the law allows via STV.
+- Discuss & debate
 - Vote
-
-This differs from a representative democracy, where citizens vote in representatives, which then draft laws and run projects.
 
 ### Section 2: Rights to Vote
 To vote you must:
-- Be over 16 years of age
-- Be a full-citizen
+- Be over 16 years of age or emancipated
+- Be a full citizen
 - Be either a male or female
 - Not have a prison sentence above 6 years
 
-### Section 3: Introduction to Initiatives
-1. Initiatives are a collection of proposals, which may contain proposals for:
-    - Creating new legislation
-    - Removing legislation
-    - Modifying existing legislation
-    - Electing EGI leaders
-    - Starting planned projects
-    - Creating jobs
-    - Funding projects
-    - Organising timelines
-    - Project planning
+### Section 3: Legislative Process
+#### Segment 1: Proposing Changes
+1. Citizens may initiate proposals to:
+    - Create new legislation
+    - Replace or repeal legislation
+    - Modify/Supersede existing legislation
 
-2. Citizens discuss and debate the various proposals, reach conclusions and vote for, they enable the citizens to have direct control over the policies and expenditure of the country.
+2. Citizens initially propose changes, provide a description, explain the benefits, reasons, purposes and views and purposes behind the changes.
 
-3. To enact and implement initiatives, the Arksembly must follow the initiative process.
+3. Proposals enable the citizens to have direct control over the policies and laws of the country.
 
-### Section 4: Initiative Process
-1. Propose changes
-    - Citizens initially propose changes, explain the benefits, views and purposes behind the changes.
-2. Transformation stage
-    - Citizens discuss, debate, improve and criticise proposed changes
-    - Citizens use this opportunity to discuss various issues with initiatives, and improve the initiatives through the debating platform.
-3. Vote on changes
-    - Citizens use this opportunity to vote on initiatives, so they can be implemented.
-    - The initiative requires at least `20%` of the National population to vote and the initiatives approval rating must be at least `50% + 1`.
-4. Implementation
-    - The legislation is immediately passed, unless explicitly stated.
-    - If required, citizens elect EGI candidate leaders
-    - If required, EGIs are formed.
-    - Citizens and EGI Leaders fulfil projects
+#### Segment 2: Development stage
+Citizens use this opportunity to discuss, debate, improve and scruitinize proposed changes through the debating platform provided by Arksembly EGI
+
+To discuss various issues with initiatives, and improve the initiatives through the debating platform.
+
+
+#### Segment 3: Published for voting
+- At this stage, no more changes can be made to the legislation, and voting begins.
+- Voting lasts a minimum of one week.
+- Voting lasts a maximum of 2 months before results are hardened.
+- If the votes approval rating is above `50%+` after one week, it is legally valid.
+- Any further voting between the minimum and maximum dates follows the Anti-flicker system
+    
+#### Segment 2: Anti-flicker system
+
+The anti-flicker system exists to prevent laws from flickering valid and invalid during voting between the minimum and maximum voting period, which may cause logistical and legal issues.
+
+To prevent this, laws will have a tolerance point of 5%, split evenly at the center.
+
+Laws that are already approved need to go below to `47.5` before becoming invalid, and laws that are invalid need to go above `52.5` before becoming approved.
+
+#### Segment 3: Implementation
+a. After the legislation is approved, the enforcement of the legislation may begin.
+c. If required, EGIs are formed.
+b. If required, citizens elect any electable EGI positions via STV.
 
 ## Part 6: Law System
 ### Section 1: Preamble
@@ -324,6 +272,8 @@ Arkovia's form of law & legislation are **Acts**. Acts can be drafted by any cit
 ### Section 2: Hierarchy of Legislation
 #### Segment 1: Introduction
 Law follows a hierarchy of importance. Older legislation is superseded by newer legislation, and legislation like the constitution or protected acts supersede new legislation.
+
+EGIs may have the power to create and publish regulations, which are legally binding. Regulations function similarly to laws, but don't supersede them.
 
 #### Segment 2: Priority Order
 1. Constitution
@@ -342,5 +292,5 @@ Changes to the protected acts must be treated as extensions of this constitution
 The Acts with protection are listed below:
 - Human Rights Act
 - Judicial System Act
-- Cinvir Act
+- Human Services Act
 - Territories Act
