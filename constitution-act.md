@@ -27,7 +27,7 @@ Arkovia's purposes are unlimited. Some key purposes are to:
 - Improve standards of living through technology and infrastructure
 - Help citizens of the pacific islands from rising sea levels.
 - Help homeless people across Australia and within Arkovia
-- Help give citizens a bigger meaning and purpose to life
+- Help give citizens a meaning and purpose to life
 - Remove corporate corruption found in representative democracies
 - Remove thick bureaucracy by applying use of digital governance
 
