@@ -3,14 +3,13 @@
 
 ## Part 1: Foundation
 ### Section 1: Preamble
-To all to who care for the future of our civilization by advancing our government on the front of technology and to proper governance by allowing freedom and liberty for all, regardless of categorical traits.
 
 We, the citizens of Arkovia, choose to establish this constitution, in order to establish a nation & country which aims to: 
 - Advance towards the future
 - Advance in technology and infrastructure
 - Start a simplistic & pragmatic approach to politics
 - Start a true direct democracy
-- Promote the welfare of citizens
+- Promote the welfare of our citizens
 - Secure the right to our universal-given land
 
 ### Section 2: Purpose
@@ -169,11 +168,11 @@ The responsibilities of an individual Gen is to:
 #### Segment 1: Legislative Protocol
 For legislative matters:
 
-a. Gen proposes a law change.
-b. If the law change is urgent then:
-  1. Gens may have a vote to reduce the direct democracy voting period down to 9 hours.
-  2. If the vote passes with atleast `75%+` approval, then the law is proposed as a fast law.
-c. The law is proposed to the direct democracy.
+1. Gen proposes a law change.
+2. If the law change is urgent then:
+  - Gens may have a vote to reduce the direct democracy voting period down to 9 hours.
+  - If the vote passes with atleast `75%+` approval in the genesis council, then the law is proposed as a fast law.
+3. The law is proposed to the direct democracy.
 
 #### Segment 2: Initiatives
 For non-legislative matters:
