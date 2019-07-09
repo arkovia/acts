@@ -42,7 +42,7 @@ All parts of this constitution and it's protected acts are subject to change thr
 The process to amend the constitution or any of it's protected acts is as follows:
 
 1. A change is proposed.
-2. Voting takes place for a minimum of one week, and a maximum 6 months before the result is hardened.
+2. Voting takes place for a minimum of one week, and a maximum 6 months before the result is finalised.
 2. The proposed change must attain atleast `25%+` of the voting population **plus** approval of atleast `50%+`.
 3. If the proposed change meets this criteria at any time, it becomes an accepted change and is implemented.
 
@@ -244,7 +244,7 @@ To discuss various issues with initiatives, and improve the initiatives through 
 #### Segment 3: Published for voting
 - At this stage, no more changes can be made to the legislation, and voting begins.
 - Voting lasts a minimum of one week.
-- Voting lasts a maximum of 2 months before results are hardened.
+- Voting lasts a maximum of 2 months before results are finalised.
 - If the votes approval rating is above `50%+` after one week, it is legally valid.
 - Any further voting between the minimum and maximum dates follows the Anti-flicker system
     
