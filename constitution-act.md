@@ -173,7 +173,7 @@ For legislative matters:
 #### Segment 2: Initiatives
 For non-legislative matters:
 
-1. Initiative raised by a Gen
+1. Initiative is raised by a Gen
 2. Gens discuss initiative
 3. Gens conclude discussion
 4. Gens hold a vote on whether to implement the initiative.
@@ -182,8 +182,9 @@ For non-legislative matters:
 The Genesis Council holds the powers to:
 1. Propose new legislation for Arkovia
 2. Propose changes to legislation.
-3. Appoint, fire and hire leaders and staff of EGIs, unless the law states otherwise.
-4. Pardon criminals
+3. Propose a repeal or replacement of existing legislation
+4. Appoint, fire and hire leaders and staff of EGIs, unless the law states otherwise.
+5. Pardon criminals
 
 ### Section 6: Membership
 #### Segment 1: Number of Gens
@@ -191,11 +192,11 @@ The Genesis Council holds the powers to:
 - The Genesis Council MUST contain no more than the **square root** of the **square root** (**√√**) of the national citizen population, rounded up.
 
 #### Segment 2: Direct Democracy Election System
-The direct democracy holds an evergreen contininous optional instant-run-off STV vote on candidates, where citizens are able to change their vote and preferences at any time.
+The direct democracy holds an evergreen contininous optional Single-Transferable-Voting (instant-run-off) vote on candidates, where citizens are able to change their vote and preferences at any time.
 
 Any new winning candidates must swear the Gen Oath before becoming a Gen.
 
-Candidates may apply with the Arksembly EGI, who must include them in the public candidate database.
+Candidates may apply with the Arksembly EGI, who must include them in the public candidate database, where citizens will be able to vote for them.
 
 #### Segment 3: Gen Oath
 I, `FULL NAME` solemnly take an oath to fulfil my responsibilities as a Gen, to the best of my ability, swear to maintain high personal integrity and authenticity, to serve Arkovia, it's citizens and the nations best interests, as a member of the Genesis Council.
@@ -209,25 +210,24 @@ If the unavailable Gen becomes present and capable, and they still hold a winnin
 
 ## Part 5: Arksembly
 ### Section 1: Preamble
-The Arksembly (Arksembly EGI) is Arkovia's Direct Democracy, it is a public assembly that consists of citizens eligible to vote. All citizens have the ability to:
+The Arksembly (Arksembly EGI) is Arkovia's Direct Democracy, it is a public assembly that consists of citizens eligible to vote. All eligable voting citizens have the ability to:
 
 - Draft and propose legislation
-- Elect EGI leaders where the law allows via STV.
+- Elect EGI leaders where the law allows using optional Single-Transferable-Voting (instant-run-off).
 - Discuss & debate
 - Vote
 
-### Section 2: Rights to Vote
+### Section 2: Eligiblity to Vote
 To vote you must:
 - Be over 16 years of age or emancipated
 - Be a full citizen
-- Be either a male or female
 - Not have a prison sentence above 6 years
 
 ### Section 3: Legislative Process
 #### Segment 1: Proposing Changes
 1. Citizens may initiate proposals to:
     - Create new legislation
-    - Replace or repeal legislation
+    - Replace or repeal existing legislation
     - Modify/Supersede existing legislation
 
 2. Citizens initially propose changes, provide a description, explain the benefits, reasons, purposes and views and purposes behind the changes.
@@ -237,32 +237,30 @@ To vote you must:
 #### Segment 2: Development stage
 Citizens use this opportunity to discuss, debate, improve and scruitinize proposed changes through the debating platform provided by Arksembly EGI
 
-To discuss various issues with initiatives, and improve the initiatives through the debating platform.
-
-
 #### Segment 3: Published for voting
+- The drafter chooses to publish the legislative draft
 - At this stage, no more changes can be made to the legislation, and voting begins.
 - Voting lasts a minimum of one week.
 - Voting lasts a maximum of 2 months before results are finalised.
 - If the votes approval rating is above `50%+` after one week, it is legally valid.
 - Any further voting between the minimum and maximum dates follows the Anti-flicker system
     
-#### Segment 2: Anti-flicker system
+#### Segment 4: Anti-flicker system
 
 The anti-flicker system exists to prevent laws from flickering valid and invalid during voting between the minimum and maximum voting period, which may cause logistical and legal issues.
 
-To prevent this, laws will have a tolerance point of 5%, split evenly at the center.
+To prevent this, laws will have a tolerance point of `5%`, split evenly at the center.
 
-Laws that are already approved need to go below to `47.5` before becoming invalid, and laws that are invalid need to go above `52.5` before becoming approved.
+Laws that are already approved need to go below to `47.5%` before becoming invalid, and laws that are invalid need to go above `52.5%` before becoming approved.
 
 #### Segment 3: Implementation
 a. After the legislation is approved, the enforcement of the legislation may begin.
-c. If required, EGIs are formed.
-b. If required, citizens elect any electable EGI positions via STV.
+c. If required, EGIs are formed by the Business EGI.
+b. If required, citizens elect any electable EGI positions using optional Single-Transferable-Voting (instant-run-off) system.
 
 ## Part 6: Law System
 ### Section 1: Preamble
-Arkovia's form of law & legislation are **Acts**. Acts can be drafted by any citizens and when approved by the Arksembly or the Genesis Council, they become legally binding.
+Arkovia's form of law & legislation are **Acts**. Acts can be drafted by any citizens and when approved by the Arksembly they become legally binding.
 
 ### Section 2: Hierarchy of Legislation
 #### Segment 1: Introduction
