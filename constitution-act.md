@@ -277,7 +277,7 @@ EGIs may have the power to create and publish regulations, which are legally bin
 6. Standards
 7. Guidelines
 
-### Section 2: Protected Acts
+### Section 3: Protected Acts
 #### Segment 1: Changes to Protected Acts
 Changes to the protected acts must be treated as extensions of this constitution and subject to the same protocol of Constitutional Amendments. Illegal modifications that do not follow the constitutional amendment protocol are rendered invalid.
 
