@@ -254,9 +254,9 @@ To prevent this, laws will have a tolerance point of `5%`, split evenly at the c
 Laws that are already approved need to go below to `47.5%` before becoming invalid, and laws that are invalid need to go above `52.5%` before becoming approved.
 
 #### Segment 3: Implementation
-a. After the legislation is approved, the enforcement of the legislation may begin.
-c. If required, EGIs are formed by the Business EGI.
-b. If required, citizens elect any electable EGI positions using optional Single-Transferable-Voting (instant-run-off) system.
+1. After the legislation is approved, the enforcement of the legislation may begin.
+2. If required, EGIs are formed by the Business EGI.
+3. If required, citizens elect any electable EGI positions using optional Single-Transferable-Voting (instant-run-off) system.
 
 ## Part 6: Law System
 ### Section 1: Preamble
