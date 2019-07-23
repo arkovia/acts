@@ -1,6 +1,72 @@
 
 # Constitution Act
 
+## Table Of Contents
+- [Constitution Act](#Constitution-Act)
+  - [Table Of Contents](#Table-Of-Contents)
+  - [Part 1: Foundation](#Part-1-Foundation)
+    - [Section 1: Preamble](#Section-1-Preamble)
+    - [Section 2: Purpose](#Section-2-Purpose)
+      - [Segment 1: Purpose of the Constitution](#Segment-1-Purpose-of-the-Constitution)
+      - [Segment 2: Purpose of Arkovia](#Segment-2-Purpose-of-Arkovia)
+    - [Section 3: Interpretations](#Section-3-Interpretations)
+    - [Section 4: Constitutional Amendments](#Section-4-Constitutional-Amendments)
+      - [Segment 1: Parts Subject to Amendments](#Segment-1-Parts-Subject-to-Amendments)
+      - [Segment 2: Amendment Process](#Segment-2-Amendment-Process)
+  - [Part 2: National Profile](#Part-2-National-Profile)
+    - [Section 1: General](#Section-1-General)
+      - [Segment 1: Name](#Segment-1-Name)
+      - [Segment 2: Motto](#Segment-2-Motto)
+      - [Segment 3: Capital](#Segment-3-Capital)
+      - [Segment 4: Language](#Segment-4-Language)
+    - [Section 2: Flag](#Section-2-Flag)
+      - [Segment 1: Colours](#Segment-1-Colours)
+      - [Segment 2: Design Placement](#Segment-2-Design-Placement)
+  - [Part 3: National Philosophy](#Part-3-National-Philosophy)
+    - [Section 1: Secular State](#Section-1-Secular-State)
+    - [Section 2: Free Education](#Section-2-Free-Education)
+    - [Section 3: Welfare](#Section-3-Welfare)
+    - [Section 4: Open-Sourced Capitalism](#Section-4-Open-Sourced-Capitalism)
+    - [Section 5: Patriotism](#Section-5-Patriotism)
+    - [Section 6: Direct Democracy](#Section-6-Direct-Democracy)
+    - [Section 7: Community Cooperation](#Section-7-Community-Cooperation)
+    - [Section 8: Transparency](#Section-8-Transparency)
+    - [Section 9: Accountability](#Section-9-Accountability)
+  - [Part 4: Arksembly](#Part-4-Arksembly)
+    - [Section 1: Preamble](#Section-1-Preamble-1)
+    - [Section 2: Incorporation](#Section-2-Incorporation)
+      - [Segment 1: Preamble](#Segment-1-Preamble)
+      - [Segment 2: Positions](#Segment-2-Positions)
+      - [Segment 3: Scruitinizers](#Segment-3-Scruitinizers)
+      - [Segment 4: Prime Executive Minister](#Segment-4-Prime-Executive-Minister)
+    - [Section 3: Eligiblity to Vote](#Section-3-Eligiblity-to-Vote)
+    - [Section 4: Legislative Process](#Section-4-Legislative-Process)
+      - [Segment 1: Development stage](#Segment-1-Development-stage)
+      - [Segment 2: Petition stage](#Segment-2-Petition-stage)
+      - [Segment 3: Published for voting](#Segment-3-Published-for-voting)
+      - [Segment 5: Implementation](#Segment-5-Implementation)
+  - [Part 5: Genesis Council](#Part-5-Genesis-Council)
+    - [Section 1: Creation and Preamble](#Section-1-Creation-and-Preamble)
+    - [Section 2: Responsibility of Genesis Council](#Section-2-Responsibility-of-Genesis-Council)
+    - [Section 3: Responsibility of a Gen](#Section-3-Responsibility-of-a-Gen)
+    - [Section 4: Council Voting Protocol](#Section-4-Council-Voting-Protocol)
+      - [Segment 1: Legislative Protocol](#Segment-1-Legislative-Protocol)
+      - [Segment 2: Initiatives](#Segment-2-Initiatives)
+    - [Section 5: Powers of the Genesis Council](#Section-5-Powers-of-the-Genesis-Council)
+    - [Section 6: Membership](#Section-6-Membership)
+      - [Segment 1: Number of Gens](#Segment-1-Number-of-Gens)
+      - [Segment 2: Direct Democracy Election System](#Segment-2-Direct-Democracy-Election-System)
+      - [Segment 3: Gen Oath](#Segment-3-Gen-Oath)
+      - [Segment 4: Death or Unavailability of a Gen](#Segment-4-Death-or-Unavailability-of-a-Gen)
+  - [Part 6: Law System](#Part-6-Law-System)
+    - [Section 1: Preamble](#Section-1-Preamble-2)
+    - [Section 2: Hierarchy of Legislation](#Section-2-Hierarchy-of-Legislation)
+      - [Segment 1: Introduction](#Segment-1-Introduction)
+      - [Segment 2: Priority Order](#Segment-2-Priority-Order)
+    - [Section 3: Protected Acts](#Section-3-Protected-Acts)
+      - [Segment 1: Changes to Protected Acts](#Segment-1-Changes-to-Protected-Acts)
+      - [Segment 2: List of Protected Acts](#Segment-2-List-of-Protected-Acts)
+
 ## Part 1: Foundation
 ### Section 1: Preamble
 We, the citizens of Arkovia, choose to establish this constitution, in order to:
@@ -43,8 +109,8 @@ The process to amend the constitution or any of it's protected acts is as follow
 
 1. A change is proposed.
 2. Voting takes place for a minimum of one week, and a maximum 6 months before the result is finalised.
-2. The proposed change must attain atleast `25%+` of the voting population **plus** approval of atleast `50%+`.
-3. If the proposed change meets this criteria at any time, it becomes an accepted change and is implemented.
+3. The proposed change must attain atleast `25%+` of the voting population **plus** approval of atleast `50%+`.
+4. If the proposed change meets this criteria at any time, it becomes an accepted change and is implemented.
 
 Voting may continue up to `100%`, with the anti-flicker system enabled, explained further below.
 
@@ -123,7 +189,63 @@ Arkovia believes in full accountability of the Government through:
 - People-driven work
 - Empowered and effective employees
 
-## Part 4: Genesis Council
+## Part 4: Arksembly
+### Section 1: Preamble
+The Arksembly (Arksembly EGI) is Arkovia's Direct Democracy, it is a public assembly that consists of citizens eligible to vote. All eligible citizens have the ability to:
+
+- Draft and propose legislation
+- Elect EGI leaders where the law allows using optional Single-Transferable-Voting (instant-run-off).
+- Discuss & debate
+- Vote
+
+### Section 2: Incorporation
+#### Segment 1: Preamble
+There shall exist an Arksembly EGI
+
+#### Segment 2: Positions
+- There shall exist 3 seats for scruitinizers elected by STV
+- There shall exist a Prime Executive Minister (PEM) for the Arksembly EGI, elected by STV
+#### Segment 3: Scruitinizers
+The Powers of Scruitinizers are:
+
+- Full authority to independently examine, audit and inspect the voting system for corruption
+- Full authority to independently inspect and audit the EGI, it's systems, processes, finances and staff.
+- Independently publish public official reports on the integrity of the system
+- File a lawsuit against the Prime Executive Minister in the Supreme Court
+
+#### Segment 4: Prime Executive Minister
+The PEM of the Arksembly EGI has full executive powers to develop and run the Arksembly. The Arksembly must receive funding from the government where reasonable to manage it's operations.
+
+### Section 3: Eligiblity to Vote
+To vote you must:
+- Be over 16 years of age or emancipated
+- Be a full citizen
+
+### Section 4: Legislative Process
+#### Segment 1: Development stage
+Citizens use this opportunity to:
+
+- Create new legislation
+- Replace or repeal existing legislation
+- Modify/Supersede existing legislation
+
+They may draft, discuss, debate, improve and scruitinize the changes through the legislation development & debating platform provided by Arksembly EGI
+
+#### Segment 2: Petition stage
+Citizens may publish their draft for petition, and need to gather signatures before being published for voting. The number of signatures required is the **square root (√) of the voting population rounded up to the decimal.**
+
+During this stage, the proposed legislation may be scruitinized, but no more changes may be done to the draft.
+
+#### Segment 3: Published for voting
+- A simple majority vote begins, and citizens have one week to vote.
+- If the votes approval rating is above `50%+` after one week, the legislation is approved.
+
+#### Segment 5: Implementation
+1. After the legislation is approved, the enforcement of the legislation may begin.
+2. If required, EGIs are formed by the Business EGI.
+3. If required, citizens elect any electable EGI positions using optional Single-Transferable-Voting (instant-run-off) system.
+
+## Part 5: Genesis Council
 ### Section 1: Creation and Preamble
 There shall exist a Genesis Council EGI, which is a council that is comprised of the national leaders of Arkovia, referred to individually as a Gen, or plurally as Gens.
 
@@ -208,55 +330,6 @@ The votes they have received are still retained, and valid.
 
 If the unavailable Gen becomes present and capable, and they still hold a winning position, then the Gen's position will be returned.
 
-## Part 5: Arksembly
-### Section 1: Preamble
-The Arksembly (Arksembly EGI) is Arkovia's Direct Democracy, it is a public assembly that consists of citizens eligible to vote. All eligable voting citizens have the ability to:
-
-- Draft and propose legislation
-- Elect EGI leaders where the law allows using optional Single-Transferable-Voting (instant-run-off).
-- Discuss & debate
-- Vote
-
-### Section 2: Eligiblity to Vote
-To vote you must:
-- Be over 16 years of age or emancipated
-- Be a full citizen
-- Not have a prison sentence above 6 years
-
-### Section 3: Legislative Process
-#### Segment 1: Proposing Changes
-1. Citizens may initiate proposals to:
-    - Create new legislation
-    - Replace or repeal existing legislation
-    - Modify/Supersede existing legislation
-
-2. Citizens initially propose changes, provide a description, explain the benefits, reasons, purposes and views and purposes behind the changes.
-
-3. Proposals enable the citizens to have direct control over the policies and laws of the country.
-
-#### Segment 2: Development stage
-Citizens use this opportunity to discuss, debate, improve and scruitinize proposed changes through the debating platform provided by Arksembly EGI
-
-#### Segment 3: Published for voting
-- The drafter chooses to publish the legislative draft
-- At this stage, no more changes can be made to the legislation, and voting begins.
-- Voting lasts a minimum of one week.
-- Voting lasts a maximum of 2 months before results are finalised.
-- If the votes approval rating is above `50%+` after one week, it is legally valid.
-- Any further voting between the minimum and maximum dates follows the Anti-flicker system
-    
-#### Segment 4: Anti-flicker system
-
-The anti-flicker system exists to prevent laws from flickering valid and invalid during voting between the minimum and maximum voting period, which may cause logistical and legal issues.
-
-To prevent this, laws will have a tolerance point of `5%`, split evenly at the center.
-
-Laws that are already approved need to go below to `47.5%` before becoming invalid, and laws that are invalid need to go above `52.5%` before becoming approved.
-
-#### Segment 3: Implementation
-1. After the legislation is approved, the enforcement of the legislation may begin.
-2. If required, EGIs are formed by the Business EGI.
-3. If required, citizens elect any electable EGI positions using optional Single-Transferable-Voting (instant-run-off) system.
 
 ## Part 6: Law System
 ### Section 1: Preamble
@@ -286,4 +359,3 @@ The Acts with protection are listed below:
 - Human Rights Act
 - Judicial System Act
 - Human Services Act
-- Territories Act
